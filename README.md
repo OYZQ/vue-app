@@ -30,9 +30,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ![movie](https://github.com/OYZQ/vue-app/blob/master/static/img/movie.png)
 
-> ![moviedata](https://github.com/OYZQ/vue-app/blob/master/static/img/moviedata.png)
->
-> 
+![moviedata](https://github.com/OYZQ/vue-app/blob/master/static/img/moviedata.png)
 
 ![moviebuy](https://github.com/OYZQ/vue-app/blob/master/static/img/moviebuy.png)
 
