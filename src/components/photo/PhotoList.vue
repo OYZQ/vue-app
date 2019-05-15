@@ -3,7 +3,7 @@
         <div class="nav">
             <h3>为您推荐</h3>
         </div>
-        <li v-for="photo in photoList" :key="photo.id">
+        <li v-for="photo in photoList" >
             <div class="content">
                 <div class="left">
                     <img :src="photo.url1" alt="">
@@ -70,6 +70,7 @@
         color: #999999;
         text-align:center;
         background-color: #FAFAFA;
+        line-height: 1rem;
     }
     .list{
         margin: 1rem 0;
