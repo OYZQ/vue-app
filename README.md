@@ -26,27 +26,29 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 #### 电影模块
 
-> 总共三级路由，实现分页加载
+总共三级路由，实现分页加载
 
-![1557902420688](C:\Users\ouyang\AppData\Roaming\Typora\typora-user-images\1557902420688.png)
+![movie](H:\vue-app\app\static\img\movie.png)
 
-![1557902519638](C:\Users\ouyang\AppData\Roaming\Typora\typora-user-images\1557902519638.png)
+> ![moviedata](H:\vue-app\app\static\img\moviedata.png)
+>
+> 
 
-![1557902528628](C:\Users\ouyang\AppData\Roaming\Typora\typora-user-images\1557902528628.png)
+![moviebuy](H:\vue-app\app\static\img\moviebuy.png)
 
 #### 音乐模块
 
 > 点击列表跳转到二级路由，会自动播放第一首歌曲，并实现歌词同步
 
-![1557902450120](C:\Users\ouyang\AppData\Roaming\Typora\typora-user-images\1557902450120.png)
+![music](H:\vue-app\app\static\img\music.png)
 
-![1557902544070](C:\Users\ouyang\AppData\Roaming\Typora\typora-user-images\1557902544070.png)
+![musicdata](H:\vue-app\app\static\img\musicdata.png)
 
 #### 书籍模块
 
-![1557902464261](C:\Users\ouyang\AppData\Roaming\Typora\typora-user-images\1557902464261.png)
+![book](H:\vue-app\app\static\img\book.png)
 
 #### 图片模块
 
-![1557902490382](C:\Users\ouyang\AppData\Roaming\Typora\typora-user-images\1557902490382.png)
+![photo](H:\vue-app\app\static\img\photo.jpg)
 
