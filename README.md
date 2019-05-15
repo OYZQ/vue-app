@@ -28,27 +28,27 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 总共三级路由，实现分页加载
 
-![movie](H:\vue-app\app\static\img\movie.png)
+![movie](https://github.com/OYZQ/vue-app/blob/master/static/img/movie.png)
 
-> ![moviedata](H:\vue-app\app\static\img\moviedata.png)
+> ![moviedata](https://github.com/OYZQ/vue-app/blob/master/static/img/moviedata.png)
 >
 > 
 
-![moviebuy](H:\vue-app\app\static\img\moviebuy.png)
+![moviebuy](https://github.com/OYZQ/vue-app/blob/master/static/img/moviebuy.png)
 
 #### 音乐模块
 
 > 点击列表跳转到二级路由，会自动播放第一首歌曲，并实现歌词同步
 
-![music](H:\vue-app\app\static\img\music.png)
+![music](https://github.com/OYZQ/vue-app/blob/master/static/img/music.png)
 
-![musicdata](H:\vue-app\app\static\img\musicdata.png)
+![musicdata](https://github.com/OYZQ/vue-app/blob/master/static/img/musicdata.png)
 
 #### 书籍模块
 
-![book](H:\vue-app\app\static\img\book.png)
+![book](https://github.com/OYZQ/vue-app/blob/master/static/img/book.png)
 
 #### 图片模块
 
-![photo](H:\vue-app\app\static\img\photo.jpg)
+![photo](https://github.com/OYZQ/vue-app/blob/master/static/img/photo.jpg)
 
