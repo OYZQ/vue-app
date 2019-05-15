@@ -1,11 +1,11 @@
 <template>
-   <div>
-       <common-header>
-           <span slot="title">Movie</span>
-       </common-header>
+    <div>
+        <common-header bg="rgb(0,150,136)">
+            <span slot="title">Music</span>
+        </common-header>
         <router-view></router-view>
-       <common-footer></common-footer>
-   </div>
+        <common-footer bg="rgb(0,150,136)"></common-footer>
+    </div>
 </template>
 
 <script>
@@ -17,7 +17,6 @@
             CommonFooter
         }
     }
-
 </script>
 
 <style scoped>

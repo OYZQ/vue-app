@@ -1,0 +1,1635 @@
+{
+  "req_1": {
+    "data": {
+      "ct": 23,
+      "cv": 0,
+      "ip": 1752747226,
+      "musicid": -2584559058,
+      "tracks": [
+        {
+          "action": {
+            "alert": 2,
+            "icons": 139132,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 14,
+            "msgpay": 6,
+            "msgshare": 0,
+            "switch": 17413891
+          },
+          "album": {
+            "id": 6744073,
+            "mid": "001TvsKU2kH1Dv",
+            "name": "加勒比海的樱花树",
+            "subtitle": "",
+            "time_public": "2019-05-09",
+            "title": "加勒比海的樱花树"
+          },
+          "bpm": 113,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "002SVs322spuxh",
+            "size_128mp3": 2900012,
+            "size_192aac": 4401491,
+            "size_192ogg": 4437764,
+            "size_24aac": 563872,
+            "size_320mp3": 7249354,
+            "size_48aac": 1108450,
+            "size_96aac": 2225583,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 22176082,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 0,
+            "try_end": 0,
+            "url": ""
+          },
+          "fnote": 4009,
+          "genre": 1,
+          "id": 232050854,
+          "index_album": 1,
+          "index_cd": 0,
+          "interval": 181,
+          "isonly": 0,
+          "ksong": {
+            "id": 5715817,
+            "mid": "002CmDS44fZdAO"
+          },
+          "label": "0",
+          "language": 0,
+          "mid": "002SVs322spuxh",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 0,
+            "name": "",
+            "title": "",
+            "vid": ""
+          },
+          "name": "加勒比海的樱花树",
+          "pay": {
+            "pay_down": 1,
+            "pay_month": 1,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 200,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 5555,
+              "mid": "004TyZNx4EGSnO",
+              "name": "厉娜",
+              "title": "厉娜",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "status": 0,
+          "subtitle": "",
+          "time_public": "2019-05-09",
+          "title": "加勒比海的樱花树",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream0.qqmusic.qq.com/244050854.wma",
+          "version": 0,
+          "volume": {
+            "gain": -11.77400016784668,
+            "lra": 5.250999927520752,
+            "peak": 1
+          }
+        },
+        {
+          "action": {
+            "alert": 2,
+            "icons": 139132,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 14,
+            "msgpay": 6,
+            "msgshare": 0,
+            "switch": 17413891
+          },
+          "album": {
+            "id": 5503214,
+            "mid": "00262Ghp2feT3N",
+            "name": "Come On, Liar",
+            "subtitle": "",
+            "time_public": "2018-12-07",
+            "title": "Come On, Liar"
+          },
+          "bpm": 130,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "002PTDqh2h6Poa",
+            "size_128mp3": 4031470,
+            "size_192aac": 6102658,
+            "size_192ogg": 5844980,
+            "size_24aac": 784132,
+            "size_320mp3": 10078295,
+            "size_48aac": 1544957,
+            "size_96aac": 3089243,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 26808074,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 44666,
+            "try_end": 76302,
+            "url": ""
+          },
+          "fnote": 4009,
+          "genre": 1,
+          "id": 224551567,
+          "index_album": 1,
+          "index_cd": 0,
+          "interval": 251,
+          "isonly": 0,
+          "ksong": {
+            "id": 5070190,
+            "mid": "003YRXyF2VB6rt"
+          },
+          "label": "0",
+          "language": 5,
+          "mid": "002PTDqh2h6Poa",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 0,
+            "name": "",
+            "title": "",
+            "vid": ""
+          },
+          "name": "Come On, Liar",
+          "pay": {
+            "pay_down": 1,
+            "pay_month": 1,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 200,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 157821,
+              "mid": "001fHe3P3HNKBJ",
+              "name": "高姗",
+              "title": "高姗",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "status": 0,
+          "subtitle": "",
+          "time_public": "2018-12-07",
+          "title": "Come On, Liar",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream4.qqmusic.qq.com/236551567.wma",
+          "version": 0,
+          "volume": {
+            "gain": -9.222000122070313,
+            "lra": 5.811999797821045,
+            "peak": 1
+          }
+        },
+        {
+          "action": {
+            "alert": 2,
+            "icons": 139132,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 14,
+            "msgpay": 6,
+            "msgshare": 0,
+            "switch": 17413891
+          },
+          "album": {
+            "id": 5725963,
+            "mid": "003qWVje0RdzNl",
+            "name": "见你一面",
+            "subtitle": "",
+            "time_public": "2019-01-01",
+            "title": "见你一面"
+          },
+          "bpm": 60,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "002CJIg01yHquI",
+            "size_128mp3": 5582046,
+            "size_192aac": 8447704,
+            "size_192ogg": 7718032,
+            "size_24aac": 1081950,
+            "size_320mp3": 13954814,
+            "size_48aac": 2123861,
+            "size_96aac": 4251221,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 38386741,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 0,
+            "try_end": 0,
+            "url": ""
+          },
+          "fnote": 4009,
+          "genre": 1,
+          "id": 226399034,
+          "index_album": 1,
+          "index_cd": 0,
+          "interval": 348,
+          "isonly": 1,
+          "ksong": {
+            "id": 5134950,
+            "mid": "0039LfQS4eWA9V"
+          },
+          "label": "0",
+          "language": 0,
+          "mid": "002CJIg01yHquI",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 0,
+            "name": "",
+            "title": "",
+            "vid": ""
+          },
+          "name": "见你一面",
+          "pay": {
+            "pay_down": 1,
+            "pay_month": 1,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 200,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 183170,
+              "mid": "003ZeKU64NnuzW",
+              "name": "时光胶囊",
+              "title": "时光胶囊",
+              "type": 0,
+              "uin": 0
+            }
+          ],
+          "status": 0,
+          "subtitle": "",
+          "time_public": "2019-01-01",
+          "title": "见你一面",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream3.qqmusic.qq.com/238399034.wma",
+          "version": 0,
+          "volume": {
+            "gain": -8.192000389099121,
+            "lra": 9.611000061035155,
+            "peak": 1
+          }
+        },
+        {
+          "action": {
+            "alert": 2,
+            "icons": 139132,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 14,
+            "msgpay": 6,
+            "msgshare": 0,
+            "switch": 17413891
+          },
+          "album": {
+            "id": 5668753,
+            "mid": "0031kR0j2qmS2M",
+            "name": "日落",
+            "subtitle": "",
+            "time_public": "2018-12-25",
+            "title": "日落"
+          },
+          "bpm": 120,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "0036gMJW28CEfa",
+            "size_128mp3": 5027405,
+            "size_192aac": 7556697,
+            "size_192ogg": 7728433,
+            "size_24aac": 970971,
+            "size_320mp3": 12568224,
+            "size_48aac": 1904191,
+            "size_96aac": 3818266,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 68559974,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 50344,
+            "try_end": 84097,
+            "url": ""
+          },
+          "fnote": 4009,
+          "genre": 50,
+          "id": 224817474,
+          "index_album": 1,
+          "index_cd": 0,
+          "interval": 314,
+          "isonly": 0,
+          "ksong": {
+            "id": 5076301,
+            "mid": "002sJTaM2MoUcz"
+          },
+          "label": "0",
+          "language": 0,
+          "mid": "003XCbA520zgXW",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 1509095,
+            "name": "",
+            "title": "",
+            "vid": "j0029t9akh2"
+          },
+          "name": "日落",
+          "pay": {
+            "pay_down": 1,
+            "pay_month": 1,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 200,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 4475,
+              "mid": "004Yzl420X8xQP",
+              "name": "果味VC",
+              "title": "果味VC",
+              "type": 2,
+              "uin": 0
+            }
+          ],
+          "status": 0,
+          "subtitle": "",
+          "time_public": "2018-12-25",
+          "title": "日落",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream0.qqmusic.qq.com/236817474.wma",
+          "version": 0,
+          "volume": {
+            "gain": -10.083999633789063,
+            "lra": 5.992000102996826,
+            "peak": 0.9259999990463258
+          }
+        },
+        {
+          "action": {
+            "alert": 2,
+            "icons": 139132,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 14,
+            "msgpay": 6,
+            "msgshare": 0,
+            "switch": 17413891
+          },
+          "album": {
+            "id": 5805522,
+            "mid": "003f8f1b3YvFA6",
+            "name": "零食、恋爱和想你",
+            "subtitle": "",
+            "time_public": "2019-01-08",
+            "title": "零食、恋爱和想你"
+          },
+          "bpm": 111,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "000gRwXk3VtxPI",
+            "size_128mp3": 4087450,
+            "size_192aac": 6164292,
+            "size_192ogg": 6295164,
+            "size_24aac": 791406,
+            "size_320mp3": 10218285,
+            "size_48aac": 1548655,
+            "size_96aac": 3110798,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 29531210,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 0,
+            "try_end": 0,
+            "url": ""
+          },
+          "fnote": 4009,
+          "genre": 1,
+          "id": 227190925,
+          "index_album": 1,
+          "index_cd": 0,
+          "interval": 255,
+          "isonly": 1,
+          "ksong": {
+            "id": 5149168,
+            "mid": "0022IcOb0LOejm"
+          },
+          "label": "0",
+          "language": 0,
+          "mid": "000gRwXk3VtxPI",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 0,
+            "name": "",
+            "title": "",
+            "vid": ""
+          },
+          "name": "零食、恋爱和想你",
+          "pay": {
+            "pay_down": 1,
+            "pay_month": 1,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 200,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 2151662,
+              "mid": "000c6rKX30FNnH",
+              "name": "一只白",
+              "title": "一只白",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "status": 0,
+          "subtitle": "",
+          "time_public": "2019-01-08",
+          "title": "零食、恋爱和想你",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream2.qqmusic.qq.com/239190925.wma",
+          "version": 0,
+          "volume": {
+            "gain": -5.36299991607666,
+            "lra": 5.7820000648498539,
+            "peak": 1
+          }
+        },
+        {
+          "action": {
+            "alert": 2,
+            "icons": 139132,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 14,
+            "msgpay": 6,
+            "msgshare": 0,
+            "switch": 17409795
+          },
+          "album": {
+            "id": 4931952,
+            "mid": "003hLubx2N3SM6",
+            "name": "第几个我",
+            "subtitle": "",
+            "time_public": "2018-11-11",
+            "title": "第几个我"
+          },
+          "bpm": 120,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "003ycYHx0fJ1sr",
+            "size_128mp3": 3265313,
+            "size_192aac": 4895946,
+            "size_192ogg": 4473084,
+            "size_24aac": 632735,
+            "size_320mp3": 8162959,
+            "size_48aac": 1237432,
+            "size_96aac": 2475013,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 39269440,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 53944,
+            "try_end": 76928,
+            "url": ""
+          },
+          "fnote": 4009,
+          "genre": 1,
+          "id": 219246333,
+          "index_album": 1,
+          "index_cd": 0,
+          "interval": 203,
+          "isonly": 1,
+          "ksong": {
+            "id": 0,
+            "mid": ""
+          },
+          "label": "0",
+          "language": 0,
+          "mid": "003ycYHx0fJ1sr",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 0,
+            "name": "",
+            "title": "",
+            "vid": ""
+          },
+          "name": "第几个我",
+          "pay": {
+            "pay_down": 1,
+            "pay_month": 1,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 200,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 974419,
+              "mid": "002QQzkl3o3nx1",
+              "name": "封茗囧菌",
+              "title": "封茗囧菌",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "status": 0,
+          "subtitle": "",
+          "time_public": "2018-11-11",
+          "title": "第几个我",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream2.qqmusic.qq.com/231246333.wma",
+          "version": 0,
+          "volume": {
+            "gain": -6.388999938964844,
+            "lra": 8.263999938964844,
+            "peak": 0.9819999933242798
+          }
+        },
+        {
+          "action": {
+            "alert": 11,
+            "icons": 135752,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 0,
+            "msgpay": 0,
+            "msgshare": 0,
+            "switch": 605983
+          },
+          "album": {
+            "id": 5670540,
+            "mid": "003fyZQW2Knu8v",
+            "name": "啊唔儿童音乐02：珍爱时光",
+            "subtitle": "",
+            "time_public": "2019-01-01",
+            "title": "啊唔儿童音乐02：珍爱时光"
+          },
+          "bpm": 60,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "004gT5v51zlAZE",
+            "size_128mp3": 2745805,
+            "size_192aac": 4152647,
+            "size_192ogg": 4154628,
+            "size_24aac": 534755,
+            "size_320mp3": 6864166,
+            "size_48aac": 1047366,
+            "size_96aac": 2102908,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 19265934,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 0,
+            "try_end": 0,
+            "url": ""
+          },
+          "fnote": 0,
+          "genre": 16,
+          "id": 226014150,
+          "index_album": 3,
+          "index_cd": 0,
+          "interval": 171,
+          "isonly": 0,
+          "ksong": {
+            "id": 5215813,
+            "mid": "003GwSvd0F0NrH"
+          },
+          "label": "0",
+          "language": 5,
+          "mid": "004gT5v51zlAZE",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 0,
+            "name": "",
+            "title": "",
+            "vid": ""
+          },
+          "name": "500 Miles",
+          "pay": {
+            "pay_down": 0,
+            "pay_month": 0,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 0,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 2724111,
+              "mid": "002IH7X13bCm5B",
+              "name": "啊唔儿童音乐",
+              "title": "啊唔儿童音乐",
+              "type": 3,
+              "uin": 0
+            }
+          ],
+          "status": 31,
+          "subtitle": "",
+          "time_public": "2019-01-01",
+          "title": "500 Miles",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream10.qqmusic.qq.com/238014150.wma",
+          "version": 0,
+          "volume": {
+            "gain": -8.385000228881836,
+            "lra": 3.7920000553131105,
+            "peak": 1
+          }
+        },
+        {
+          "action": {
+            "alert": 21,
+            "icons": 147324,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 14,
+            "msgpay": 6,
+            "msgshare": 0,
+            "switch": 17413891
+          },
+          "album": {
+            "id": 5770536,
+            "mid": "000gCFdl3eJirA",
+            "name": "终于了解自由",
+            "subtitle": "",
+            "time_public": "2019-01-10",
+            "title": "终于了解自由"
+          },
+          "bpm": 95,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "000LK1Mo1WtK8Y",
+            "size_128mp3": 3144099,
+            "size_192aac": 4768185,
+            "size_192ogg": 4951818,
+            "size_24aac": 610402,
+            "size_320mp3": 7859587,
+            "size_48aac": 1198487,
+            "size_96aac": 2399255,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 0,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 0,
+            "try_end": 0,
+            "url": ""
+          },
+          "fnote": 4009,
+          "genre": 1,
+          "id": 226808101,
+          "index_album": 1,
+          "index_cd": 0,
+          "interval": 196,
+          "isonly": 1,
+          "ksong": {
+            "id": 5210223,
+            "mid": "000fJ3sV2kvHEW"
+          },
+          "label": "0",
+          "language": 0,
+          "mid": "000LK1Mo1WtK8Y",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 0,
+            "name": "",
+            "title": "",
+            "vid": ""
+          },
+          "name": "Old Days",
+          "pay": {
+            "pay_down": 1,
+            "pay_month": 1,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 200,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 200521,
+              "mid": "0022bqqN3dRfN4",
+              "name": "周兴哲",
+              "title": "周兴哲",
+              "type": 0,
+              "uin": 0
+            }
+          ],
+          "status": 0,
+          "subtitle": "",
+          "time_public": "2019-01-10",
+          "title": "Old Days",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream0.qqmusic.qq.com/238808101.wma",
+          "version": 0,
+          "volume": {
+            "gain": -6.810999870300293,
+            "lra": 5.934000015258789,
+            "peak": 0.8069999814033508
+          }
+        },
+        {
+          "action": {
+            "alert": 2,
+            "icons": 139132,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 14,
+            "msgpay": 6,
+            "msgshare": 0,
+            "switch": 17413891
+          },
+          "album": {
+            "id": 5555010,
+            "mid": "0024wosB4H12xI",
+            "name": "女子力乐园",
+            "subtitle": "",
+            "time_public": "2018-12-12",
+            "title": "女子力乐园"
+          },
+          "bpm": 67,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "004NQi5M349580",
+            "size_128mp3": 2888300,
+            "size_192aac": 4369325,
+            "size_192ogg": 4232917,
+            "size_24aac": 561832,
+            "size_320mp3": 7220447,
+            "size_48aac": 1105289,
+            "size_96aac": 2204936,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 36948004,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 0,
+            "try_end": 0,
+            "url": ""
+          },
+          "fnote": 4009,
+          "genre": 1,
+          "id": 224933457,
+          "index_album": 1,
+          "index_cd": 0,
+          "interval": 180,
+          "isonly": 0,
+          "ksong": {
+            "id": 5075394,
+            "mid": "001nHtHn3AttdK"
+          },
+          "label": "0",
+          "language": 0,
+          "mid": "004NQi5M349580",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 0,
+            "name": "",
+            "title": "",
+            "vid": ""
+          },
+          "name": "女子力乐园",
+          "pay": {
+            "pay_down": 1,
+            "pay_month": 1,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 200,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 947945,
+              "mid": "0031ixJY43eljA",
+              "name": "祁紫檀",
+              "title": "祁紫檀",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "status": 0,
+          "subtitle": "",
+          "time_public": "2018-12-12",
+          "title": "女子力乐园",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream10.qqmusic.qq.com/236933457.wma",
+          "version": 0,
+          "volume": {
+            "gain": -9.609999656677246,
+            "lra": 4.489999771118164,
+            "peak": 0.9649999737739564
+          }
+        },
+        {
+          "action": {
+            "alert": 11,
+            "icons": 135752,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 0,
+            "msgpay": 0,
+            "msgshare": 0,
+            "switch": 605983
+          },
+          "album": {
+            "id": 5692267,
+            "mid": "004Rngtp4Ez1RD",
+            "name": "初雪之音（下篇）",
+            "subtitle": "",
+            "time_public": "2018-12-29",
+            "title": "初雪之音（下篇）"
+          },
+          "bpm": 100,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "0010iXHG1LK8XJ",
+            "size_128mp3": 3493090,
+            "size_192aac": 5293947,
+            "size_192ogg": 4945032,
+            "size_24aac": 680714,
+            "size_320mp3": 8732418,
+            "size_48aac": 1335875,
+            "size_96aac": 2678509,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 23432850,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 0,
+            "try_end": 0,
+            "url": ""
+          },
+          "fnote": 0,
+          "genre": 1,
+          "id": 226152200,
+          "index_album": 1,
+          "index_cd": 0,
+          "interval": 218,
+          "isonly": 0,
+          "ksong": {
+            "id": 5120967,
+            "mid": "003qM7xn1oxj3F"
+          },
+          "label": "0",
+          "language": 0,
+          "mid": "0010iXHG1LK8XJ",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 1510390,
+            "name": "",
+            "title": "",
+            "vid": "y00300u7d39"
+          },
+          "name": "触动",
+          "pay": {
+            "pay_down": 0,
+            "pay_month": 0,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 0,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 2057349,
+              "mid": "003JFMkp31G9nw",
+              "name": "龙千里",
+              "title": "龙千里",
+              "type": 1,
+              "uin": 0
+            },
+            {
+              "id": 1443427,
+              "mid": "0043c9zk4eHC1e",
+              "name": "徐艺伦",
+              "title": "徐艺伦",
+              "type": 0,
+              "uin": 0
+            }
+          ],
+          "status": 31,
+          "subtitle": "",
+          "time_public": "2018-12-29",
+          "title": "触动",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream7.qqmusic.qq.com/238152200.wma",
+          "version": 0,
+          "volume": {
+            "gain": -6.427999973297119,
+            "lra": 8.062000274658204,
+            "peak": 1
+          }
+        },
+        {
+          "action": {
+            "alert": 2,
+            "icons": 139132,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 14,
+            "msgpay": 6,
+            "msgshare": 0,
+            "switch": 17413891
+          },
+          "album": {
+            "id": 5863565,
+            "mid": "001npGbJ01sKEq",
+            "name": "恋爱中心",
+            "subtitle": "",
+            "time_public": "2019-01-14",
+            "title": "恋爱中心"
+          },
+          "bpm": 98,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "003Or9Xc4Ro1B1",
+            "size_128mp3": 3208036,
+            "size_192aac": 4841921,
+            "size_192ogg": 4334450,
+            "size_24aac": 623402,
+            "size_320mp3": 8019407,
+            "size_48aac": 1222071,
+            "size_96aac": 2444629,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 42044252,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 0,
+            "try_end": 0,
+            "url": ""
+          },
+          "fnote": 4009,
+          "genre": 1,
+          "id": 227822911,
+          "index_album": 1,
+          "index_cd": 0,
+          "interval": 200,
+          "isonly": 0,
+          "ksong": {
+            "id": 5185039,
+            "mid": "000JcEyL29iaS2"
+          },
+          "label": "0",
+          "language": 0,
+          "mid": "003Or9Xc4Ro1B1",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 0,
+            "name": "",
+            "title": "",
+            "vid": ""
+          },
+          "name": "恋爱中心",
+          "pay": {
+            "pay_down": 1,
+            "pay_month": 1,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 200,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 1409707,
+              "mid": "003oOdA70H1IOa",
+              "name": "岳尔曼谷",
+              "title": "岳尔曼谷",
+              "type": 0,
+              "uin": 0
+            }
+          ],
+          "status": 0,
+          "subtitle": "",
+          "time_public": "2019-01-14",
+          "title": "恋爱中心",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream5.qqmusic.qq.com/239822911.wma",
+          "version": 0,
+          "volume": {
+            "gain": -9.13199996948242,
+            "lra": 1.4049999713897706,
+            "peak": 1
+          }
+        },
+        {
+          "action": {
+            "alert": 2,
+            "icons": 139132,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 14,
+            "msgpay": 6,
+            "msgshare": 0,
+            "switch": 17413891
+          },
+          "album": {
+            "id": 5796163,
+            "mid": "0022tLyQ05XcQz",
+            "name": "不再孤单",
+            "subtitle": "",
+            "time_public": "2019-01-11",
+            "title": "不再孤单"
+          },
+          "bpm": 105,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "002KEWEo0jDDYj",
+            "size_128mp3": 4333600,
+            "size_192aac": 6557498,
+            "size_192ogg": 6985014,
+            "size_24aac": 840527,
+            "size_320mp3": 10833702,
+            "size_48aac": 1649794,
+            "size_96aac": 3298673,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 0,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 52775,
+            "try_end": 85585,
+            "url": ""
+          },
+          "fnote": 4009,
+          "genre": 1,
+          "id": 227075663,
+          "index_album": 1,
+          "index_cd": 0,
+          "interval": 270,
+          "isonly": 1,
+          "ksong": {
+            "id": 5164723,
+            "mid": "001NMjeq1ukvpA"
+          },
+          "label": "0",
+          "language": 0,
+          "mid": "002KEWEo0jDDYj",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 0,
+            "name": "",
+            "title": "",
+            "vid": ""
+          },
+          "name": "不再孤单",
+          "pay": {
+            "pay_down": 1,
+            "pay_month": 1,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 200,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 183559,
+              "mid": "001T6zUJ447DkJ",
+              "name": "海鸥乐队",
+              "title": "海鸥乐队",
+              "type": 0,
+              "uin": 0
+            }
+          ],
+          "status": 0,
+          "subtitle": "",
+          "time_public": "2019-01-11",
+          "title": "不再孤单",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream3.qqmusic.qq.com/239075663.wma",
+          "version": 0,
+          "volume": {
+            "gain": -6.501999855041504,
+            "lra": 13.376999855041504,
+            "peak": 0.7699999809265136
+          }
+        },
+        {
+          "action": {
+            "alert": 11,
+            "icons": 135752,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 0,
+            "msgpay": 0,
+            "msgshare": 0,
+            "switch": 605983
+          },
+          "album": {
+            "id": 5713513,
+            "mid": "003SSooP04heB9",
+            "name": "初雪之音（中篇）",
+            "subtitle": "",
+            "time_public": "2018-12-29",
+            "title": "初雪之音（中篇）"
+          },
+          "bpm": 58,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "000zmYjO01BWe2",
+            "size_128mp3": 3637288,
+            "size_192aac": 5471168,
+            "size_192ogg": 5035164,
+            "size_24aac": 703859,
+            "size_320mp3": 9092910,
+            "size_48aac": 1378731,
+            "size_96aac": 2761543,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 23700458,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 0,
+            "try_end": 0,
+            "url": ""
+          },
+          "fnote": 0,
+          "genre": 1,
+          "id": 226326648,
+          "index_album": 2,
+          "index_cd": 0,
+          "interval": 227,
+          "isonly": 0,
+          "ksong": {
+            "id": 5120434,
+            "mid": "001AISDC0vjEwx"
+          },
+          "label": "0",
+          "language": 0,
+          "mid": "000zmYjO01BWe2",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 0,
+            "name": "",
+            "title": "",
+            "vid": ""
+          },
+          "name": "糖",
+          "pay": {
+            "pay_down": 0,
+            "pay_month": 0,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 0,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 2813164,
+              "mid": "004g4kjf2Ev4yv",
+              "name": "伟洁",
+              "title": "伟洁",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "status": 31,
+          "subtitle": "",
+          "time_public": "2018-12-29",
+          "title": "糖",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream3.qqmusic.qq.com/238326648.wma",
+          "version": 0,
+          "volume": {
+            "gain": -4.625,
+            "lra": 5.609000205993652,
+            "peak": 0.8640000224113464
+          }
+        },
+        {
+          "action": {
+            "alert": 2,
+            "icons": 139132,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 14,
+            "msgpay": 6,
+            "msgshare": 0,
+            "switch": 17413891
+          },
+          "album": {
+            "id": 5669167,
+            "mid": "003mM4Ja4PdpvC",
+            "name": "吃货达人",
+            "subtitle": "",
+            "time_public": "2018-12-30",
+            "title": "吃货达人"
+          },
+          "bpm": 125,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "000jWYBe1ElC3F",
+            "size_128mp3": 3148684,
+            "size_192aac": 4766423,
+            "size_192ogg": 4934256,
+            "size_24aac": 611743,
+            "size_320mp3": 7871081,
+            "size_48aac": 1195352,
+            "size_96aac": 2394077,
+            "size_ape": 0,
+            "size_dts": 0,
+            "size_flac": 44834353,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 49301,
+            "try_end": 82453,
+            "url": ""
+          },
+          "fnote": 4009,
+          "genre": 1,
+          "id": 225992450,
+          "index_album": 1,
+          "index_cd": 0,
+          "interval": 196,
+          "isonly": 0,
+          "ksong": {
+            "id": 5122921,
+            "mid": "001eTE2N1jQbHp"
+          },
+          "label": "0",
+          "language": 0,
+          "mid": "000jWYBe1ElC3F",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 0,
+            "name": "",
+            "title": "",
+            "vid": ""
+          },
+          "name": "吃货达人",
+          "pay": {
+            "pay_down": 1,
+            "pay_month": 1,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 200,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 949137,
+              "mid": "001mPydm1sS2HE",
+              "name": "李瑨瑶",
+              "title": "李瑨瑶",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "status": 0,
+          "subtitle": "",
+          "time_public": "2018-12-30",
+          "title": "吃货达人",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream7.qqmusic.qq.com/237992450.wma",
+          "version": 0,
+          "volume": {
+            "gain": -7.664999961853027,
+            "lra": 8.355999946594239,
+            "peak": 1
+          }
+        },
+        {
+          "action": {
+            "alert": 11,
+            "icons": 135752,
+            "msgdown": 0,
+            "msgfav": 0,
+            "msgid": 0,
+            "msgpay": 0,
+            "msgshare": 0,
+            "switch": 605983
+          },
+          "album": {
+            "id": 4298560,
+            "mid": "001nRh4R17T7pc",
+            "name": "失败者之歌",
+            "subtitle": "",
+            "time_public": "2018-06-15",
+            "title": "失败者之歌"
+          },
+          "bpm": 85,
+          "data_type": 0,
+          "file": {
+            "b_30s": 0,
+            "e_30s": 0,
+            "hires_bitdepth": 0,
+            "hires_sample": 0,
+            "media_mid": "004aTvbg4AxLWs",
+            "size_128mp3": 2611199,
+            "size_192aac": 3960659,
+            "size_192ogg": 4257337,
+            "size_24aac": 508280,
+            "size_320mp3": 6527685,
+            "size_48aac": 996667,
+            "size_96aac": 1993534,
+            "size_ape": 31256230,
+            "size_dts": 0,
+            "size_flac": 31421771,
+            "size_hires": 0,
+            "size_try": 0,
+            "try_begin": 47632,
+            "try_end": 70661,
+            "url": ""
+          },
+          "fnote": 0,
+          "genre": 36,
+          "id": 213479161,
+          "index_album": 0,
+          "index_cd": 0,
+          "interval": 163,
+          "isonly": 0,
+          "ksong": {
+            "id": 4716657,
+            "mid": "001e9AWt42zKmy"
+          },
+          "label": "0",
+          "language": 0,
+          "mid": "0022n9R81snv26",
+          "modify_stamp": 0,
+          "mv": {
+            "id": 0,
+            "name": "",
+            "title": "",
+            "vid": ""
+          },
+          "name": "没想到",
+          "pay": {
+            "pay_down": 0,
+            "pay_month": 0,
+            "pay_play": 0,
+            "pay_status": 0,
+            "price_album": 0,
+            "price_track": 0,
+            "time_free": 0
+          },
+          "singer": [
+            {
+              "id": 1550602,
+              "mid": "003FqJXy0MNZrR",
+              "name": "Nocation",
+              "title": "Nocation",
+              "type": 2,
+              "uin": 0
+            }
+          ],
+          "status": 31,
+          "subtitle": "",
+          "time_public": "2018-06-15",
+          "title": "没想到",
+          "trace": "",
+          "type": 0,
+          "url": "http://stream0.qqmusic.qq.com/225479161.wma",
+          "version": 0,
+          "volume": {
+            "gain": -8.989999771118164,
+            "lra": 8.258000373840332,
+            "peak": 0.9919999837875366
+          }
+        }
+      ],
+      "list":[
+        {
+          "title": "孤独患者",
+          "artist": "陈奕迅",
+          "src": "http://m10.music.126.net/20190513204505/0100d36524ab43fe49bcf18fbedf0563/ymusic/dbc0/6141/a7e2/5d049d85c0784326e0e48726835ec652.mp3",
+          "pic": "/static/img/cyx.jpg",
+          "lrc":"[00:00.000] 作曲 : 方大同\n[00:01.000] 作词 : 小寒\n[00:16.940]欢笑声 欢呼声\n[00:21.320]炒热气氛 心却很冷\n[00:23.840]聚光灯 是种蒙恩\n[00:27.110]我却不能 喊等一等\n[00:30.940]我真佩服我 还能幽默\n[00:32.320]\n[00:34.140]掉眼泪时用笑掩过 怕人看破 顾虑好多\n[00:42.040]不谈寂寞 我们就都快活\n[00:46.810]\n[00:48.040]我不唱声嘶力竭的情歌\n[00:54.940]不表示没有心碎的时刻\n[01:01.650]我不曾摊开伤口任宰割 愈合就无人晓得\n[01:11.810]我内心挫折\n[01:16.020]活像个孤独患者 自我拉扯\n[01:23.740]外向的孤独患者 有何不可\n[01:28.940]\n[01:38.540]笑越大声 越是残忍\n[01:41.610]挤满体温 室温更冷\n[01:45.940]万一关灯 空虚扰人\n[01:48.740]我却不能 喊等一等\n[01:52.040]\n[01:53.570]你说你爱我 却一直说\n[01:57.240]说我不该窝在角落 策划逃脱 这也有错\n[02:04.360]连我脆弱 的权利都掠夺\n[02:09.620]\n[02:10.940]我不唱声嘶力竭的情歌\n[02:17.440]不表示没有心碎的时刻\n[02:24.750]我不曾摊开伤口任宰割 愈合就无人晓得\n[02:34.920]我内心挫折\n[02:38.610]活像个孤独患者自我拉扯\n[02:45.710]外向的孤独患者 有何不可\n[02:50.620]\n[03:21.350]我不要声嘶力竭的情歌\n[03:27.710]来提示我需要你的时刻\n[03:34.640]表面镇定并不是保护色 反而是要你懂得\n[03:45.540]我不知为何\n[03:48.770]活像个孤独患者 自我拉扯\n[03:55.940]外向的孤独患者 需要认可\n"
+      },
+        {
+          "title": "出山",
+          "artist": "花粥",
+          "src": "http://m10.music.126.net/20190514114959/6184aa79d45783004ba1f2a23dc1d0d4/ymusic/060f/065d/035d/1ec946a952174085f7b347d4c0aa5151.mp3",
+          "pic": "/static/img/cs.jpg",
+          "lrc":"[00:00.000] 作曲 : 花粥\n[00:01.000] 作词 : 花粥\n[00:10.43]\n[00:11.12]在夜半三更过天桥从来不敢回头看\n[00:15.86]白日里是车水马龙此时脚下是忘川\n[00:21.30]我独自走过半山腰山间野狗来作伴\n[00:25.19]层林尽染百舸流秋风吹过鬼门关\n[00:29.81]一瞬三年五载 品粗茶 食淡饭\n[00:34.49]六界八荒四海 无人与我来叫板\n[00:39.19]人间荒唐古怪 竹林外 有书斋\n[00:43.78]匿于此地畅快 偏来者不善善者不来\n[00:50.85]是我装模作样在瞎掰\n[00:55.18]还是他们本就心怀鬼胎\n[00:57.82]有人不知悔改 迷雾中混淆黑白\n[01:02.46]在情怀里市侩 旁人不敢来拆穿\n[01:07.17]看似时来运转 实则在顶风作案\n[01:11.73]待曲终又人散 这一出还有谁在围观\n[01:16.79]在凡尘修炼二十载听闻水能滴石穿\n[01:21.07]帝王豪杰风云变幻敌不过桑田沧海\n[01:25.85]我不关心谁的江山只眷恋两小无猜\n[01:30.36]兴风作浪不稀罕只身固守峨眉山\n[01:35.14]一瞬三年五载 品粗茶 食淡饭\n[01:39.73]六界八荒四海 无人与我来叫板\n[01:44.33]人间荒唐古怪 竹林外 有书斋\n[01:49.11]匿于此地畅快 偏来者不善善者不来\n[01:56.00]是我装模作样在瞎猜\n[02:00.39]还是他们本就心怀鬼胎\n[02:03.15]有人不知悔改 迷雾中混淆黑白\n[02:07.73]在情怀里市侩 旁人不敢来拆穿\n[02:12.39]看似时来运转 实则在顶风作案\n[02:17.06]待曲终又人散 这一出还有谁在围观\n[02:21.82]静悄悄配唠唠叨叨\n[02:24.00]随便瞧瞧我凑凑热闹\n[02:26.34]客串也别太潦草\n[02:28.70]吃的生蚝要蘸个酱料\n[02:31.00]悄悄你唠唠叨叨\n[02:33.30]随便瞧瞧你凑的热闹\n[02:35.68]听到你做个记号\n[02:37.84]请装进书包别四处招摇\n[02:40.29]有人迷途知返\n[02:45.08]便是苦尽甘来\n[02:50.00]一瞬三年五载\n[02:54.15]这曲终又人散\n[03:33.63]\n"
+      },
+        {
+          "title": "绿色",
+          "artist": "陈雪凝",
+          "src": "http://m10.music.126.net/20190514115117/570c9ac9c65961a596017c7b0b331a63/ymusic/76b4/dcbb/0a65/9198b18815ee8ce42ae368ae29276f78.mp3",
+          "pic": "/static/img/ls.jpg",
+          "lrc":"[00:00.000] 作曲 : 陈雪凝\n[00:00.006] 作词 : 陈雪凝\n[00:00.18]编曲：Dadz\n[00:01.18]若不是你突然闯进我生活\n[00:04.67]我怎会把死守的寂寞放任了\n[00:26.15]说不痛苦那是假的\n[00:29.62]毕竟我的心也是肉做的\n[00:34.00]你离开时我心里的彩虹\n[00:37.90]就变成灰色\n[00:41.87]说不心酸那是假的\n[00:45.32]如果我真的没那么爱过\n[00:49.24]爱着一个没有灵魂的人\n[00:52.73]世界都是黑色\n[00:56.97]若不是你突然闯进 我生活\n[01:00.82]我怎会把死守的寂寞 放任了\n[01:04.76]爱我的话你都说\n[01:06.76]爱我的事你不做\n[01:08.77]我却把甜言蜜语当做你爱我的躯壳\n[01:13.19]你的悲伤难过我不参破\n[01:16.61]我也会把曾经的且过 当施舍\n[01:20.55]不去计较你太多\n[01:22.55]从此你在我心里\n[01:24.19]只剩绿色\n[01:44.78]说很快活那是假的\n[01:48.29]你的名字依然那么深刻\n[01:52.24]每个字都刺穿我的心脏\n[01:56.04]那鲜明的痛是红色\n[01:59.87]若不是你突然闯进 我生活\n[02:03.81]我怎会把死守的寂寞 放任了\n[02:07.70]爱我的话你都说\n[02:09.74]爱我的事你不做\n[02:11.70]我却把甜言蜜语当做你爱我的躯壳\n[02:16.07]你的悲伤难过我不参破\n[02:19.50]我也会把曾经的且过 当施舍\n[02:23.51]不去计较你太多\n[02:25.43]从此你在我心里\n[02:27.11]只剩绿色\n[02:32.13]呼～\n[03:34.28]若不是你突然闯进 我生活\n[03:38.18]我怎会把死守的寂寞 放任了\n[03:42.09]爱我的话你都说\n[03:44.13]爱我的事你不做\n[03:46.10]我却把甜言蜜语当做你爱我的躯壳\n[03:50.63]若不是你突然闯进 我生活\n[03:53.96]我怎会把死守的寂寞 放任了\n[03:57.87]爱我的话你都说\n[03:59.88]爱我的事你不做\n[04:01.90]我却把甜言蜜语当做你爱我的躯壳\n[04:06.29]你的悲伤难过我不参破\n[04:09.73]我也会把曾经的且过 当施舍\n[04:13.65]若不是你突然闯进 我生活\n[04:17.62]我怎会把死守的寂寞 放任了\n[04:21.50]爱我的话你都说\n[04:23.53]爱我的事你不做\n[04:25.55]我却把甜言蜜语当做你爱我的躯壳\n[04:31.59]和声：李美灵芝\n[04:33.11]混音：一曲不空\n[04:34.34]发行：3SEVEN叁七\n"
+      },
+        {
+          "title": "像我这样的人",
+          "artist": "毛不易",
+          "src": "http://m10.music.126.net/20190514115217/3909a68c4aa08aa009b893dd5a286d64/ymusic/5605/07fd/b516/a10d9e248c19d9ac2d40d2b0596fc09b.mp3",
+          "pic": "/static/img/xwzydr.jpg",
+          "lrc":"[00:00.000] 作曲 : 毛不易\n[00:01.000] 作词 : 毛不易\n[00:09.340]编曲Arranger : 赵兆 宋涛\n[00:09.840]\n[00:15.000]像我这样优秀的人\n[00:18.770]本该灿烂过一生\n[00:22.620]怎么二十多年到头来\n[00:26.700]还在人海里浮沉\n[00:30.240]\n[00:30.350]像我这样聪明的人\n[00:34.500]早就告别了单纯\n[00:38.380]怎么还是用了一段情\n[00:42.360]去换一身伤痕\n[00:44.680]\n[00:46.150]像我这样迷茫的人\n[00:49.840]像我这样寻找的人\n[00:53.800]像我这样碌碌无为的人\n[00:57.590]你还见过多少人\n[01:06.910]\n[01:18.640]像我这样庸俗的人\n[01:22.830]从不喜欢装深沉\n[01:26.540]怎么偶尔听到老歌时\n[01:30.620]忽然也晃了神\n[01:34.380]像我这样懦弱的人\n[01:38.240]凡事都要留几分\n[01:42.200]怎么曾经也会为了谁\n[01:45.950]想过奋不顾身\n[01:47.680]\n[01:49.870]像我这样迷茫的人\n[01:53.770]像我这样寻找的人\n[01:57.490]像我这样碌碌无为的人\n[02:01.450]你还见过多少人\n[02:04.690]\n[02:05.460]像我这样孤单的人\n[02:09.200]像我这样傻的人\n[02:13.260]像我这样不甘平凡的人\n[02:16.990]世界上有多少人\n[02:21.580]\n[02:26.760]像我这样迷茫的人\n[02:30.510]像我这样寻找的人\n[02:34.370]像我这样碌碌无为的人\n[02:38.230]你还见过多少人\n[02:41.240]\n[02:42.000]像我这样孤单的人\n[02:46.100]像我这样傻的人\n[02:49.970]像我这样不甘平凡的人\n[02:53.650]世界上有多少人\n[02:56.630]\n[02:59.630]像我这样莫名其妙的人\n[03:05.430]会不会有人心疼\n[03:14.050]\n[03:14.900]制作人Producer : 李健 赵兆\n[03:15.360]口琴Harmonica : 刘晓光\n[03:15.820]键盘Keyboard : 赵兆\n[03:16.790]吉他Guitar : 薛峰\n[03:17.610]贝斯Bass : 韩阳\n[03:18.600]鼓Drum : 武勇恒\n[03:19.370]弦乐Strings : 国际首席爱乐乐团International Master Philharmonic Orchestra\n[03:20.230]混音Mixing : 周天澈\n[03:21.190]母带Mastering : Joe LaPorta .（Sterling Sound. NY）\n[03:21.880]录音棚Studio : 55TEC . Beijing\n[03:22.690]录音Recording : 李游 李杨\n[03:23.380]人声录音Vocal Recording : 李杨\n[03:24.100]人声编辑Vocal Editing : 李杨\n[03:24.670]录音助理Recording Assistants : 郭舒文 邢铜\n[03:25.260]音乐制作发行produced and distributed : 哇唧唧哇×智慧大狗\n[03:25.940]\n"
+      },
+        {
+          "title": "年少有为",
+          "artist": "李荣浩",
+          "src": "http://m10.music.126.net/20190514115311/920bbacf664fed9a9fe02d5c35fe87e5/ymusic/555c/055f/035a/b6da3ffc8d2561b321284004c81da136.mp3",
+          "pic": "/static/img/nsyw.jpg",
+          "lrc":"[00:00.000] 作曲 : 李荣浩\n[00:01.000] 作词 : 李荣浩\n[00:25.03]编曲：李荣浩\n[00:27.78]\n[00:29.91]电视一直闪\n[00:33.03]联络方式都还没删\n[00:36.78]你待我的好\n[00:40.52]我却错手毁掉\n[00:43.92]\n[02:25.47][00:44.52]也曾一起想\n[02:28.74][00:47.72]有个地方睡觉吃饭\n[02:33.14][00:51.41]可怎么去熬日夜颠倒连头款也凑不到\n[02:40.76][00:58.91] 墙板 被我砸烂 到现在还没修\n[02:47.78][01:05.97]一碗热的粥 你怕我没够 都留一半带走\n[02:54.33][01:12.51]给你形容 美好今后你常常眼睛会红\n[03:02.25][01:20.42]原来心疼我 我那时候不懂\n[03:08.74][01:27.35]假如我年少有为不自卑\n[03:13.33][01:31.43]懂得什么是珍贵\n[03:16.08][01:34.43]那些美梦\n[03:17.98][01:37.37]没给你 我一生有愧\n[03:23.64][01:41.29]假如我年少有为 知进退\n[03:28.00][01:46.05]才不会让你替我受罪\n[03:31.73][01:49.94]婚礼上 多喝几杯\n[03:35.03][01:53.14]和你现在那位\n[03:41.36]假如我年少有为不自卑\n[03:45.92]尝过后悔的滋味\n[03:48.67]金钱地位\n[03:52.36]搏到了却好想退回\n[03:56.39]假如我年少有为 知进退\n[04:00.74]才不会让你替我受罪\n[04:04.64]婚礼上 多喝几杯\n[04:07.80]和你现在那位\n[04:15.36]在婚礼上 多喝几杯\n[04:18.65]祝我年少有为\n[04:30.19]\n[04:31.11]制作人：李荣浩\n[04:31.79]吉他：李荣浩\n[04:32.39]贝斯：李荣浩\n[04:32.93]鼓：Alex\n[04:33.51]和声编写：李荣浩\n[04:33.98]和声：李荣浩\n[04:34.41]弦乐编写：李荣浩\n[04:34.81]弦乐：国际首席爱乐乐团\n[04:35.17]录音师：李荣浩\n[04:35.51]混音师：李荣浩\n[04:35.74]录音室：北京一样音乐录音室\n[04:35.97]混音室：北京一样音乐录音室\n[04:36.18]母带后期制作人：李荣浩\n[04:36.40]母带后期处理工程师：周天澈TC Z.\n[04:36.63]母带后期处理录音室：TC Faders\n[04:36.85]\n"
+      },
+        {
+          "title": "孤独患者",
+          "artist": "陈奕迅",
+          "src": "http://m10.music.126.net/20190513204505/0100d36524ab43fe49bcf18fbedf0563/ymusic/dbc0/6141/a7e2/5d049d85c0784326e0e48726835ec652.mp3",
+          "pic": "/static/img/cyx.jpg",
+          "lrc":"[00:00.000] 作曲 : 方大同\n[00:01.000] 作词 : 小寒\n[00:16.940]欢笑声 欢呼声\n[00:21.320]炒热气氛 心却很冷\n[00:23.840]聚光灯 是种蒙恩\n[00:27.110]我却不能 喊等一等\n[00:30.940]我真佩服我 还能幽默\n[00:32.320]\n[00:34.140]掉眼泪时用笑掩过 怕人看破 顾虑好多\n[00:42.040]不谈寂寞 我们就都快活\n[00:46.810]\n[00:48.040]我不唱声嘶力竭的情歌\n[00:54.940]不表示没有心碎的时刻\n[01:01.650]我不曾摊开伤口任宰割 愈合就无人晓得\n[01:11.810]我内心挫折\n[01:16.020]活像个孤独患者 自我拉扯\n[01:23.740]外向的孤独患者 有何不可\n[01:28.940]\n[01:38.540]笑越大声 越是残忍\n[01:41.610]挤满体温 室温更冷\n[01:45.940]万一关灯 空虚扰人\n[01:48.740]我却不能 喊等一等\n[01:52.040]\n[01:53.570]你说你爱我 却一直说\n[01:57.240]说我不该窝在角落 策划逃脱 这也有错\n[02:04.360]连我脆弱 的权利都掠夺\n[02:09.620]\n[02:10.940]我不唱声嘶力竭的情歌\n[02:17.440]不表示没有心碎的时刻\n[02:24.750]我不曾摊开伤口任宰割 愈合就无人晓得\n[02:34.920]我内心挫折\n[02:38.610]活像个孤独患者自我拉扯\n[02:45.710]外向的孤独患者 有何不可\n[02:50.620]\n[03:21.350]我不要声嘶力竭的情歌\n[03:27.710]来提示我需要你的时刻\n[03:34.640]表面镇定并不是保护色 反而是要你懂得\n[03:45.540]我不知为何\n[03:48.770]活像个孤独患者 自我拉扯\n[03:55.940]外向的孤独患者 需要认可\n"
+        },
+        {
+          "title": "出山",
+          "artist": "花粥",
+          "src": "http://m10.music.126.net/20190514114959/6184aa79d45783004ba1f2a23dc1d0d4/ymusic/060f/065d/035d/1ec946a952174085f7b347d4c0aa5151.mp3",
+          "pic": "/static/img/cs.jpg",
+          "lrc":"[00:00.000] 作曲 : 花粥\n[00:01.000] 作词 : 花粥\n[00:10.43]\n[00:11.12]在夜半三更过天桥从来不敢回头看\n[00:15.86]白日里是车水马龙此时脚下是忘川\n[00:21.30]我独自走过半山腰山间野狗来作伴\n[00:25.19]层林尽染百舸流秋风吹过鬼门关\n[00:29.81]一瞬三年五载 品粗茶 食淡饭\n[00:34.49]六界八荒四海 无人与我来叫板\n[00:39.19]人间荒唐古怪 竹林外 有书斋\n[00:43.78]匿于此地畅快 偏来者不善善者不来\n[00:50.85]是我装模作样在瞎掰\n[00:55.18]还是他们本就心怀鬼胎\n[00:57.82]有人不知悔改 迷雾中混淆黑白\n[01:02.46]在情怀里市侩 旁人不敢来拆穿\n[01:07.17]看似时来运转 实则在顶风作案\n[01:11.73]待曲终又人散 这一出还有谁在围观\n[01:16.79]在凡尘修炼二十载听闻水能滴石穿\n[01:21.07]帝王豪杰风云变幻敌不过桑田沧海\n[01:25.85]我不关心谁的江山只眷恋两小无猜\n[01:30.36]兴风作浪不稀罕只身固守峨眉山\n[01:35.14]一瞬三年五载 品粗茶 食淡饭\n[01:39.73]六界八荒四海 无人与我来叫板\n[01:44.33]人间荒唐古怪 竹林外 有书斋\n[01:49.11]匿于此地畅快 偏来者不善善者不来\n[01:56.00]是我装模作样在瞎猜\n[02:00.39]还是他们本就心怀鬼胎\n[02:03.15]有人不知悔改 迷雾中混淆黑白\n[02:07.73]在情怀里市侩 旁人不敢来拆穿\n[02:12.39]看似时来运转 实则在顶风作案\n[02:17.06]待曲终又人散 这一出还有谁在围观\n[02:21.82]静悄悄配唠唠叨叨\n[02:24.00]随便瞧瞧我凑凑热闹\n[02:26.34]客串也别太潦草\n[02:28.70]吃的生蚝要蘸个酱料\n[02:31.00]悄悄你唠唠叨叨\n[02:33.30]随便瞧瞧你凑的热闹\n[02:35.68]听到你做个记号\n[02:37.84]请装进书包别四处招摇\n[02:40.29]有人迷途知返\n[02:45.08]便是苦尽甘来\n[02:50.00]一瞬三年五载\n[02:54.15]这曲终又人散\n[03:33.63]\n"
+        },
+        {
+          "title": "绿色",
+          "artist": "陈雪凝",
+          "src": "http://m10.music.126.net/20190514115117/570c9ac9c65961a596017c7b0b331a63/ymusic/76b4/dcbb/0a65/9198b18815ee8ce42ae368ae29276f78.mp3",
+          "pic": "/static/img/ls.jpg",
+          "lrc":"[00:00.000] 作曲 : 陈雪凝\n[00:00.006] 作词 : 陈雪凝\n[00:00.18]编曲：Dadz\n[00:01.18]若不是你突然闯进我生活\n[00:04.67]我怎会把死守的寂寞放任了\n[00:26.15]说不痛苦那是假的\n[00:29.62]毕竟我的心也是肉做的\n[00:34.00]你离开时我心里的彩虹\n[00:37.90]就变成灰色\n[00:41.87]说不心酸那是假的\n[00:45.32]如果我真的没那么爱过\n[00:49.24]爱着一个没有灵魂的人\n[00:52.73]世界都是黑色\n[00:56.97]若不是你突然闯进 我生活\n[01:00.82]我怎会把死守的寂寞 放任了\n[01:04.76]爱我的话你都说\n[01:06.76]爱我的事你不做\n[01:08.77]我却把甜言蜜语当做你爱我的躯壳\n[01:13.19]你的悲伤难过我不参破\n[01:16.61]我也会把曾经的且过 当施舍\n[01:20.55]不去计较你太多\n[01:22.55]从此你在我心里\n[01:24.19]只剩绿色\n[01:44.78]说很快活那是假的\n[01:48.29]你的名字依然那么深刻\n[01:52.24]每个字都刺穿我的心脏\n[01:56.04]那鲜明的痛是红色\n[01:59.87]若不是你突然闯进 我生活\n[02:03.81]我怎会把死守的寂寞 放任了\n[02:07.70]爱我的话你都说\n[02:09.74]爱我的事你不做\n[02:11.70]我却把甜言蜜语当做你爱我的躯壳\n[02:16.07]你的悲伤难过我不参破\n[02:19.50]我也会把曾经的且过 当施舍\n[02:23.51]不去计较你太多\n[02:25.43]从此你在我心里\n[02:27.11]只剩绿色\n[02:32.13]呼～\n[03:34.28]若不是你突然闯进 我生活\n[03:38.18]我怎会把死守的寂寞 放任了\n[03:42.09]爱我的话你都说\n[03:44.13]爱我的事你不做\n[03:46.10]我却把甜言蜜语当做你爱我的躯壳\n[03:50.63]若不是你突然闯进 我生活\n[03:53.96]我怎会把死守的寂寞 放任了\n[03:57.87]爱我的话你都说\n[03:59.88]爱我的事你不做\n[04:01.90]我却把甜言蜜语当做你爱我的躯壳\n[04:06.29]你的悲伤难过我不参破\n[04:09.73]我也会把曾经的且过 当施舍\n[04:13.65]若不是你突然闯进 我生活\n[04:17.62]我怎会把死守的寂寞 放任了\n[04:21.50]爱我的话你都说\n[04:23.53]爱我的事你不做\n[04:25.55]我却把甜言蜜语当做你爱我的躯壳\n[04:31.59]和声：李美灵芝\n[04:33.11]混音：一曲不空\n[04:34.34]发行：3SEVEN叁七\n"
+        },
+        {
+          "title": "像我这样的人",
+          "artist": "毛不易",
+          "src": "http://m10.music.126.net/20190514115217/3909a68c4aa08aa009b893dd5a286d64/ymusic/5605/07fd/b516/a10d9e248c19d9ac2d40d2b0596fc09b.mp3",
+          "pic": "/static/img/xwzydr.jpg",
+          "lrc":"[00:00.000] 作曲 : 毛不易\n[00:01.000] 作词 : 毛不易\n[00:09.340]编曲Arranger : 赵兆 宋涛\n[00:09.840]\n[00:15.000]像我这样优秀的人\n[00:18.770]本该灿烂过一生\n[00:22.620]怎么二十多年到头来\n[00:26.700]还在人海里浮沉\n[00:30.240]\n[00:30.350]像我这样聪明的人\n[00:34.500]早就告别了单纯\n[00:38.380]怎么还是用了一段情\n[00:42.360]去换一身伤痕\n[00:44.680]\n[00:46.150]像我这样迷茫的人\n[00:49.840]像我这样寻找的人\n[00:53.800]像我这样碌碌无为的人\n[00:57.590]你还见过多少人\n[01:06.910]\n[01:18.640]像我这样庸俗的人\n[01:22.830]从不喜欢装深沉\n[01:26.540]怎么偶尔听到老歌时\n[01:30.620]忽然也晃了神\n[01:34.380]像我这样懦弱的人\n[01:38.240]凡事都要留几分\n[01:42.200]怎么曾经也会为了谁\n[01:45.950]想过奋不顾身\n[01:47.680]\n[01:49.870]像我这样迷茫的人\n[01:53.770]像我这样寻找的人\n[01:57.490]像我这样碌碌无为的人\n[02:01.450]你还见过多少人\n[02:04.690]\n[02:05.460]像我这样孤单的人\n[02:09.200]像我这样傻的人\n[02:13.260]像我这样不甘平凡的人\n[02:16.990]世界上有多少人\n[02:21.580]\n[02:26.760]像我这样迷茫的人\n[02:30.510]像我这样寻找的人\n[02:34.370]像我这样碌碌无为的人\n[02:38.230]你还见过多少人\n[02:41.240]\n[02:42.000]像我这样孤单的人\n[02:46.100]像我这样傻的人\n[02:49.970]像我这样不甘平凡的人\n[02:53.650]世界上有多少人\n[02:56.630]\n[02:59.630]像我这样莫名其妙的人\n[03:05.430]会不会有人心疼\n[03:14.050]\n[03:14.900]制作人Producer : 李健 赵兆\n[03:15.360]口琴Harmonica : 刘晓光\n[03:15.820]键盘Keyboard : 赵兆\n[03:16.790]吉他Guitar : 薛峰\n[03:17.610]贝斯Bass : 韩阳\n[03:18.600]鼓Drum : 武勇恒\n[03:19.370]弦乐Strings : 国际首席爱乐乐团International Master Philharmonic Orchestra\n[03:20.230]混音Mixing : 周天澈\n[03:21.190]母带Mastering : Joe LaPorta .（Sterling Sound. NY）\n[03:21.880]录音棚Studio : 55TEC . Beijing\n[03:22.690]录音Recording : 李游 李杨\n[03:23.380]人声录音Vocal Recording : 李杨\n[03:24.100]人声编辑Vocal Editing : 李杨\n[03:24.670]录音助理Recording Assistants : 郭舒文 邢铜\n[03:25.260]音乐制作发行produced and distributed : 哇唧唧哇×智慧大狗\n[03:25.940]\n"
+        },
+        {
+          "title": "年少有为",
+          "artist": "李荣浩",
+          "src": "http://m10.music.126.net/20190514115311/920bbacf664fed9a9fe02d5c35fe87e5/ymusic/555c/055f/035a/b6da3ffc8d2561b321284004c81da136.mp3",
+          "pic": "/static/img/nsyw.jpg",
+          "lrc":"[00:00.000] 作曲 : 李荣浩\n[00:01.000] 作词 : 李荣浩\n[00:25.03]编曲：李荣浩\n[00:27.78]\n[00:29.91]电视一直闪\n[00:33.03]联络方式都还没删\n[00:36.78]你待我的好\n[00:40.52]我却错手毁掉\n[00:43.92]\n[02:25.47][00:44.52]也曾一起想\n[02:28.74][00:47.72]有个地方睡觉吃饭\n[02:33.14][00:51.41]可怎么去熬日夜颠倒连头款也凑不到\n[02:40.76][00:58.91] 墙板 被我砸烂 到现在还没修\n[02:47.78][01:05.97]一碗热的粥 你怕我没够 都留一半带走\n[02:54.33][01:12.51]给你形容 美好今后你常常眼睛会红\n[03:02.25][01:20.42]原来心疼我 我那时候不懂\n[03:08.74][01:27.35]假如我年少有为不自卑\n[03:13.33][01:31.43]懂得什么是珍贵\n[03:16.08][01:34.43]那些美梦\n[03:17.98][01:37.37]没给你 我一生有愧\n[03:23.64][01:41.29]假如我年少有为 知进退\n[03:28.00][01:46.05]才不会让你替我受罪\n[03:31.73][01:49.94]婚礼上 多喝几杯\n[03:35.03][01:53.14]和你现在那位\n[03:41.36]假如我年少有为不自卑\n[03:45.92]尝过后悔的滋味\n[03:48.67]金钱地位\n[03:52.36]搏到了却好想退回\n[03:56.39]假如我年少有为 知进退\n[04:00.74]才不会让你替我受罪\n[04:04.64]婚礼上 多喝几杯\n[04:07.80]和你现在那位\n[04:15.36]在婚礼上 多喝几杯\n[04:18.65]祝我年少有为\n[04:30.19]\n[04:31.11]制作人：李荣浩\n[04:31.79]吉他：李荣浩\n[04:32.39]贝斯：李荣浩\n[04:32.93]鼓：Alex\n[04:33.51]和声编写：李荣浩\n[04:33.98]和声：李荣浩\n[04:34.41]弦乐编写：李荣浩\n[04:34.81]弦乐：国际首席爱乐乐团\n[04:35.17]录音师：李荣浩\n[04:35.51]混音师：李荣浩\n[04:35.74]录音室：北京一样音乐录音室\n[04:35.97]混音室：北京一样音乐录音室\n[04:36.18]母带后期制作人：李荣浩\n[04:36.40]母带后期处理工程师：周天澈TC Z.\n[04:36.63]母带后期处理录音室：TC Faders\n[04:36.85]\n"
+        },
+        {
+          "title": "孤独患者",
+          "artist": "陈奕迅",
+          "src": "http://m10.music.126.net/20190513204505/0100d36524ab43fe49bcf18fbedf0563/ymusic/dbc0/6141/a7e2/5d049d85c0784326e0e48726835ec652.mp3",
+          "pic": "/static/img/cyx.jpg",
+          "lrc":"[00:00.000] 作曲 : 方大同\n[00:01.000] 作词 : 小寒\n[00:16.940]欢笑声 欢呼声\n[00:21.320]炒热气氛 心却很冷\n[00:23.840]聚光灯 是种蒙恩\n[00:27.110]我却不能 喊等一等\n[00:30.940]我真佩服我 还能幽默\n[00:32.320]\n[00:34.140]掉眼泪时用笑掩过 怕人看破 顾虑好多\n[00:42.040]不谈寂寞 我们就都快活\n[00:46.810]\n[00:48.040]我不唱声嘶力竭的情歌\n[00:54.940]不表示没有心碎的时刻\n[01:01.650]我不曾摊开伤口任宰割 愈合就无人晓得\n[01:11.810]我内心挫折\n[01:16.020]活像个孤独患者 自我拉扯\n[01:23.740]外向的孤独患者 有何不可\n[01:28.940]\n[01:38.540]笑越大声 越是残忍\n[01:41.610]挤满体温 室温更冷\n[01:45.940]万一关灯 空虚扰人\n[01:48.740]我却不能 喊等一等\n[01:52.040]\n[01:53.570]你说你爱我 却一直说\n[01:57.240]说我不该窝在角落 策划逃脱 这也有错\n[02:04.360]连我脆弱 的权利都掠夺\n[02:09.620]\n[02:10.940]我不唱声嘶力竭的情歌\n[02:17.440]不表示没有心碎的时刻\n[02:24.750]我不曾摊开伤口任宰割 愈合就无人晓得\n[02:34.920]我内心挫折\n[02:38.610]活像个孤独患者自我拉扯\n[02:45.710]外向的孤独患者 有何不可\n[02:50.620]\n[03:21.350]我不要声嘶力竭的情歌\n[03:27.710]来提示我需要你的时刻\n[03:34.640]表面镇定并不是保护色 反而是要你懂得\n[03:45.540]我不知为何\n[03:48.770]活像个孤独患者 自我拉扯\n[03:55.940]外向的孤独患者 需要认可\n"
+        },
+        {
+          "title": "出山",
+          "artist": "花粥",
+          "src": "http://m10.music.126.net/20190514114959/6184aa79d45783004ba1f2a23dc1d0d4/ymusic/060f/065d/035d/1ec946a952174085f7b347d4c0aa5151.mp3",
+          "pic": "/static/img/cs.jpg",
+          "lrc":"[00:00.000] 作曲 : 花粥\n[00:01.000] 作词 : 花粥\n[00:10.43]\n[00:11.12]在夜半三更过天桥从来不敢回头看\n[00:15.86]白日里是车水马龙此时脚下是忘川\n[00:21.30]我独自走过半山腰山间野狗来作伴\n[00:25.19]层林尽染百舸流秋风吹过鬼门关\n[00:29.81]一瞬三年五载 品粗茶 食淡饭\n[00:34.49]六界八荒四海 无人与我来叫板\n[00:39.19]人间荒唐古怪 竹林外 有书斋\n[00:43.78]匿于此地畅快 偏来者不善善者不来\n[00:50.85]是我装模作样在瞎掰\n[00:55.18]还是他们本就心怀鬼胎\n[00:57.82]有人不知悔改 迷雾中混淆黑白\n[01:02.46]在情怀里市侩 旁人不敢来拆穿\n[01:07.17]看似时来运转 实则在顶风作案\n[01:11.73]待曲终又人散 这一出还有谁在围观\n[01:16.79]在凡尘修炼二十载听闻水能滴石穿\n[01:21.07]帝王豪杰风云变幻敌不过桑田沧海\n[01:25.85]我不关心谁的江山只眷恋两小无猜\n[01:30.36]兴风作浪不稀罕只身固守峨眉山\n[01:35.14]一瞬三年五载 品粗茶 食淡饭\n[01:39.73]六界八荒四海 无人与我来叫板\n[01:44.33]人间荒唐古怪 竹林外 有书斋\n[01:49.11]匿于此地畅快 偏来者不善善者不来\n[01:56.00]是我装模作样在瞎猜\n[02:00.39]还是他们本就心怀鬼胎\n[02:03.15]有人不知悔改 迷雾中混淆黑白\n[02:07.73]在情怀里市侩 旁人不敢来拆穿\n[02:12.39]看似时来运转 实则在顶风作案\n[02:17.06]待曲终又人散 这一出还有谁在围观\n[02:21.82]静悄悄配唠唠叨叨\n[02:24.00]随便瞧瞧我凑凑热闹\n[02:26.34]客串也别太潦草\n[02:28.70]吃的生蚝要蘸个酱料\n[02:31.00]悄悄你唠唠叨叨\n[02:33.30]随便瞧瞧你凑的热闹\n[02:35.68]听到你做个记号\n[02:37.84]请装进书包别四处招摇\n[02:40.29]有人迷途知返\n[02:45.08]便是苦尽甘来\n[02:50.00]一瞬三年五载\n[02:54.15]这曲终又人散\n[03:33.63]\n"
+        },
+        {
+          "title": "绿色",
+          "artist": "陈雪凝",
+          "src": "http://m10.music.126.net/20190514115117/570c9ac9c65961a596017c7b0b331a63/ymusic/76b4/dcbb/0a65/9198b18815ee8ce42ae368ae29276f78.mp3",
+          "pic": "/static/img/ls.jpg",
+          "lrc":"[00:00.000] 作曲 : 陈雪凝\n[00:00.006] 作词 : 陈雪凝\n[00:00.18]编曲：Dadz\n[00:01.18]若不是你突然闯进我生活\n[00:04.67]我怎会把死守的寂寞放任了\n[00:26.15]说不痛苦那是假的\n[00:29.62]毕竟我的心也是肉做的\n[00:34.00]你离开时我心里的彩虹\n[00:37.90]就变成灰色\n[00:41.87]说不心酸那是假的\n[00:45.32]如果我真的没那么爱过\n[00:49.24]爱着一个没有灵魂的人\n[00:52.73]世界都是黑色\n[00:56.97]若不是你突然闯进 我生活\n[01:00.82]我怎会把死守的寂寞 放任了\n[01:04.76]爱我的话你都说\n[01:06.76]爱我的事你不做\n[01:08.77]我却把甜言蜜语当做你爱我的躯壳\n[01:13.19]你的悲伤难过我不参破\n[01:16.61]我也会把曾经的且过 当施舍\n[01:20.55]不去计较你太多\n[01:22.55]从此你在我心里\n[01:24.19]只剩绿色\n[01:44.78]说很快活那是假的\n[01:48.29]你的名字依然那么深刻\n[01:52.24]每个字都刺穿我的心脏\n[01:56.04]那鲜明的痛是红色\n[01:59.87]若不是你突然闯进 我生活\n[02:03.81]我怎会把死守的寂寞 放任了\n[02:07.70]爱我的话你都说\n[02:09.74]爱我的事你不做\n[02:11.70]我却把甜言蜜语当做你爱我的躯壳\n[02:16.07]你的悲伤难过我不参破\n[02:19.50]我也会把曾经的且过 当施舍\n[02:23.51]不去计较你太多\n[02:25.43]从此你在我心里\n[02:27.11]只剩绿色\n[02:32.13]呼～\n[03:34.28]若不是你突然闯进 我生活\n[03:38.18]我怎会把死守的寂寞 放任了\n[03:42.09]爱我的话你都说\n[03:44.13]爱我的事你不做\n[03:46.10]我却把甜言蜜语当做你爱我的躯壳\n[03:50.63]若不是你突然闯进 我生活\n[03:53.96]我怎会把死守的寂寞 放任了\n[03:57.87]爱我的话你都说\n[03:59.88]爱我的事你不做\n[04:01.90]我却把甜言蜜语当做你爱我的躯壳\n[04:06.29]你的悲伤难过我不参破\n[04:09.73]我也会把曾经的且过 当施舍\n[04:13.65]若不是你突然闯进 我生活\n[04:17.62]我怎会把死守的寂寞 放任了\n[04:21.50]爱我的话你都说\n[04:23.53]爱我的事你不做\n[04:25.55]我却把甜言蜜语当做你爱我的躯壳\n[04:31.59]和声：李美灵芝\n[04:33.11]混音：一曲不空\n[04:34.34]发行：3SEVEN叁七\n"
+        },
+        {
+          "title": "像我这样的人",
+          "artist": "毛不易",
+          "src": "http://m10.music.126.net/20190514115217/3909a68c4aa08aa009b893dd5a286d64/ymusic/5605/07fd/b516/a10d9e248c19d9ac2d40d2b0596fc09b.mp3",
+          "pic": "/static/img/xwzydr.jpg",
+          "lrc":"[00:00.000] 作曲 : 毛不易\n[00:01.000] 作词 : 毛不易\n[00:09.340]编曲Arranger : 赵兆 宋涛\n[00:09.840]\n[00:15.000]像我这样优秀的人\n[00:18.770]本该灿烂过一生\n[00:22.620]怎么二十多年到头来\n[00:26.700]还在人海里浮沉\n[00:30.240]\n[00:30.350]像我这样聪明的人\n[00:34.500]早就告别了单纯\n[00:38.380]怎么还是用了一段情\n[00:42.360]去换一身伤痕\n[00:44.680]\n[00:46.150]像我这样迷茫的人\n[00:49.840]像我这样寻找的人\n[00:53.800]像我这样碌碌无为的人\n[00:57.590]你还见过多少人\n[01:06.910]\n[01:18.640]像我这样庸俗的人\n[01:22.830]从不喜欢装深沉\n[01:26.540]怎么偶尔听到老歌时\n[01:30.620]忽然也晃了神\n[01:34.380]像我这样懦弱的人\n[01:38.240]凡事都要留几分\n[01:42.200]怎么曾经也会为了谁\n[01:45.950]想过奋不顾身\n[01:47.680]\n[01:49.870]像我这样迷茫的人\n[01:53.770]像我这样寻找的人\n[01:57.490]像我这样碌碌无为的人\n[02:01.450]你还见过多少人\n[02:04.690]\n[02:05.460]像我这样孤单的人\n[02:09.200]像我这样傻的人\n[02:13.260]像我这样不甘平凡的人\n[02:16.990]世界上有多少人\n[02:21.580]\n[02:26.760]像我这样迷茫的人\n[02:30.510]像我这样寻找的人\n[02:34.370]像我这样碌碌无为的人\n[02:38.230]你还见过多少人\n[02:41.240]\n[02:42.000]像我这样孤单的人\n[02:46.100]像我这样傻的人\n[02:49.970]像我这样不甘平凡的人\n[02:53.650]世界上有多少人\n[02:56.630]\n[02:59.630]像我这样莫名其妙的人\n[03:05.430]会不会有人心疼\n[03:14.050]\n[03:14.900]制作人Producer : 李健 赵兆\n[03:15.360]口琴Harmonica : 刘晓光\n[03:15.820]键盘Keyboard : 赵兆\n[03:16.790]吉他Guitar : 薛峰\n[03:17.610]贝斯Bass : 韩阳\n[03:18.600]鼓Drum : 武勇恒\n[03:19.370]弦乐Strings : 国际首席爱乐乐团International Master Philharmonic Orchestra\n[03:20.230]混音Mixing : 周天澈\n[03:21.190]母带Mastering : Joe LaPorta .（Sterling Sound. NY）\n[03:21.880]录音棚Studio : 55TEC . Beijing\n[03:22.690]录音Recording : 李游 李杨\n[03:23.380]人声录音Vocal Recording : 李杨\n[03:24.100]人声编辑Vocal Editing : 李杨\n[03:24.670]录音助理Recording Assistants : 郭舒文 邢铜\n[03:25.260]音乐制作发行produced and distributed : 哇唧唧哇×智慧大狗\n[03:25.940]\n"
+        },
+        {
+          "title": "年少有为",
+          "artist": "李荣浩",
+          "src": "http://m10.music.126.net/20190514115311/920bbacf664fed9a9fe02d5c35fe87e5/ymusic/555c/055f/035a/b6da3ffc8d2561b321284004c81da136.mp3",
+          "pic": "/static/img/nsyw.jpg",
+          "lrc":"[00:00.000] 作曲 : 李荣浩\n[00:01.000] 作词 : 李荣浩\n[00:25.03]编曲：李荣浩\n[00:27.78]\n[00:29.91]电视一直闪\n[00:33.03]联络方式都还没删\n[00:36.78]你待我的好\n[00:40.52]我却错手毁掉\n[00:43.92]\n[02:25.47][00:44.52]也曾一起想\n[02:28.74][00:47.72]有个地方睡觉吃饭\n[02:33.14][00:51.41]可怎么去熬日夜颠倒连头款也凑不到\n[02:40.76][00:58.91] 墙板 被我砸烂 到现在还没修\n[02:47.78][01:05.97]一碗热的粥 你怕我没够 都留一半带走\n[02:54.33][01:12.51]给你形容 美好今后你常常眼睛会红\n[03:02.25][01:20.42]原来心疼我 我那时候不懂\n[03:08.74][01:27.35]假如我年少有为不自卑\n[03:13.33][01:31.43]懂得什么是珍贵\n[03:16.08][01:34.43]那些美梦\n[03:17.98][01:37.37]没给你 我一生有愧\n[03:23.64][01:41.29]假如我年少有为 知进退\n[03:28.00][01:46.05]才不会让你替我受罪\n[03:31.73][01:49.94]婚礼上 多喝几杯\n[03:35.03][01:53.14]和你现在那位\n[03:41.36]假如我年少有为不自卑\n[03:45.92]尝过后悔的滋味\n[03:48.67]金钱地位\n[03:52.36]搏到了却好想退回\n[03:56.39]假如我年少有为 知进退\n[04:00.74]才不会让你替我受罪\n[04:04.64]婚礼上 多喝几杯\n[04:07.80]和你现在那位\n[04:15.36]在婚礼上 多喝几杯\n[04:18.65]祝我年少有为\n[04:30.19]\n[04:31.11]制作人：李荣浩\n[04:31.79]吉他：李荣浩\n[04:32.39]贝斯：李荣浩\n[04:32.93]鼓：Alex\n[04:33.51]和声编写：李荣浩\n[04:33.98]和声：李荣浩\n[04:34.41]弦乐编写：李荣浩\n[04:34.81]弦乐：国际首席爱乐乐团\n[04:35.17]录音师：李荣浩\n[04:35.51]混音师：李荣浩\n[04:35.74]录音室：北京一样音乐录音室\n[04:35.97]混音室：北京一样音乐录音室\n[04:36.18]母带后期制作人：李荣浩\n[04:36.40]母带后期处理工程师：周天澈TC Z.\n[04:36.63]母带后期处理录音室：TC Faders\n[04:36.85]\n"
+        },
+        {
+          "title": "孤独患者",
+          "artist": "陈奕迅",
+          "src": "http://m10.music.126.net/20190513204505/0100d36524ab43fe49bcf18fbedf0563/ymusic/dbc0/6141/a7e2/5d049d85c0784326e0e48726835ec652.mp3",
+          "pic": "/static/img/cyx.jpg",
+          "lrc":"[00:00.000] 作曲 : 方大同\n[00:01.000] 作词 : 小寒\n[00:16.940]欢笑声 欢呼声\n[00:21.320]炒热气氛 心却很冷\n[00:23.840]聚光灯 是种蒙恩\n[00:27.110]我却不能 喊等一等\n[00:30.940]我真佩服我 还能幽默\n[00:32.320]\n[00:34.140]掉眼泪时用笑掩过 怕人看破 顾虑好多\n[00:42.040]不谈寂寞 我们就都快活\n[00:46.810]\n[00:48.040]我不唱声嘶力竭的情歌\n[00:54.940]不表示没有心碎的时刻\n[01:01.650]我不曾摊开伤口任宰割 愈合就无人晓得\n[01:11.810]我内心挫折\n[01:16.020]活像个孤独患者 自我拉扯\n[01:23.740]外向的孤独患者 有何不可\n[01:28.940]\n[01:38.540]笑越大声 越是残忍\n[01:41.610]挤满体温 室温更冷\n[01:45.940]万一关灯 空虚扰人\n[01:48.740]我却不能 喊等一等\n[01:52.040]\n[01:53.570]你说你爱我 却一直说\n[01:57.240]说我不该窝在角落 策划逃脱 这也有错\n[02:04.360]连我脆弱 的权利都掠夺\n[02:09.620]\n[02:10.940]我不唱声嘶力竭的情歌\n[02:17.440]不表示没有心碎的时刻\n[02:24.750]我不曾摊开伤口任宰割 愈合就无人晓得\n[02:34.920]我内心挫折\n[02:38.610]活像个孤独患者自我拉扯\n[02:45.710]外向的孤独患者 有何不可\n[02:50.620]\n[03:21.350]我不要声嘶力竭的情歌\n[03:27.710]来提示我需要你的时刻\n[03:34.640]表面镇定并不是保护色 反而是要你懂得\n[03:45.540]我不知为何\n[03:48.770]活像个孤独患者 自我拉扯\n[03:55.940]外向的孤独患者 需要认可\n"
+        },
+        {
+          "title": "出山",
+          "artist": "花粥",
+          "src": "http://m10.music.126.net/20190514114959/6184aa79d45783004ba1f2a23dc1d0d4/ymusic/060f/065d/035d/1ec946a952174085f7b347d4c0aa5151.mp3",
+          "pic": "/static/img/cs.jpg",
+          "lrc":"[00:00.000] 作曲 : 花粥\n[00:01.000] 作词 : 花粥\n[00:10.43]\n[00:11.12]在夜半三更过天桥从来不敢回头看\n[00:15.86]白日里是车水马龙此时脚下是忘川\n[00:21.30]我独自走过半山腰山间野狗来作伴\n[00:25.19]层林尽染百舸流秋风吹过鬼门关\n[00:29.81]一瞬三年五载 品粗茶 食淡饭\n[00:34.49]六界八荒四海 无人与我来叫板\n[00:39.19]人间荒唐古怪 竹林外 有书斋\n[00:43.78]匿于此地畅快 偏来者不善善者不来\n[00:50.85]是我装模作样在瞎掰\n[00:55.18]还是他们本就心怀鬼胎\n[00:57.82]有人不知悔改 迷雾中混淆黑白\n[01:02.46]在情怀里市侩 旁人不敢来拆穿\n[01:07.17]看似时来运转 实则在顶风作案\n[01:11.73]待曲终又人散 这一出还有谁在围观\n[01:16.79]在凡尘修炼二十载听闻水能滴石穿\n[01:21.07]帝王豪杰风云变幻敌不过桑田沧海\n[01:25.85]我不关心谁的江山只眷恋两小无猜\n[01:30.36]兴风作浪不稀罕只身固守峨眉山\n[01:35.14]一瞬三年五载 品粗茶 食淡饭\n[01:39.73]六界八荒四海 无人与我来叫板\n[01:44.33]人间荒唐古怪 竹林外 有书斋\n[01:49.11]匿于此地畅快 偏来者不善善者不来\n[01:56.00]是我装模作样在瞎猜\n[02:00.39]还是他们本就心怀鬼胎\n[02:03.15]有人不知悔改 迷雾中混淆黑白\n[02:07.73]在情怀里市侩 旁人不敢来拆穿\n[02:12.39]看似时来运转 实则在顶风作案\n[02:17.06]待曲终又人散 这一出还有谁在围观\n[02:21.82]静悄悄配唠唠叨叨\n[02:24.00]随便瞧瞧我凑凑热闹\n[02:26.34]客串也别太潦草\n[02:28.70]吃的生蚝要蘸个酱料\n[02:31.00]悄悄你唠唠叨叨\n[02:33.30]随便瞧瞧你凑的热闹\n[02:35.68]听到你做个记号\n[02:37.84]请装进书包别四处招摇\n[02:40.29]有人迷途知返\n[02:45.08]便是苦尽甘来\n[02:50.00]一瞬三年五载\n[02:54.15]这曲终又人散\n[03:33.63]\n"
+        },
+        {
+          "title": "绿色",
+          "artist": "陈雪凝",
+          "src": "http://m10.music.126.net/20190514115117/570c9ac9c65961a596017c7b0b331a63/ymusic/76b4/dcbb/0a65/9198b18815ee8ce42ae368ae29276f78.mp3",
+          "pic": "/static/img/ls.jpg",
+          "lrc":"[00:00.000] 作曲 : 陈雪凝\n[00:00.006] 作词 : 陈雪凝\n[00:00.18]编曲：Dadz\n[00:01.18]若不是你突然闯进我生活\n[00:04.67]我怎会把死守的寂寞放任了\n[00:26.15]说不痛苦那是假的\n[00:29.62]毕竟我的心也是肉做的\n[00:34.00]你离开时我心里的彩虹\n[00:37.90]就变成灰色\n[00:41.87]说不心酸那是假的\n[00:45.32]如果我真的没那么爱过\n[00:49.24]爱着一个没有灵魂的人\n[00:52.73]世界都是黑色\n[00:56.97]若不是你突然闯进 我生活\n[01:00.82]我怎会把死守的寂寞 放任了\n[01:04.76]爱我的话你都说\n[01:06.76]爱我的事你不做\n[01:08.77]我却把甜言蜜语当做你爱我的躯壳\n[01:13.19]你的悲伤难过我不参破\n[01:16.61]我也会把曾经的且过 当施舍\n[01:20.55]不去计较你太多\n[01:22.55]从此你在我心里\n[01:24.19]只剩绿色\n[01:44.78]说很快活那是假的\n[01:48.29]你的名字依然那么深刻\n[01:52.24]每个字都刺穿我的心脏\n[01:56.04]那鲜明的痛是红色\n[01:59.87]若不是你突然闯进 我生活\n[02:03.81]我怎会把死守的寂寞 放任了\n[02:07.70]爱我的话你都说\n[02:09.74]爱我的事你不做\n[02:11.70]我却把甜言蜜语当做你爱我的躯壳\n[02:16.07]你的悲伤难过我不参破\n[02:19.50]我也会把曾经的且过 当施舍\n[02:23.51]不去计较你太多\n[02:25.43]从此你在我心里\n[02:27.11]只剩绿色\n[02:32.13]呼～\n[03:34.28]若不是你突然闯进 我生活\n[03:38.18]我怎会把死守的寂寞 放任了\n[03:42.09]爱我的话你都说\n[03:44.13]爱我的事你不做\n[03:46.10]我却把甜言蜜语当做你爱我的躯壳\n[03:50.63]若不是你突然闯进 我生活\n[03:53.96]我怎会把死守的寂寞 放任了\n[03:57.87]爱我的话你都说\n[03:59.88]爱我的事你不做\n[04:01.90]我却把甜言蜜语当做你爱我的躯壳\n[04:06.29]你的悲伤难过我不参破\n[04:09.73]我也会把曾经的且过 当施舍\n[04:13.65]若不是你突然闯进 我生活\n[04:17.62]我怎会把死守的寂寞 放任了\n[04:21.50]爱我的话你都说\n[04:23.53]爱我的事你不做\n[04:25.55]我却把甜言蜜语当做你爱我的躯壳\n[04:31.59]和声：李美灵芝\n[04:33.11]混音：一曲不空\n[04:34.34]发行：3SEVEN叁七\n"
+        },
+        {
+          "title": "像我这样的人",
+          "artist": "毛不易",
+          "src": "http://m10.music.126.net/20190514115217/3909a68c4aa08aa009b893dd5a286d64/ymusic/5605/07fd/b516/a10d9e248c19d9ac2d40d2b0596fc09b.mp3",
+          "pic": "/static/img/xwzydr.jpg",
+          "lrc":"[00:00.000] 作曲 : 毛不易\n[00:01.000] 作词 : 毛不易\n[00:09.340]编曲Arranger : 赵兆 宋涛\n[00:09.840]\n[00:15.000]像我这样优秀的人\n[00:18.770]本该灿烂过一生\n[00:22.620]怎么二十多年到头来\n[00:26.700]还在人海里浮沉\n[00:30.240]\n[00:30.350]像我这样聪明的人\n[00:34.500]早就告别了单纯\n[00:38.380]怎么还是用了一段情\n[00:42.360]去换一身伤痕\n[00:44.680]\n[00:46.150]像我这样迷茫的人\n[00:49.840]像我这样寻找的人\n[00:53.800]像我这样碌碌无为的人\n[00:57.590]你还见过多少人\n[01:06.910]\n[01:18.640]像我这样庸俗的人\n[01:22.830]从不喜欢装深沉\n[01:26.540]怎么偶尔听到老歌时\n[01:30.620]忽然也晃了神\n[01:34.380]像我这样懦弱的人\n[01:38.240]凡事都要留几分\n[01:42.200]怎么曾经也会为了谁\n[01:45.950]想过奋不顾身\n[01:47.680]\n[01:49.870]像我这样迷茫的人\n[01:53.770]像我这样寻找的人\n[01:57.490]像我这样碌碌无为的人\n[02:01.450]你还见过多少人\n[02:04.690]\n[02:05.460]像我这样孤单的人\n[02:09.200]像我这样傻的人\n[02:13.260]像我这样不甘平凡的人\n[02:16.990]世界上有多少人\n[02:21.580]\n[02:26.760]像我这样迷茫的人\n[02:30.510]像我这样寻找的人\n[02:34.370]像我这样碌碌无为的人\n[02:38.230]你还见过多少人\n[02:41.240]\n[02:42.000]像我这样孤单的人\n[02:46.100]像我这样傻的人\n[02:49.970]像我这样不甘平凡的人\n[02:53.650]世界上有多少人\n[02:56.630]\n[02:59.630]像我这样莫名其妙的人\n[03:05.430]会不会有人心疼\n[03:14.050]\n[03:14.900]制作人Producer : 李健 赵兆\n[03:15.360]口琴Harmonica : 刘晓光\n[03:15.820]键盘Keyboard : 赵兆\n[03:16.790]吉他Guitar : 薛峰\n[03:17.610]贝斯Bass : 韩阳\n[03:18.600]鼓Drum : 武勇恒\n[03:19.370]弦乐Strings : 国际首席爱乐乐团International Master Philharmonic Orchestra\n[03:20.230]混音Mixing : 周天澈\n[03:21.190]母带Mastering : Joe LaPorta .（Sterling Sound. NY）\n[03:21.880]录音棚Studio : 55TEC . Beijing\n[03:22.690]录音Recording : 李游 李杨\n[03:23.380]人声录音Vocal Recording : 李杨\n[03:24.100]人声编辑Vocal Editing : 李杨\n[03:24.670]录音助理Recording Assistants : 郭舒文 邢铜\n[03:25.260]音乐制作发行produced and distributed : 哇唧唧哇×智慧大狗\n[03:25.940]\n"
+        },
+        {
+          "title": "年少有为",
+          "artist": "李荣浩",
+          "src": "http://m10.music.126.net/20190514115311/920bbacf664fed9a9fe02d5c35fe87e5/ymusic/555c/055f/035a/b6da3ffc8d2561b321284004c81da136.mp3",
+          "pic": "/static/img/nsyw.jpg",
+          "lrc":"[00:00.000] 作曲 : 李荣浩\n[00:01.000] 作词 : 李荣浩\n[00:25.03]编曲：李荣浩\n[00:27.78]\n[00:29.91]电视一直闪\n[00:33.03]联络方式都还没删\n[00:36.78]你待我的好\n[00:40.52]我却错手毁掉\n[00:43.92]\n[02:25.47][00:44.52]也曾一起想\n[02:28.74][00:47.72]有个地方睡觉吃饭\n[02:33.14][00:51.41]可怎么去熬日夜颠倒连头款也凑不到\n[02:40.76][00:58.91] 墙板 被我砸烂 到现在还没修\n[02:47.78][01:05.97]一碗热的粥 你怕我没够 都留一半带走\n[02:54.33][01:12.51]给你形容 美好今后你常常眼睛会红\n[03:02.25][01:20.42]原来心疼我 我那时候不懂\n[03:08.74][01:27.35]假如我年少有为不自卑\n[03:13.33][01:31.43]懂得什么是珍贵\n[03:16.08][01:34.43]那些美梦\n[03:17.98][01:37.37]没给你 我一生有愧\n[03:23.64][01:41.29]假如我年少有为 知进退\n[03:28.00][01:46.05]才不会让你替我受罪\n[03:31.73][01:49.94]婚礼上 多喝几杯\n[03:35.03][01:53.14]和你现在那位\n[03:41.36]假如我年少有为不自卑\n[03:45.92]尝过后悔的滋味\n[03:48.67]金钱地位\n[03:52.36]搏到了却好想退回\n[03:56.39]假如我年少有为 知进退\n[04:00.74]才不会让你替我受罪\n[04:04.64]婚礼上 多喝几杯\n[04:07.80]和你现在那位\n[04:15.36]在婚礼上 多喝几杯\n[04:18.65]祝我年少有为\n[04:30.19]\n[04:31.11]制作人：李荣浩\n[04:31.79]吉他：李荣浩\n[04:32.39]贝斯：李荣浩\n[04:32.93]鼓：Alex\n[04:33.51]和声编写：李荣浩\n[04:33.98]和声：李荣浩\n[04:34.41]弦乐编写：李荣浩\n[04:34.81]弦乐：国际首席爱乐乐团\n[04:35.17]录音师：李荣浩\n[04:35.51]混音师：李荣浩\n[04:35.74]录音室：北京一样音乐录音室\n[04:35.97]混音室：北京一样音乐录音室\n[04:36.18]母带后期制作人：李荣浩\n[04:36.40]母带后期处理工程师：周天澈TC Z.\n[04:36.63]母带后期处理录音室：TC Faders\n[04:36.85]\n"
+        }
+      ]
+    },
+    "code": 0
+  },
+  "code": 0,
+  "ts": 1557745969076
+}

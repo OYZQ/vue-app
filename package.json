@@ -11,8 +11,11 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "hls.js": "^0.12.4",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-aplayer": "^1.6.1",
+    "vue-router": "^3.0.1",
+    "vue-swipe": "^2.4.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

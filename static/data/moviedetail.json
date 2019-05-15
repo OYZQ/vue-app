@@ -1,0 +1,377 @@
+{
+  "cinemas": [
+    {
+      "id": 26209,
+      "mark": 0,
+      "nm": "星星国际影城新余喜盈门店",
+      "sellPrice": "29",
+      "addr": "渝水区新余高新区渝东大道与虎跃路交汇处喜盈门购物中心",
+      "distance": "5.2km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1
+      },
+      "promotion": {},
+      "showTimes": "10:30 | 11:30 | 12:30"
+    },
+    {
+      "id": 24681,
+      "mark": 0,
+      "nm": "德信影城(上亿广场店)",
+      "sellPrice": "30",
+      "addr": "渝水区中山路与赣西大道交汇处上亿广场4楼",
+      "distance": "6.5km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张立减2元"
+      },
+      "showTimes": "10:10 | 10:40 | 11:30"
+    },
+    {
+      "id": 14516,
+      "mark": 0,
+      "nm": "东方环球影城",
+      "sellPrice": "28",
+      "addr": "渝水区劳动北路1088号新东方大厦4楼（新纺十字路口）",
+      "distance": "7.4km",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张立减4元"
+      },
+      "showTimes": "10:20 | 11:50 | 12:40"
+    },
+    {
+      "id": 364,
+      "mark": 0,
+      "nm": "横店影城(文化宫店)",
+      "sellPrice": "29",
+      "addr": "渝水区抱石大道179号新工人文化宫（区政府旁）",
+      "distance": "8.5km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张立减10元"
+      },
+      "showTimes": "10:00 | 11:50 | 13:40"
+    },
+    {
+      "id": 367,
+      "mark": 0,
+      "nm": "经典影城(步步高百货店)",
+      "sellPrice": "31",
+      "addr": "渝水区胜利北路步步高购物广场6楼（近洪客隆）",
+      "distance": "8.5km",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张立减4元"
+      },
+      "showTimes": "10:30 | 13:00 | 14:30"
+    },
+    {
+      "id": 6654,
+      "mark": 0,
+      "nm": "万达影城(洪城大厦厚品店)",
+      "sellPrice": "30",
+      "addr": "渝水区抱石大道519号洪城大厦4楼",
+      "distance": "8.8km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "限时¥19.9促销开卡，首单更优惠"
+      },
+      "showTimes": "11:00 | 12:00 | 13:00"
+    },
+    {
+      "id": 369,
+      "mark": 0,
+      "nm": "横店电影城(天恒店)",
+      "sellPrice": "29",
+      "addr": "渝水区胜利南路步步高4楼（近步步高）",
+      "distance": "9.1km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张立减10元"
+      },
+      "showTimes": "10:40 | 12:40 | 14:35"
+    },
+    {
+      "id": 25787,
+      "mark": 0,
+      "nm": "诚丰书馆主题影城—双巨幕(太平洋店)",
+      "sellPrice": "28",
+      "addr": "渝水区北湖西路148号",
+      "distance": "9.3km",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "hallType": [
+          "CGS中国巨幕厅",
+          "杜比全景声厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "CGS中国巨幕厅",
+            "url": ""
+          },
+          {
+            "name": "杜比全景声厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张立减4元"
+      },
+      "showTimes": "10:15 | 11:40 | 12:20"
+    },
+    {
+      "id": 6441,
+      "mark": 0,
+      "nm": "金逸影城IMAX(光美新余抱石店)",
+      "sellPrice": "30",
+      "addr": "渝水区公园北路68号高能广场4楼",
+      "distance": "9.4km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "hallType": [
+          "IMAX厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "IMAX厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1
+      },
+      "promotion": {},
+      "showTimes": "10:25 | 10:55 | 12:20"
+    },
+    {
+      "id": 12396,
+      "mark": 0,
+      "nm": "中影星河国际影城(分宜县)",
+      "sellPrice": "30",
+      "addr": "分宜县钤山西路青龙商厦4楼",
+      "distance": "31.3km",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张立减4元"
+      },
+      "showTimes": "13:05 | 14:20 | 19:10"
+    },
+    {
+      "id": 12252,
+      "mark": 0,
+      "nm": "天幕影城",
+      "sellPrice": "30.5",
+      "addr": "分宜县府前路梦时代广场沃尔玛四楼",
+      "distance": "31.9km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张立减4元"
+      },
+      "showTimes": "10:40 | 13:00 | 15:00"
+    }
+  ],
+  "movieId": "346629",
+  "day": "2019-05-12",
+  "random": 1557626195881,
+  "paging": {
+    "hasMore": false,
+    "limit": 20,
+    "offset": 0,
+    "total": 11
+  },
+  "showDays": {
+    "dates": [
+      {
+        "date": "2019-05-12",
+        "isPredate": 0
+      },
+      {
+        "date": "2019-05-13",
+        "isPredate": 0
+      },
+      {
+        "date": "2019-05-14",
+        "isPredate": 0
+      }
+    ]
+  },
+  "resId": "1557626196164",
+    "detailMovie": {
+      "availableEpisodes": 0,
+      "awardUrl": "",
+      "backgroundColor": "#666666",
+      "bingeWatch": 280645,
+      "bingeWatchst": 0,
+      "cat": "冒险,奇幻,喜剧",
+      "comScorePersona": true,
+      "commented": false,
+      "dir": "罗伯·莱特曼",
+      "distributions": [
+        {
+          "movieScoreLevel": "9-10分",
+          "proportion": "70.43"
+        },
+        {
+          "movieScoreLevel": "5-8分",
+          "proportion": "21.36"
+        },
+        {
+          "movieScoreLevel": "1-4分",
+          "proportion": "8.22"
+        }
+      ],
+      "dra": "蒂姆·古德曼（贾斯提斯·史密斯 饰） 为寻找下落不明的父亲来到莱姆市，意外与父亲的前宝可梦搭档大侦探皮卡丘（瑞恩·雷诺兹 配音）相遇，并惊讶地发现自己是唯一能听懂皮卡丘说话的人类，他们决定组队踏上揭开真相的刺激冒险之路。探案过程中他们邂逅了各式各样的宝可梦，并意外发现了一个足以毁灭整个宝可梦宇宙的惊天阴谋。",
+      "dur": 104,
+      "egg": false,
+      "enm": "POKÉMON Detective Pikachu",
+      "episodeDur": 104,
+      "episodes": 0,
+      "fra": "美国",
+      "frt": "2019-05-10",
+      "globalReleased": true,
+      "id": 346629,
+      "img": "//p0.meituan.net/148.208/movie/f29c0f9ff0340d00085f4bc1a395ecf02603950.jpg",
+      "latestEpisode": 0,
+      "modcsSt": false,
+      "movieType": 0,
+      "multiPub": true,
+      "musicNum": 0,
+      "nm": "大侦探皮卡丘",
+      "onSale": true,
+      "onlinePlay": false,
+      "orderSt": 0,
+      "oriLang": "英语",
+      "photos": [
+        "https://p1.meituan.net/moviemachine/2f8736d506a97452db2715477713380e171382.jpg@130w_180h.webp"
+      ],
+      "pn": 189,
+      "preScorePersona": false,
+      "proScore": 0,
+      "proScoreNum": 1,
+      "pubDesc": "2019-05-10大陆上映",
+      "rt": "2019-05-10",
+      "sc": 8.6,
+      "scm": "",
+      "scoreLabel": "猫眼购票评分",
+      "showst": 3,
+      "snum": 75703,
+      "src": "美国",
+      "star": "瑞安·雷诺兹,贾斯蒂斯·史密斯,凯瑟琳·纽顿",
+      "type": 0,
+      "vd": "http://maoyan.meituan.net/movie/videos/854x48076343d0f5fcd48d49b71433b16968ada.mp4",
+      "ver": "2D/3D/IMAX 3D/中国巨幕/全景声/ScreenX/4DX",
+      "videoImg": "http://p0.meituan.net/movie/ad22ec511a5222fda792e90766ab02bc406744.jpg@640w_360h_1e_1c",
+      "videoName": "ScreenX新预告放大招 4DX超酷特效精灵活现",
+      "videourl": "http://maoyan.meituan.net/movie/videos/854x48076343d0f5fcd48d49b71433b16968ada.mp4",
+      "viewedSt": 0,
+      "vnum": 29,
+      "vodFreeSt": 0,
+      "vodPlay": false,
+      "vodSt": 0,
+      "watched": 71547,
+      "wish": 280645,
+      "wishst": 0,
+      "version": "v3d imax"
+    }
+  }
+

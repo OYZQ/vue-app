@@ -1,0 +1,3248 @@
+{
+  "total": 48,
+  "r": 0,
+  "data": [
+    {
+      "desc": "有道有术，事可成矣。",
+      "link": "/book/special/Weapon",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "7.2 分 / 【美】丹·罗姆 著 /  中信出版社 / 2017-5",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29440126.jpg"
+              },
+              "title": "一页纸工作整理术"
+            },
+            "sku_id": 197887,
+            "promote_desc": "满48元包邮",
+            "price": "59.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>本书作者丹·罗姆，倡导用画图解决问题。他创办了全球首个线上视觉化思考训练营“餐巾纸学院”，靠一支笔、一张纸横扫全球，帮助商业机构运用视觉化思考工具，解决各种商业问题。<br>即使绘画零基础，短期内也可以通过简单的图，表达创意，整理思路，分享想法。实用的思维工具书。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "一页纸工作整理术",
+            "url": "https://book.douban.com/subject/27034322/",
+            "subject_id": "27034322",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=197887",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "47.20"
+          },
+          {
+            "info": {
+              "meta": "6.5 分 / 日本Sanctuary出版社编著 著 /  中信出版社 / 2015-10",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28314264.jpg"
+              },
+              "title": "图解整理术"
+            },
+            "sku_id": 162539,
+            "promote_desc": "满48元包邮",
+            "price": "28.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>全书三部分：文档整理术，手帐整理术，笔记本整理术，分别对应职场人士的三项必备能力：理文档、排日程，做笔记。“图解”表示，这些整理技能的传授，都是通过图像表达的，细致具体，一目了然。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "图解整理术",
+            "url": "https://book.douban.com/subject/26639151/",
+            "subject_id": "26639151",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=162539",
+            "stock": 6,
+            "is_campaign": false,
+            "promote_price": "22.40"
+          },
+          {
+            "info": {
+              "meta": "6.3 分 / 胡雅茹 著 /  北京时代华文书局 / 2014-10-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s27974649.jpg"
+              },
+              "title": "我的第一本思维导图入门书"
+            },
+            "sku_id": 131630,
+            "promote_desc": "满48元包邮",
+            "price": "36.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>针对零基础的初学者而写。按照整理、分类、绘制的顺序介绍，结合实践案例，介绍了作为思考工具的思维导图，普及为主，偏实用。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "我的第一本思维导图入门书",
+            "url": "https://book.douban.com/subject/26292238/",
+            "subject_id": "26292238",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=131630",
+            "stock": 43,
+            "is_campaign": false,
+            "promote_price": "28.80"
+          },
+          {
+            "info": {
+              "meta": "7.5 分 / ［瑞典］StaffanN?teberg 著 / 大　胖 译 / 人民邮电出版社 / 2014-10",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s27586831.jpg"
+              },
+              "title": "番茄工作法图解"
+            },
+            "sku_id": 161551,
+            "promote_desc": "满48元包邮",
+            "price": "39.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>一个番茄钟=25分钟。番茄工作法如今已非常普及，大部分职场人都理解将时间分解为番茄钟的意义。<br>本书的优势在于全面易懂，作者用图解展示这种流行的时间管理法，结合自身经验，理念与实践兼备。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "番茄工作法图解",
+            "url": "https://book.douban.com/subject/26099295/",
+            "subject_id": "26099295",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=161551",
+            "stock": 66,
+            "is_campaign": false,
+            "promote_price": "31.20"
+          },
+          {
+            "info": {
+              "meta": "7.4 分 / 马克•伍兹（MarkWoods） 著 / 刘钊 译 / 机械工业出版社 / 2013-7",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s26817644.jpg"
+              },
+              "title": "每天学点时间整理术"
+            },
+            "sku_id": 142825,
+            "promote_desc": "满48元包邮",
+            "price": "29.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>本书倡导，时间有限，要充分利用，具体做法是将时间分门别类，像收纳物品一样整理排序：1号桶是每个月的日历；2号桶是万能的桶；3号桶是当天用的桶；4号桶是记忆桶；5号桶是手边的数据桶；6号桶是通讯桶。<br>当然书中讲的不止这么简单，日常生活中也可以根据情况活学活用，很实用的时间管理术。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "每天学点时间整理术",
+            "url": "https://book.douban.com/subject/24846275/",
+            "subject_id": "24846275",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=142825",
+            "stock": 3,
+            "is_campaign": false,
+            "promote_price": "23.20"
+          },
+          {
+            "info": {
+              "meta": "8.2 分 / [美]简·博克(JaneB.Burka)、[美]莱诺拉·袁(LenoraM.Yuen) 著 / 蒋永强、陆正芳 译 / 中国人民大学出版社 / 2009-12",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s4355925.jpg"
+              },
+              "title": "拖延心理学"
+            },
+            "sku_id": 121305,
+            "promote_desc": "满48元包邮",
+            "price": "39.80",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>非常有名的一本书，战拖人士的必读书。两位作者都是心理学家，所以本书侧重从心理学角度检视现代人普遍的拖延心理。<br>除解释拖延现象及其复杂成因，本书也提供了一些经过实践验证的方案，来帮助被拖延问题困扰的人，谋求改善。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "拖延心理学",
+            "url": "https://book.douban.com/subject/4180711/",
+            "subject_id": "4180711",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=121305",
+            "stock": 128,
+            "is_campaign": false,
+            "promote_price": "31.90"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "每天多点工作利器，9本工具书助你走向高效能",
+          "cover": "https://img3.doubanio.com/img/files/file-1508487130-1.jpg",
+          "desc": "列清单、写笔记、画导图、定番茄钟……理想的工作场景，往往井然有序，干练高效。<br><br>本期书单介绍一些好用的思维工具，帮助捕捉灵感，整理思路，处理讯息，管理时间，等等。虽侧重实践的一面，但这些利器背后未必没有理念。<br><br>有道有术，事可成矣。"
+        },
+        "recommends": [
+          "work",
+          "operations"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502850523-0.png"
+        }
+      },
+      "title": "每天多点工作利器，9本工具书助你走向高效能"
+    },
+    {
+      "desc": "科技的发展会给人类社会带来什么？",
+      "link": "/book/special/ai",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "7.7 分 / RayKurzweil 著 / 董振华、李庆成 译 / 机械工业出版社 / 2011-10",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s7645423.jpg"
+              },
+              "title": "奇点临近"
+            },
+            "sku_id": 156213,
+            "promote_desc": "满48元包邮",
+            "price": "69.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>雷·库兹韦尔是谷歌未来学家， “库兹韦尔定律”创立者。有人认为他是科学界的先知，也有人觉得他就是彻头彻尾的科学怪人。<br>在《奇点临近》这本书里，雷·库兹韦尔预测了未来世界的人工智能发展，这不仅是关于人类未来的一份幻想报告，也是对目前已有的科技萌芽的发展预测，涉及生物、神经、强人工智能、宇宙哲学观等等，包罗万象，又十分乐观。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "奇点临近",
+            "url": "https://book.douban.com/subject/6855803/",
+            "subject_id": "6855803",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=156213",
+            "promote_price": "55.20",
+            "is_campaign": false,
+            "stock": 23
+          },
+          {
+            "info": {
+              "meta": "7.3 分 / [美]雷·库兹韦尔 著 / 盛杨燕 译 / 浙江人民出版社 / 2016-3",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s28391178.jpg"
+              },
+              "title": "人工智能的未来"
+            },
+            "sku_id": 135986,
+            "promote_desc": "满48元包邮",
+            "price": "79.90",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>《人工智能的未来》是雷·库兹韦尔另一本代表著作，它的英文原版书名为“How to create a mind”，在这本书里，库兹韦尔坚信人类可以创造出能和人脑媲美的“仿生大脑新皮质”，并且和人脑新皮质对接起来，从而创造出无限可能的人类智能大爆发。<br>《三体》作者刘慈欣评价说，“这一切都不是科学幻想，而是基于现有科技理论所进行的严谨推测。我期待着预言应验的那一天。”",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "人工智能的未来",
+            "url": "https://book.douban.com/subject/26716264/",
+            "subject_id": "26716264",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=135986",
+            "stock": 61,
+            "is_campaign": false,
+            "promote_price": "63.90"
+          },
+          {
+            "info": {
+              "meta": "8.4 分 / [美]凯文·凯利（KevinKelly） 著 / 张行舟等 译 / 译言·东西文库／电子工业出版社 / 2016-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28504961.jpg"
+              },
+              "title": "失控"
+            },
+            "sku_id": 119541,
+            "promote_desc": "满48元包邮",
+            "price": "89.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>凯文·凯利，《连线》杂志创始主编，影响了乔布斯、斯皮尔伯格、沃卓斯基兄弟等人，也是互联网时代的传奇人物之一。<br>他的《失控》成书于1994年，但如今看来也正当其时。凯文·凯利说，“大众智慧、云计算、物联网、虚拟现实、网络社区、网络经济、协作双赢、电子货币……我们今天所知的，绝大多数是我们二十年前就已知的，并且都在这本书中提及了。” <br>全书700多页，是一部全面思考人类社会进化的大部头著作。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "失控",
+            "url": "https://book.douban.com/subject/26652329/",
+            "subject_id": "26652329",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=119541",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "71.20"
+          },
+          {
+            "info": {
+              "meta": "7.1 分 / 默里·沙纳汉 著 / 霍斯亮 译 / 中信出版集团股份有限公司 / 2016-6-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s28715309.jpg"
+              },
+              "title": "技术奇点"
+            },
+            "sku_id": 172366,
+            "promote_desc": "满48元包邮",
+            "price": "49.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>默里·沙纳汉是伦敦帝国工学院的认知机器人学的教授，他的作品横跨人工智能、机器任学、逻辑学和哲学思想等领域。<br>在这本书里，他认为人工智能和神经学的发展，会加速奇点的来临，而一旦出现，就会对人类产生不可逆的后果，但这一切从宇宙性的视角来看，也许会成为另一种生存的机会。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "技术奇点",
+            "url": "https://book.douban.com/subject/26779085/",
+            "subject_id": "26779085",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=172366",
+            "stock": 26,
+            "is_campaign": false,
+            "promote_price": "39.20"
+          },
+          {
+            "info": {
+              "meta": "7.6 分 / [美]杰瑞•卡普兰（JerryKaplan） 著 / 李盼 译 / 浙江人民出版社 / 2016-4-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28659363.jpg"
+              },
+              "title": "人工智能时代"
+            },
+            "sku_id": 157911,
+            "promote_desc": "满48元包邮",
+            "price": "59.90",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>比起理论性的探讨，杰瑞·卡普兰的这本书更加贴近正在发生的现实和人们的危机感。卡普兰是硅谷传奇的连续创业者，曾设计过世界第一台笔触式计算机。<br>卡普兰更关注“当机器人取代了你的工作，你会怎么办？””机器人犯罪，谁才该负责?”等现实问题，也给予了人机共生时代的建议和解决方案。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "人工智能时代",
+            "url": "https://book.douban.com/subject/26776547/",
+            "subject_id": "26776547",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=157911",
+            "stock": 11,
+            "is_campaign": false,
+            "promote_price": "47.90"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "人工智能已经从0到1，这7本书想回答科技到底想要什么",
+          "cover": "https://img3.doubanio.com/img/files/file-1508472603-0.jpg",
+          "desc": "最近的人工智能大新闻是 AlphoGO Zero 的诞生，它不再被人类认知所局限，不再需要任何历史棋谱的指引，以100:0 击败了AlphoGO。<br><br>人工智能是人类的机会还是敌人？科技的发展到底会给人类社会带来什么？这是全体人类共同要面对的问题。今天的书单推荐5位科技前沿思考者的著作，包括凯文·凯利、雷·库兹韦尔、杰瑞·卡普兰等人。<br><br>不管未来会如何，人类的思考本身对人类仍然重要。"
+        },
+        "recommends": [
+          "nobel",
+          "sci-fi"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502850523-0.png"
+        }
+      },
+      "title": "人工智能已经从0到1，这7本书想回答科技到底想要什么"
+    },
+    {
+      "desc": "下一年是哪一位?",
+      "link": "/book/special/nobel",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "7.8 分 / [英]石黑一雄 著 / 周小进 译 / 上海译文出版社 / 2016-1-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28347883.jpg"
+              },
+              "title": "被掩埋的巨人"
+            },
+            "sku_id": 157477,
+            "promote_desc": "满48元包邮",
+            "price": "39.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "7.5折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>2017年诺贝尔文学奖得主是石黑一雄，这本《被掩埋的巨人》是他最新出版的中文作品，也是他的首部长篇，被媒体称为“颠覆了西方奇幻文学既定模式”。<br>这本书为石黑一雄作品系列套装中的一本，另外四本《浮世画家》《无可慰藉》《小夜曲》《被掩埋的巨人》也十分精彩。<br>目前系列套装正在豆瓣书店发售中，此处定价为套装价格。限量1000套赠送豆瓣独家2018手帐本。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "被掩埋的巨人",
+            "url": "https://book.douban.com/subject/26575658/",
+            "subject_id": "26575658",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=157477",
+            "stock": 239,
+            "is_campaign": false,
+            "promote_price": "31.20"
+          },
+          {
+            "info": {
+              "meta": "8.2 分 / [美]鲍勃·迪伦 著 / 徐振锋、吴宏凯 译 / 河南大学出版社 / 2015-2-28",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s27913134.jpg"
+              },
+              "title": "编年史"
+            },
+            "sku_id": 155501,
+            "promote_desc": "满48元包邮",
+            "price": "42.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>2016鲍勃·迪伦获奖出乎大部分人的预料，但鲍勃迪伦无疑是无数人心中的经典。他的歌词的传唱和流行，都让他注定成为传奇。<br>这本《编年史》是鲍勃迪伦的唯一一本自传，是他历时三年在打字机上亲手敲出的回忆录，在初到纽约开始，一步步成为人们眼中的鲍勃·迪伦，这里留下了珍贵的记录。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "编年史",
+            "url": "https://book.douban.com/subject/26265839/",
+            "subject_id": "26265839",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=155501",
+            "stock": 7,
+            "is_campaign": false,
+            "promote_price": "33.60"
+          },
+          {
+            "info": {
+              "meta": "8.8 分 / [白俄]S.A.阿列克谢耶维奇 著 / 吕宁思 译 / 中信出版社 / 2016-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28397415.jpg"
+              },
+              "title": "二手时间"
+            },
+            "sku_id": 120564,
+            "promote_desc": "满48元包邮",
+            "price": "55.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>2015年阿列克谢耶维奇获得诺贝尔文学奖，让非虚构作品成为热门。阿列克谢耶维奇以和当事人访谈的方式，记录了二次大战、阿富汗战争、苏联解体等人类历史上的重大事件。<br>《二手时间》是这位诺奖获得者最具分量的作品，它讲的是苏联解体之后，二十年间普通人的处境。社会的巨大变动，让每个人都重新寻找生活的意义，用最微小的故事，拼出了后苏联时代。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "二手时间",
+            "url": "https://book.douban.com/subject/26704403/",
+            "subject_id": "26704403",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=120564",
+            "stock": 11,
+            "is_campaign": false,
+            "promote_price": "44.00"
+          },
+          {
+            "info": {
+              "meta": "8.0 分 / (法)帕特里克·莫迪亚诺 著 / 金龙格 译 / 99读书人/黄山书社 / 2015-1-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s27730799.jpg"
+              },
+              "title": "夜的草"
+            },
+            "sku_id": 136997,
+            "promote_desc": "满48元包邮",
+            "price": "22.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>2014年，莫迪亚诺获得诺贝尔文学奖时，评委会这样形容他，“莫迪亚诺是我们时代的普鲁斯特，他在用写作和‘遗忘’进行着悲壮的斗争。”<br>《夜的草》是他的第27部作品，也是他的群岛式写作中的一座迷人小岛。空间和时间的错位，让它成为了一个扑朔迷离的青春梦幻。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "夜的草",
+            "url": "https://book.douban.com/subject/26210631/",
+            "subject_id": "26210631",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=136997",
+            "stock": 79,
+            "is_campaign": false,
+            "promote_price": "17.60"
+          },
+          {
+            "info": {
+              "meta": "8.6 分 / [加]艾丽丝·门罗 著 / 李文俊 译 / 北京十月文艺出版社 / 2016-10-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29040872.jpg"
+              },
+              "title": "逃离"
+            },
+            "sku_id": 155308,
+            "promote_desc": "满48元包邮",
+            "price": "49.50",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>2013年门罗获得诺贝尔文学奖，顿时掀起一股门罗风潮，这股风潮到现在也风头不减，门罗也被誉为当代短篇小说大师。<br>《逃离》是她的代表作之一，关于人生、关于家庭、也关于自我。为了逃离沉默的家庭，令人窒息的生活，我们都付出了什么？这本小说为读者细密地揭开。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "逃离",
+            "url": "https://book.douban.com/subject/26863797/",
+            "subject_id": "26863797",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=155308",
+            "stock": 108,
+            "is_campaign": false,
+            "promote_price": "39.60"
+          },
+          {
+            "info": {
+              "meta": "8.6 分 / 莫言 著 /  浙江文艺出版社 / 2017-1-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29249744.jpg"
+              },
+              "title": "蛙"
+            },
+            "sku_id": 154143,
+            "promote_desc": "满48元包邮",
+            "price": "37.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>莫言于2012年获得诺贝尔文学奖，轰动了整个华语文学界。“高密东北乡”成为了世界文学版图中的一部分，也给了中文作者不小的信心。<br>《蛙》这部小说莫言十分看重，他说这是对自己人生几十年的回顾，“写完这部书后，有八个大字沉重地压着我的心头，那就是：他人有罪，我亦有罪。”",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "蛙（莫言作品全编）",
+            "url": "https://book.douban.com/subject/26904483/",
+            "subject_id": "26904483",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=154143",
+            "stock": 1332,
+            "is_campaign": false,
+            "promote_price": "29.60"
+          },
+          {
+            "info": {
+              "meta": "7.6 分 / [秘鲁]马里奥·巴尔加斯·略萨 著 / 赵德明 译 / 华东师范大学出版社 / 2016-7",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28848734.jpg"
+              },
+              "title": "水中鱼：巴尔加斯·略萨回忆录"
+            },
+            "sku_id": 177922,
+            "promote_desc": "满48元包邮",
+            "price": "55.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": false,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>结构写实主义大师略萨，16岁开始创作，21岁出版短篇小说，74岁获得诺贝尔文学奖，现在的他已经81岁了，仍然笔耕不辍。<br>《水中鱼》是略萨角逐秘鲁总统失败之后，在欧洲撰写的一部文学和政治回忆录。这既是一份政治立场的声明，又是一场文学生涯的见证。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "水中鱼：巴尔加斯·略萨回忆录",
+            "url": "https://book.douban.com/subject/26776029/",
+            "subject_id": "26776029",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=177922",
+            "stock": 1,
+            "is_campaign": false,
+            "promote_price": "44.00"
+          },
+          {
+            "info": {
+              "meta": "7.2 分 / [法]杰米娅•勒克莱齐奥、[法]J.M.G.勒克莱齐奥、[法]布鲁诺•巴尔比摄影 著 / 张璐 译 / 人民文学出版社/上海九久读书人 / 2017-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s29154778.jpg"
+              },
+              "title": "逐云而居"
+            },
+            "sku_id": 154538,
+            "promote_desc": "满48元包邮",
+            "price": "48.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>法国作家勒克莱齐奥，曾经被法国读者评选为当代最伟大的法语作家，2008年获得了诺贝尔文学奖。授奖词为“一个集背叛,诗意冒险和感性迷狂于一身的作家,探寻文明支配下的边缘人性。”<br>《诉讼笔录》《看不见的大陆》都是他的代表作，《逐云而居》作为他最新一部中文出版作品，是他和妻子一起寻访撒瑰亚•哈姆拉河谷的旅途笔记。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "逐云而居",
+            "url": "https://book.douban.com/subject/26916556/",
+            "subject_id": "26916556",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=154538",
+            "stock": 9,
+            "is_campaign": false,
+            "promote_price": "38.40"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "盘点10年诺贝尔文学奖，谁是你最喜爱的诺奖作家？",
+          "cover": "https://img3.doubanio.com/img/files/file-1508229570-0.jpg",
+          "desc": "2017年，作家石黑一雄获得本年度的诺贝尔文学奖。颁奖季依旧是热闹的，也照例引发了谁更有资格获奖的大讨论。<br><br>诺贝尔文学奖，它的评奖标准到底是什么？哪位作家才是你心中最实至名归的诺奖得主？<br><br>本期书单盘点了近10年来的诺贝尔文学奖作家作品，来看看这些年，我们一起追过的诺奖吧。"
+        },
+        "recommends": [
+          "sci-fi",
+          "psychology2"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502850523-0.png"
+        }
+      },
+      "title": "盘点10年诺贝尔文学奖，谁是你最喜爱的诺奖作家？"
+    },
+    {
+      "desc": "来让心中的爱被融化吧！",
+      "link": "/book/special/picturebook",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "8.6 分 / [日]高木直子 著 / 香冰 译 / 百花洲文艺出版社 / 2016-9-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s32265320.jpg"
+              },
+              "title": "一个人住第几年？"
+            },
+            "sku_id": 118106,
+            "promote_desc": "满48元包邮",
+            "price": "30.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>高木直子被绘本爱好者誉为日本的“绘本天后”，人气席卷全中国。《一个人住第几年?》以高木直子的独居生活为蓝本，讲述了一个女生独自在大城市打拼的真实感受。<br>本书是高木直子一个人系列的最新一本，从《一个人住第五年》《一个人住第九年》到现在的《一个人住第几年？》，可爱幽默的画风和努力生活的决心一直没有变过。如果你也是一个人住，会在这本书里找到共鸣。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "一个人住第几年？",
+            "url": "https://book.douban.com/subject/26886428/",
+            "subject_id": "26886428",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=118106",
+            "stock": 4,
+            "is_campaign": false,
+            "promote_price": "24.00"
+          },
+          {
+            "info": {
+              "meta": "8.3 分 / [日]竹久梦二 著 / 郭尔雅 译 / 现代出版社 / 2016-1-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28347575.jpg"
+              },
+              "title": "梦二画集·春之卷"
+            },
+            "sku_id": 173411,
+            "promote_desc": "满48元包邮",
+            "price": "55.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>《梦二画集·春之卷》是日本天才画家竹久梦二在25岁时的处女作，同时也是其代表作，后续出版了同系列的夏之卷、秋之卷、冬之卷等。书中流露着游子思乡之情、孩童的天真、恋人间微妙的情感。梦二式柔软而飘逸的笔致、凄婉而哀愁的情调、雅秀的题字，得见者无不印象深刻。<br>竹久梦二独创了大量的自由画作，诗句精炼且富有韵味。“爱”与“美”是他诗画的核心，其画作还曾深刻影响了丰子恺先生，并深受鲁迅、周作人、朱自清等的喜爱。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "梦二画集·春之卷",
+            "url": "https://book.douban.com/subject/26658069/",
+            "subject_id": "26658069",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=173411",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "44.00"
+          },
+          {
+            "info": {
+              "meta": "9.1 分 / 宫西达也文/图 著 / 蒲蒲兰 译 / 二十一世纪出版社 / 2005-8",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s26278523.jpg"
+              },
+              "title": "你真好"
+            },
+            "sku_id": 132927,
+            "promote_desc": "满48元包邮",
+            "price": "32.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": false,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>《你真好》是日本绘画家宫西达也恐龙温馨故事系列第三本，讲述了恐龙之间的友情和爱情。这本书延续了《你看起来好像很好吃》《我是霸王龙》雄浑质朴的画风、曲折动人的情节和细腻丰富的情感。<br>宫西达也从童年记忆中获取创作灵感，使作品充满了儿童天真的趣味，而温馨诙谐的故事又饱含深情，让人感动。宫西达也的这本《你真好》告诉我们，这个世界没有永远的坏人，每个人内心总有最最柔软的一面，只等你来发现。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "你真好",
+            "url": "https://book.douban.com/subject/1436586/",
+            "subject_id": "1436586",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=132927",
+            "stock": 264,
+            "is_campaign": false,
+            "promote_price": "25.60"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "忍不住落泪与微笑，7本治愈系绘本的魔力",
+          "cover": "https://img3.doubanio.com/img/files/file-1505820997-1.jpg",
+          "desc": "无论孩子还是成人，内心深处都有一块柔软无比的地方，在那里蕴含着的，就是爱。绘本有一种魔力，可以触及那块柔软的地方。<br><br>本期书单精选7本大人绘本，或幽默，或温馨，美好又丰富。来读绘本吧，让心中的爱被治愈、被融化。<br><br>一个互动：你最心爱的绘本是 _______ ?<br><br>"
+        },
+        "recommends": [
+          "photography",
+          "poetry"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502462382-0.png"
+        }
+      },
+      "title": "忍不住落泪与微笑，7本治愈系绘本的魔力"
+    },
+    {
+      "desc": "探索在未来可能发生的一切可能。",
+      "link": "/book/special/sci-fi",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "8.4 分 / [美]艾萨克·阿西莫夫 著 / 崔正男 译 / 江苏凤凰文艺出版社 / 2014-12-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s27882508.jpg"
+              },
+              "title": "神们自己"
+            },
+            "sku_id": 132625,
+            "promote_desc": "满48元包邮",
+            "price": "39.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>艾萨克•阿西莫夫一生之中著作近500 本，涉及杜威图书分类法的每一个范畴，被全世界读者誉为“神一样的人”。他的每一部著作都朴实、严谨而又充满幽默风趣。<br>在《神们自己》里面描述的22世纪，地球可以和平行宇宙进行物质交换，从此拥有了源源不绝的能源。但是，只有几个人才知道危险的真相：太阳即将毁灭，人类将为此付出极大代价。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "神们自己",
+            "url": "https://book.douban.com/subject/26264967/",
+            "subject_id": "26264967",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=132625",
+            "stock": 83,
+            "is_campaign": false,
+            "promote_price": "31.20"
+          },
+          {
+            "info": {
+              "meta": "7.8 分 / [美]弗兰克·赫伯特 著 / 潘振华 译 / 江苏凤凰文艺出版社 / 2017-2-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29245314.jpg"
+              },
+              "title": "沙丘"
+            },
+            "sku_id": 151055,
+            "promote_desc": "满48元包邮",
+            "price": "68.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>弗兰克•赫伯特是美国极具影响力的科幻巨匠，与科幻大师阿西莫夫并肩。他是首位普及“生态学”和“系统思想”的科幻作家，而《沙丘》是他的代表作。<br>弗兰克构造了一个庞大而完整的世界体系，在遥远的未来，人类已经越出了地球建立了恒星帝国，由三种势力控制整个社会。这本书风靡全球半个多世纪,入选BBC英国最受欢迎的100本书。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "沙丘",
+            "url": "https://book.douban.com/subject/26836970/",
+            "subject_id": "26836970",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=151055",
+            "stock": 384,
+            "is_campaign": false,
+            "promote_price": "54.40"
+          },
+          {
+            "info": {
+              "meta": "8.0 分 / (英)戈尔丁 著 / 龚志成 译 / 上海译文出版社 / 2014-7",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s27886464.jpg"
+              },
+              "title": "蝇王"
+            },
+            "sku_id": 126544,
+            "promote_desc": "满48元包邮",
+            "price": "39.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>威廉·戈尔丁曾获诺贝尔文学奖，着力表现“人心的黑暗”这一主题，探讨人类天生的野蛮与文明的理性的斗争。<br>在《蝇王》里，一场未来的核战争，一架飞机带着一群孩子从本土飞到南方疏散。飞机被击落，孩子们乘坐的机舱落到一座荒岛上。渐渐，孩子们分为两派，开始了权力争夺，互相残杀，人心之恶开始膨胀。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "蝇王",
+            "url": "https://book.douban.com/subject/25905185/",
+            "subject_id": "25905185",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=126544",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "31.20"
+          },
+          {
+            "info": {
+              "meta": "8.9 分 / [美]安迪·威尔 著 / 陈灼 译 / 译林出版社 / 2015-10-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28315660.jpg"
+              },
+              "title": "火星救援"
+            },
+            "sku_id": 115954,
+            "promote_desc": "满48元包邮",
+            "price": "38.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>马克·达蒙出演的《火星救援》成为大热电影，而这个故事的作者安迪·威尔也是为传奇人物，从15岁起就被美国国家实验室聘为软件工程师。《火星救援》是他的处女作。<br>在这个故事里，由于一场沙尘暴，马克与他的团队失联，孤身一人困在火星近549天，他靠着人类的智慧最终回到地球。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "火星救援",
+            "url": "https://book.douban.com/subject/26586492/",
+            "subject_id": "26586492",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=115954",
+            "stock": 47,
+            "is_campaign": false,
+            "promote_price": "30.40"
+          },
+          {
+            "info": {
+              "meta": "8.7 分 / [英]道格拉斯·亚当斯 著 / 姚向辉 译 / 上海译文出版社 / 2011-7",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s6384969.jpg"
+              },
+              "title": "银河系搭车客指南"
+            },
+            "sku_id": 126479,
+            "promote_desc": "满48元包邮",
+            "price": "26.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>道格拉斯·亚当斯是第一个成功结合喜剧和科幻的作家，以《银河系搭车客指南》系列出名。<br>在这里，地球被毁灭，主人公阿瑟·邓特幸存，因为他有一位名叫福特·大老爷的朋友。福特·大老爷其实是个外星人，两人开始了一场穿越银河的冒险，能够帮助他们的只有《银河系搭车客指南》一书中所包括的无限智慧。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "银河系搭车客指南",
+            "url": "https://book.douban.com/subject/6265745/",
+            "subject_id": "6265745",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=126479",
+            "stock": 41,
+            "is_campaign": false,
+            "promote_price": "20.80"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "人类的未来会怎样？科幻作家写下7种可能",
+          "cover": "https://img3.doubanio.com/img/files/file-1507542116-1.jpg",
+          "desc": "科幻作家预言的未来会变成现实吗？<br><br>在许多经典作品中，科幻作家在想象的极端环境里描写人性，探索在未来可能发生的一切可能。事实上，许多科幻作品中描写的场景已经在现实中发生了。<br><br>本期书单推荐7位科幻大师的经典科幻作品，关于科学给人类带来的可能性：灾难、发达、抉择......让我们透过他们的眼睛来一探究竟。<br><br>"
+        },
+        "recommends": [
+          "antiutopia",
+          "aesthetic"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502850523-0.png"
+        }
+      },
+      "title": "人类的未来会怎样？科幻作家写下7种可能"
+    },
+    {
+      "desc": "自助者天助。",
+      "link": "/book/special/psychology2",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "9.3 分 / 罗杰•霍克(RogerR.Hock) 著 / 白学军 译 / 人民邮电出版社 / 2010-8-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s27276912.jpg"
+              },
+              "title": "改变心理学的40项研究"
+            },
+            "sku_id": 123559,
+            "promote_desc": "满48元包邮",
+            "price": "28.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>罗杰·霍克是一位有多年教学经验的心理学教授，他发现教科书无法详述心理学研究的过程，于是精心选出40项研究弥补科学研究和教科书之间的断层。<br>本书有十个专题，每个专题介绍四个著名的心理学研究，对心理学爱好者来说，是一本可以通往真正的心理学的好书。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "改变心理学的40项研究",
+            "url": "https://book.douban.com/subject/5248516/",
+            "subject_id": "5248516",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=123559",
+            "stock": 8,
+            "is_campaign": false,
+            "promote_price": "22.40"
+          },
+          {
+            "info": {
+              "meta": "9.1 分 / 基思•斯坦诺维奇 著 / 窦东徽、刘肖岑 译 / 人民邮电出版社 / 2012-1-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s7649177.jpg"
+              },
+              "title": "对伪心理学说不"
+            },
+            "sku_id": 124154,
+            "promote_desc": "满48元包邮",
+            "price": "28.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>基思·斯坦诺维奇的《对伪心理学说不》一书，被全球300多所心理学高等教育机构采用。<br>书中每一章都将一个常识直觉的有关人类心理的分析和思考，与一个科学严谨的分析和思考相对比，介绍了可证伪性、安慰剂效应、相关和因果等心理学基本原则，帮助普及科学实用的批判性意识。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "对伪心理学说不",
+            "url": "https://book.douban.com/subject/6952036/",
+            "subject_id": "6952036",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=124154",
+            "stock": 43,
+            "is_campaign": false,
+            "promote_price": "22.40"
+          },
+          {
+            "info": {
+              "meta": "8.6 分 / 欧文·亚隆 著 / 张亚 译 / 中国轻工业出版社 / 2015-3",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28914596.jpg"
+              },
+              "title": "直视骄阳：征服死亡恐惧"
+            },
+            "sku_id": 138290,
+            "promote_desc": "满48元包邮",
+            "price": "48.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": false,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>欧文·亚隆是美国团体心理治疗的权威，国际精神医学大师。 他的存在主义哲学观认为，人是自由的，要为自己的选择及行动负责。<br>75岁的欧文·亚隆在《直视骄阳》中，讨论了人类心中普遍存在，却又被长期压抑的死亡恐惧，他以一位普通长者的身份，对内心的死亡恐惧做了自我表露与剖析。死亡焦虑不可避免，却可由此思考人生意义。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "直视骄阳：征服死亡恐惧（万千心理）",
+            "url": "https://book.douban.com/subject/26660579/",
+            "subject_id": "26660579",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=138290",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "38.40"
+          },
+          {
+            "info": {
+              "meta": "8.3 分 / 克里斯廷·内夫（KristinNeff） 著 / 刘聪慧 译 / 中信出版集团 / ",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29506552.jpg"
+              },
+              "title": "自我关怀的力量"
+            },
+            "sku_id": 211221,
+            "promote_desc": "满48元包邮",
+            "price": "42.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>克里斯廷·内夫是自我关怀领域的创始人，倡导用自我关怀的方式解除心理束缚，与自己和解。<br>《自我关怀的力量》认为，现在的社会文化使人习惯于自尊和自我批评，但若少了自我关怀，则既不能善待别人，也不能善待自己。我们需要转变心理模式，用积极力量进行自我关怀，接受自己的不完美与苦难。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "自我关怀的力量",
+            "url": "https://book.douban.com/subject/27101895/",
+            "subject_id": "27101895",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=211221",
+            "stock": 47,
+            "is_campaign": false,
+            "promote_price": "33.60"
+          },
+          {
+            "info": {
+              "meta": "9.0 分 / BesselvanderKolkM.D.(范德考克) 著 / 李智 译 / 机械工业出版社 / 2016-3",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28731910.jpg"
+              },
+              "title": "身体从未忘记"
+            },
+            "sku_id": 160513,
+            "promote_desc": "满48元包邮",
+            "price": "55.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>巴塞尔·范德考克有超过30年的临床和研究经验。他对创伤有着充满创造力的见解，其理论极大地影响了当今主流创伤治疗理论。<br>《身体从未忘记》一书，从战争、重大事故、虐待等创伤出发，告诉人们创伤改变了什么，如何疗愈创伤，并介绍了迄今为止该领域的主要研究成果。能帮助自我疗愈的心理学著作。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "身体从未忘记",
+            "url": "https://book.douban.com/subject/26796536/",
+            "subject_id": "26796536",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=160513",
+            "stock": 376,
+            "is_campaign": false,
+            "promote_price": "44.00"
+          },
+          {
+            "info": {
+              "meta": "8.8 分 / [美]理查德·格里格、菲利普·津巴多 著 / 王垒、王甦等 译 / 人民邮电出版社 / 2003-10",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s1068520.jpg"
+              },
+              "title": "心理学与生活"
+            },
+            "sku_id": 123963,
+            "promote_desc": "满48元包邮",
+            "price": "88.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>理查德·格里格是认知心理学领域专家，菲利普·津巴多是美国心理协会主席，他们是《心理学与生活》的两位作者。<br>这本经典的心理学著作，讲述心理学与生活之间的关联，通俗易懂，助人更好地了解心理学，理解生活。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "心理学与生活",
+            "url": "https://book.douban.com/subject/1032501/",
+            "subject_id": "1032501",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=123963",
+            "stock": 95,
+            "is_campaign": false,
+            "promote_price": "70.40"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "对伪心理学说不，7本心理书助你好好生活",
+          "cover": "https://img3.doubanio.com/img/files/file-1507776211-1.jpg",
+          "desc": "一心一世界。这不是心理学的说法，不过，每个人的内心，可能都有一个完整的小世界吧。<br><br>人与自己，人与他人，人与世界，种种关系交缠纠结，织成一张大网。如何找到自我的位置，并学习自处，是个体的功课。<br><br>心理学将帮助我们，但要真 · 心理学才行。<br><br>"
+        },
+        "recommends": [
+          "psychology",
+          "sci-fi"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502850523-0.png"
+        }
+      },
+      "title": "对伪心理学说不，7本心理书助你好好生活"
+    },
+    {
+      "desc": "天助自助者。",
+      "link": "/book/special/psychology",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "7.8 分 / [德]弗里兹·李曼 著 / 杨梦茹 译 / 山西人民出版社 / 2007-10",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s2742577.jpg"
+              },
+              "title": "直面内心的恐惧"
+            },
+            "sku_id": 157423,
+            "promote_desc": "满48元包邮",
+            "price": "25.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>德国心理学家弗里兹·李曼是慕尼黑心理研究及治疗研究所创始人之一，《直面内心的恐惧》是他最有名的代表作。这本书的叙述方式简单易懂，是一本性格心理学书籍，可以帮助认识不同性格因素的成因。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "直面内心的恐惧",
+            "url": "https://book.douban.com/subject/2282946/",
+            "subject_id": "2282946",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=157423",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "20.00"
+          },
+          {
+            "info": {
+              "meta": "7.8 分 / [加]克里斯多福•孟 著 / 张德芬、余蕙玲 译 / 湖南文艺出版社 / 2015-4",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28045305.jpg"
+              },
+              "title": "亲密关系：通往灵魂的桥梁"
+            },
+            "sku_id": 160581,
+            "promote_desc": "满48元包邮",
+            "price": "35.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>克里斯多福·孟是一位专注于亲密关系领域的心理治疗师，他认为，寻找亲密关系的过程，也是寻找自我的过程，伴侣则是这条路上最好的导师。亲密关系是生命永恒的主题，本书提出：所有在亲密关系中遭受的都是我们自身的问题。<br>“你的亲密关系伴侣，是来帮助你更加认识自己，进而疗愈你的创伤，最终找回真正的自己，因此，亲密关系是通往我们灵魂的桥梁。”",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "亲密关系：通往灵魂的桥梁",
+            "url": "https://book.douban.com/subject/26363229/",
+            "subject_id": "26363229",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=160581",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "28.00"
+          },
+          {
+            "info": {
+              "meta": "8.5 分 / 马歇尔·卢森堡(MarshallB.Rosenberg) 著 / 阮胤华 译 / 华夏出版社 / 2016-1-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28423534.jpg"
+              },
+              "title": "非暴力沟通"
+            },
+            "sku_id": 131250,
+            "promote_desc": "满48元包邮",
+            "price": "33.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>马歇尔·卢森堡博士早年师从心理学大师卡尔·罗杰斯，最早提出非暴力沟通的概念，多次帮助解决国际范围内的冲突和争端。<br>《非暴力沟通》提出，我们应该避免发泄和倾诉，让沟通真正成为交流的渠道。非暴力沟通提供的不仅是一种语言表达方式，更重要的是一种创造和谐的思维模式。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "非暴力沟通",
+            "url": "https://book.douban.com/subject/26728136/",
+            "subject_id": "26728136",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=131250",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "26.40"
+          },
+          {
+            "info": {
+              "meta": "8.8 分 / [美]乔纳森·布朗（JonathonD.Brown）、玛格丽特·布朗（MargaretA.Brown） 著 / 王伟平陈浩莺译、彭凯平审校 译 / 人民邮电出版社 / 2015-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28002941.jpg"
+              },
+              "title": "自我"
+            },
+            "sku_id": 155542,
+            "promote_desc": "满48元包邮",
+            "price": "88.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>我到底是谁？我和他人的异同是什么？自我研究已经是现代心理学的中心主题，对“我”的认识，关系到他人与社会。<br>《自我》的两位作者，乔纳森·布朗的研究兴趣是自尊对成败的影响，玛格丽特·布朗则主要研究亲社会行为、自我心理学、群际关系和偏见等。两人合著的这本《自我》，梳理了心理学界对“自我”的探索史，辅以大量实验说明，有助于感兴趣的读者了解“我”的心理学变迁。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "自我（第2版）",
+            "url": "https://book.douban.com/subject/26319791/",
+            "subject_id": "26319791",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=155542",
+            "stock": 2,
+            "is_campaign": false,
+            "promote_price": "70.40"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "从心开始直面生命，7本心理书助你看世界",
+          "cover": "https://img3.doubanio.com/img/files/file-1506330666-1.jpg",
+          "desc": "读心理书，这几年是一个风潮。<br><br>心理书没有太艰深的门槛，即使是教材，也有可以理解的地方。从好处看，它帮助你了解自己，理解他人，哪怕仅仅是某个角度；但另一面来说，也十分危险：代入心理学视角后，你可能会以为自己懂得的，才是真相。<br><br>人，何其复杂。对生命负责，请从不轻信，和确立自我开始。<br><br>"
+        },
+        "recommends": [
+          "picturebook",
+          "selfness"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502462382-0.png"
+        }
+      },
+      "title": "从心开始直面生命，7本心理书助你看世界"
+    },
+    {
+      "desc": "美，是需要学习的。",
+      "link": "/book/special/aesthetic",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "9.0 分 / 朱光潜 著 /  生活·读书·新知三联书店 / 2012-11",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s24425992.jpg"
+              },
+              "title": "谈美"
+            },
+            "sku_id": 123327,
+            "promote_desc": "满48元包邮",
+            "price": "25.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>朱光潜先生谈艺术与美，是给青年人的美学入门书，侧重中国审美。文笔优美，表达洗练，语言亲切，今天读来，仍是毫不过时的美学启蒙书。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "谈美",
+            "url": "https://book.douban.com/subject/20391552/",
+            "subject_id": "20391552",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=123327",
+            "stock": 13,
+            "is_campaign": false,
+            "promote_price": "20.00"
+          },
+          {
+            "info": {
+              "meta": "8.6 分 / 高居翰(JamesCahill) 著 / 李渝 译 / 生活·读书·新知三联书店 / 2014-4-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s27973714.jpg"
+              },
+              "title": "图说中国绘画史"
+            },
+            "sku_id": 157104,
+            "promote_desc": "满48元包邮",
+            "price": "88.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>西方最受欢迎的简明中国绘画史。通过100幅古代画作串起中国画史，对画面的分析细腻，视角独到，从观画体验入手，也容易理解与进入。作者高居翰，知名汉学家，被誉为最懂中国画的美国人。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "图说中国绘画史",
+            "url": "https://book.douban.com/subject/25774379/",
+            "subject_id": "25774379",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=157104",
+            "stock": 50,
+            "is_campaign": false,
+            "promote_price": "70.40"
+          },
+          {
+            "info": {
+              "meta": "9.3 分 / [美]斯科特·麦克劳德（ScottMccloud） 著 / 万旻 译 / 人民邮电出版社 / 2015-2",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s28019268.jpg"
+              },
+              "title": "理解漫画（第3版）"
+            },
+            "sku_id": 123769,
+            "promote_desc": "满48元包邮",
+            "price": "49.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>为漫画正名的一本书。作者有漫画作品，但以漫画理论闻名。在本书中， 他以漫画的形式介绍漫画，包括其发展历史、艺术语言、表现手法等。漫画即艺术，它不是小人书，而是一种有着强烈表现力的艺术形式。爱漫画，懂漫画。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "理解漫画（第3版）",
+            "url": "https://book.douban.com/subject/26336970/",
+            "subject_id": "26336970",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=123769",
+            "stock": 19,
+            "is_campaign": false,
+            "promote_price": "39.20"
+          },
+          {
+            "info": {
+              "meta": "8.7 分 / 奥托•威廉•汤姆 著 /  北京大学出版社 / 2012-1-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s8897899.jpg"
+              },
+              "title": "奥托手绘彩色植物图谱"
+            },
+            "sku_id": 161563,
+            "promote_desc": "满48元包邮",
+            "price": "75.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>植物听起来就很美，加上手绘，彩色，图谱，可以说十分美了。作者奥托是德国植物学家和植物艺术家，原书于1885年首印，有700幅彩色手绘图，中文版选录近300幅，用来临摹，欣赏，对照认识植物都非常好，家庭必藏书。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "奥托手绘彩色植物图谱",
+            "url": "https://book.douban.com/subject/10513941/",
+            "subject_id": "10513941",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=161563",
+            "stock": 20,
+            "is_campaign": false,
+            "promote_price": "60.00"
+          },
+          {
+            "info": {
+              "meta": "8.5 分 / 马修·弗莱德里克 著 / 张育南、陈虹徽 译 / 机械工业出版社 / 2009-10-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s4046157.jpg"
+              },
+              "title": "建筑师成长记录"
+            },
+            "sku_id": 167203,
+            "promote_desc": "满48元包邮",
+            "price": "29.80",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>中文版副标题是“学习建筑的101点体会”，但并不只给建筑初学者看。101点体会，对应解答了101个建筑设计的关键问题，一图一文，将复杂的建筑学问题，转化为卡通式的图解思考，也适合爱好者作为兴趣入门书。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "建筑师成长记录",
+            "url": "https://book.douban.com/subject/4100551/",
+            "subject_id": "4100551",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=167203",
+            "stock": 1,
+            "is_campaign": false,
+            "promote_price": "23.80"
+          },
+          {
+            "info": {
+              "meta": "9.0 分 / [美]RobinWilliams 著 / 苏金国、李　盼等 译 / 人民邮电出版社 / 2015-11",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s28333268.jpg"
+              },
+              "title": "写给大家看的设计书（第4版）"
+            },
+            "sku_id": 124119,
+            "promote_desc": "满48元包邮",
+            "price": "79.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>一本对非专业人士友好的设计知识普及书。作者总结的设计四大基本原则，化繁为简，简单实用。工作中需要和设计人员沟通，或者希望拥有“设计师之眼”，都可以从这本书开始。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "写给大家看的设计书（第4版）",
+            "url": "https://book.douban.com/subject/26657933/",
+            "subject_id": "26657933",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=124119",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "63.20"
+          },
+          {
+            "info": {
+              "meta": "9.0 分 / [美]路易斯·贾内梯著、[瑞典]英格玛·伯格曼[日]黑泽明等供图 著 / 焦雄屏 译 / 北京联合出版公司 / 2017-4",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29356242.jpg"
+              },
+              "title": "认识电影"
+            },
+            "sku_id": 185491,
+            "promote_desc": "满48元包邮",
+            "price": "68.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>你会看电影吗？没错，看电影也要学习。在电影入门书中，本书属于经典。摄　影、场面调度、运动、剪辑、声音、表演、戏剧、故事、编剧、意识形态、理论……电影是综合性艺术，本书介绍电影的基础知识，也赏析影片，全面、权威。评价电影前，可以考虑先认识电影。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "认识电影 （插图第11版）",
+            "url": "https://book.douban.com/subject/26978752/",
+            "subject_id": "26978752",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=185491",
+            "promote_price": "54.40",
+            "is_campaign": false,
+            "stock": 22
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "如何成为一个专业观看者？9本书陪你看懂世界的美",
+          "cover": "https://img3.doubanio.com/img/files/file-1506509065-1.jpg",
+          "desc": "出门度假，据说正在从“买买买”模式，慢慢转向“看看 + 走走”模式。<br><br>参观美术馆，欣赏艺术品，观看表演，感受建筑，体验风俗……作为纯粹的观者，也要有看到美、认知美的能力。<br><br>如果同一片风景，你记住了一些词，另一些人受到了一些震动，或者可以会心一笑，谁比较幸运？<br><br>不做美盲，别急着教育下一代，先从我们自己开始。"
+        },
+        "recommends": [
+          "beauty",
+          "psychology"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502850523-0.png"
+        }
+      },
+      "title": "如何成为一个专业观看者？9本书陪你看懂世界的美"
+    },
+    {
+      "desc": "为职场加力，也为生活加力。",
+      "link": "/book/special/work",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "8.6 分 / 史蒂芬·柯维(StephenR.Covey) 著 / 高新勇、王亦兵 译 / 中国青年出版社 / 2015-2-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s29471649.jpg"
+              },
+              "title": "高效能人士的七个习惯"
+            },
+            "sku_id": 118523,
+            "promote_desc": "满48元包邮",
+            "price": "68.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>职场新人如果先看这本书，未来应该会少走很多弯路。本书阐述的七个习惯：积极主动、以始为终、要事第一、双赢思维、知彼解己、统合综效、不断更新，简单，却是这个“变化的世界，不变的原则”。道理不难，实践要紧。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "高效能人士的七个习惯（25周年纪念版）",
+            "url": "https://book.douban.com/subject/26284789/",
+            "subject_id": "26284789",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=118523",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "54.40"
+          },
+          {
+            "info": {
+              "meta": "7.7 分 / 芭芭拉·明托(BarbaraMinto) 著 / 汪洱、高愉 译 / 南海出版公司 / 2013-11-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29669383.jpg"
+              },
+              "title": "金字塔原理"
+            },
+            "sku_id": 127683,
+            "promote_desc": "满48元包邮",
+            "price": "49.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>金字塔原理最初是麦肯锡的内部培训教材，后来被广泛传播。<br>本书的副标题是：思考、表达和解决问题的逻辑，简言之，它提出了一个经典结构，依据这种方式思考，可以以某种逻辑将思路整理清楚，表达更加清晰。这种思考模式视觉化后类似金字塔，故得名。工作中经常需要制作PPT、撰写报告等，可以参考这种方法。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "金字塔原理",
+            "url": "https://book.douban.com/subject/25775696/",
+            "subject_id": "25775696",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=127683",
+            "stock": 1186,
+            "is_campaign": false,
+            "promote_price": "39.20"
+          },
+          {
+            "info": {
+              "meta": "8.0 分 / [美]罗伯特·西奥迪尼（RobertCialdini） 著 / 闾佳 译 / 北京联合出版公司 / 2017",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29513916.jpg"
+              },
+              "title": "先发影响力"
+            },
+            "sku_id": 216715,
+            "promote_desc": "满48元包邮",
+            "price": "69.90",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b> 《影响力》作者的又一本“影响力”著作，两本的区别是：《影响力》表达应该说什么做什么去说服他人；《先发影响力》侧重先发制人，旨在吸引注意力，掌握最佳时机，在开口之前就奠定胜局。<br>作者给出了很多日常案例，很好读。影响力和说服力是重要的沟通能力，“进攻”“防御”都有用。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "先发影响力",
+            "url": "https://book.douban.com/subject/27110421/",
+            "subject_id": "27110421",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=216715",
+            "stock": 57,
+            "is_campaign": false,
+            "promote_price": "56.00"
+          },
+          {
+            "info": {
+              "meta": "7.6 分 / 罗杰·费希尔、布鲁斯·巴顿、威廉·尤里 著 / 王燕、罗昕 译 / 中信出版社 / 2012-8-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s11214643.jpg"
+              },
+              "title": "谈判力"
+            },
+            "sku_id": 163125,
+            "promote_desc": "满48元包邮",
+            "price": "32.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>生活中，职场中，极端环境中……谈判无所不在。每个人每天都会面临大大小小的谈判。谈判形式虽然千差万别，但基本要素不变。《谈判力》介绍的，就是有关原则谈判的方法，比如，着眼于利益而非立场去谈判，把人和事分开，等等。<br>本书是“哈佛谈判项目”研究成果之一，偏原则方法。偏实践技巧的谈判类图书，另推荐《优势谈判》一书。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "谈判力",
+            "url": "https://book.douban.com/subject/11445551/",
+            "subject_id": "11445551",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=163125",
+            "stock": 58,
+            "is_campaign": false,
+            "promote_price": "25.60"
+          },
+          {
+            "info": {
+              "meta": "8.4 分 / [美]T.爱德华•戴默 著 / 刀尔登、黄琳 译 / 浙江大学出版社 / 2014-8",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28306886.jpg"
+              },
+              "title": "好好讲道理"
+            },
+            "sku_id": 158218,
+            "promote_desc": "满48元包邮",
+            "price": "48.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>工作生活中，需要讲道理的地方可太多了。这本书不仅帮你学习，怎么好好讲道理，还帮你应对那些不太讲道理的人，比如胡搅蛮缠的家人，蛮不讲理的老板，喜欢抬杠的同事等等。<br>懂逻辑，是有效讨论的前提之一，也是一个成年人应该具备的基本能力。本书每章后都附有练习题，推荐作为逻辑入门书。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "好好讲道理",
+            "url": "https://book.douban.com/subject/25963469/",
+            "subject_id": "25963469",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=158218",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "38.40"
+          },
+          {
+            "info": {
+              "meta": "7.7 分 / 吉姆·洛尔(JimLoehr)、托尼·施瓦茨(TonySchwartz) 著 / 高向文 译 / 中国青年出版社 / 2015-8-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28351500.jpg"
+              },
+              "title": "精力管理"
+            },
+            "sku_id": 157245,
+            "promote_desc": "满48元包邮",
+            "price": "39.80",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>一个人一天有24小时，时间对人人都公平。但如何使用这些时间，才能达到最优解，心理学家在研究。<br>本书认为，精力管理训练可以让人们拥有颠覆生活方式的力量。这种训练，涉及体能精力、情感精力、思维精力、意志精力，调动得当，不仅有助于提升生活质量，更可帮助塑造人的性格。精力管理不等于时间管理，管好精力，会比管好时间更有效。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "精力管理",
+            "url": "https://book.douban.com/subject/26606009/",
+            "subject_id": "26606009",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=157245",
+            "stock": 195,
+            "is_campaign": false,
+            "promote_price": "31.80"
+          },
+          {
+            "info": {
+              "meta": "8.2 分 / [美]简·博克(JaneB.Burka)、[美]莱诺拉·袁(LenoraM.Yuen) 著 / 蒋永强、陆正芳 译 / 中国人民大学出版社 / 2009-12",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s4355925.jpg"
+              },
+              "title": "拖延心理学"
+            },
+            "sku_id": 121305,
+            "promote_desc": "满48元包邮",
+            "price": "39.80",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>拖延问题比较普遍，也比较复杂。本专题列入本书，主要从高效角度考虑。在工作中，持续的拖延，有时会造成比较严重的后果。如果拖延状况不时发生，建议考虑了解其成因，并尝试相应的对策。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "拖延心理学",
+            "url": "https://book.douban.com/subject/4180711/",
+            "subject_id": "4180711",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=121305",
+            "promote_price": "31.90",
+            "is_campaign": false,
+            "stock": 128
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "从谈判力到精力管理，职场人要修的7门课",
+          "cover": "https://img3.doubanio.com/img/files/file-1505131527-1.jpg",
+          "desc": "职场新人或职场老手，都有迷茫期，瓶颈期，上升期。<br><br>职场生活是生活的一部分，它的好与不好，直接影响我们的生活质量。从另一方面讲，职场也是修炼场，通过工作，我们有机会变成更理想的人。<br><br>从思考方式、沟通能力，到精力管理、时间管理，为职场加力，也为生活加力。<br><br>"
+        },
+        "recommends": [
+          "copywriting",
+          "writing"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502462382-0.png"
+        }
+      },
+      "title": "从谈判力到精力管理，职场人要修的7门课"
+    },
+    {
+      "desc": "一个合格的运营人是怎样炼成的？",
+      "link": "/book/special/operations",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "8.1 分 / 黄有璨 著 /  电子工业出版社 / 2017-4",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29535153.jpg"
+              },
+              "title": "运营之光 2.0"
+            },
+            "sku_id": 204652,
+            "promote_desc": "满48元包邮",
+            "price": "99.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>这本书的豆瓣条目页有详尽目录，从运营是什么，到运营做什么，怎么做，再到运营背后的逻辑、规则，运营人的职业规划，运营的伦理，运营的未来，等等，做了相对立体的介绍，有方法，有案例，有反思。<br>2.0 版增补了几万字，装帧也换成精装，如果选读第一版，可以搜索《运营之光》下单。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "运营之光 2.0",
+            "url": "https://book.douban.com/subject/27020287/",
+            "subject_id": "27020287",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=204652",
+            "stock": 5,
+            "is_campaign": false,
+            "promote_price": "79.20"
+          },
+          {
+            "info": {
+              "meta": "7.5 分 / 黎万强 著 /  中信出版社 / 2014-8",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s27359667.jpg"
+              },
+              "title": "参与感"
+            },
+            "sku_id": 120895,
+            "promote_desc": "满48元包邮",
+            "price": "56.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>刚入行的互联网人，被推荐的第一本书，可能就是《参与感》。这本书的副标题是“小米口碑营销内部手册”，作者是小米联合创始人，所以全书就讲小米的故事。<br>小米与其用户互动之深、之广、之久，在中国商业史上都是很独特的现象。本书从小米内部视角，介绍了这种“参与感”的理念、方法和案例，其背后隐含的是，互联网带来的信息传播的深刻改变，值得了解。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "参与感",
+            "url": "https://book.douban.com/subject/25942507/",
+            "subject_id": "25942507",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=120895",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "44.80"
+          },
+          {
+            "info": {
+              "meta": "7.5 分 / 【加】马尔科姆•格拉德威尔（MalcolmGladwell） 著 / 钱清、覃爱冬 译 / 中信出版社 / 2014-4",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s27270970.jpg"
+              },
+              "title": "引爆点"
+            },
+            "sku_id": 120617,
+            "promote_desc": "满48元包邮",
+            "price": "36.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>《引爆点》成书较早，但它所述的流行潮爆发的法则，似乎更适用于信息爆炸的互联网时代，比如，个别人物法则可能可以对应网红or达人，附着力因素法则可能对应热门话题或IP，环境威力法则可能对应刷屏or热转。<br>网络热点有的是偶发事件，有的是人为制造，这本书介绍流行传播的路径和经验，实例多，易阅读，虽然是前网络时代的总结，仍然具有参考价值。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "引爆点",
+            "url": "https://book.douban.com/subject/25876611/",
+            "subject_id": "25876611",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=120617",
+            "stock": 193,
+            "is_campaign": false,
+            "promote_price": "28.80"
+          },
+          {
+            "info": {
+              "meta": " 分 / 威廉•庞德斯通(WilliamPoundstone) 著 /  北京联合出版公司 / 2017-8-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s29503758.jpg"
+              },
+              "title": "无价"
+            },
+            "sku_id": 211350,
+            "promote_desc": "满48元包邮",
+            "price": "59.90",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>我们都知道，商品或产品的标价，并不一定反映其真实的价值，定价的背后，往往有一整套策略。常见的积分兑换、折扣券、免费试用、套餐促销、99结尾等，都是价格策（骗）略（局）的一部分。本书涉及价格心理学方面的内容，互联网运营也需要了解。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "无价",
+            "url": "https://book.douban.com/subject/27098197/",
+            "subject_id": "27098197",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=211350",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "48.00"
+          },
+          {
+            "info": {
+              "meta": "7.3 分 / 马丁·林斯特龙 著 / 陈亚萍 译 / 中信出版集团股份有限公司 / 2017-4-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s29372289.jpg"
+              },
+              "title": "痛点"
+            },
+            "sku_id": 185450,
+            "promote_desc": "满48元包邮",
+            "price": "49.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>相对于大数据来说，这本书更关心小数据，即通过对一个小社群的观察和小数据知识，捕捉用户需求。痛点是运营人常用语，如何发现特定用户的隐藏心理、潜在欲望、深层需求，相比关注大群体的大数据，小数据可能更有帮助。<br>具体到调研流程，作者给出7S框架等方法，他提供的案例也展示了极好的观察力，富有启发。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "痛点：挖掘小数据满足用户需求",
+            "url": "https://book.douban.com/subject/26983819/",
+            "subject_id": "26983819",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=185450",
+            "stock": 3,
+            "is_campaign": false,
+            "promote_price": "39.20"
+          },
+          {
+            "info": {
+              "meta": "7.1 分 / Lydia 著 /  人民邮电出版社 / 2017-2-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s29876968.jpg"
+              },
+              "title": "全栈市场人互联网市场营销入门通用宝典"
+            },
+            "sku_id": 148675,
+            "promote_desc": "满48元包邮",
+            "price": "45.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>作者自述：书名中的全栈，“是指能利用多种技能独立完成产品的人。他们既会写前端开发，也会写后端开发，设计，产品，数据库最好都能懂一点”。<br>与此相似，互联网的市场、运营类工作，需要点亮的技能树也非常多，本书重在分享作者个人在实战中观察总结的知识、技巧、思考等，是互联网运营or市场or营销新人可参考的经验书。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "全栈市场人",
+            "url": "https://book.douban.com/subject/26972465/",
+            "subject_id": "26972465",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=148675",
+            "stock": 10,
+            "is_campaign": false,
+            "promote_price": "36.00"
+          },
+          {
+            "info": {
+              "meta": "9.1 分 / ElliotAronson 著 / 邢占军 译 / 华东师范大学出版社 / 2007-12",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s2783843.jpg"
+              },
+              "title": "社会性动物"
+            },
+            "sku_id": 126710,
+            "promote_desc": "满48元包邮",
+            "price": "45.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>《社会心理学》是社会心理领域最有影响力的著作之一，从什么是社会心理学，到作为一门科学的社会心理学，心理学家阿伦森全面描述了人在社会环境中的种种可能性，佐以大量实验案例。<br>作为一种社会性动物，人会受他人影响，也会影响他人，有理性的一面，也难以避免非理性的一面，类似从众、偏见、攻击性等等。对运营人来说，本书主要帮助理解认知一些社会现象背后的人类普遍心理。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "社会性动物",
+            "url": "https://book.douban.com/subject/2328458/",
+            "subject_id": "2328458",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=126710",
+            "stock": 75,
+            "is_campaign": false,
+            "promote_price": "36.00"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "运营的自我修养，7本书助力运营新人通关",
+          "cover": "https://img3.doubanio.com/img/files/file-1505962330-0.png",
+          "desc": "运营是个筐，什么都能装。看看运营的一些细分：内容运营，产品运营，活动运营，用户运营，社区运营，推广运营，新媒体运营……感觉像好几种不同的职业。<br><br>再来看运营要点亮的技能树，粗略统计，至少要具备文案、数据、图表、策划等能力，再掌握市场、营销、活动、公关等岗位的技能，还要熟悉传播、心理、互联网等领域的知识，如果略懂设计、开发，那就更好了。<br><br>所以，运营很普通，运营不简单。<br><br>"
+        },
+        "recommends": [
+          "copywriting",
+          "work"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502462382-0.png"
+        }
+      },
+      "title": "运营的自我修养，7本书助力运营新人通关"
+    },
+    {
+      "desc": "在这里读懂你身边的建筑。",
+      "link": "/book/special/architecture",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "8.3 分 / 隈研吾 著 / 周功钊 译 / 浙江人民美术出版社 / 2015-6-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28138486.jpg"
+              },
+              "title": "我所在的地方"
+            },
+            "sku_id": 175150,
+            "promote_desc": "满48元包邮",
+            "price": "45.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>隈研吾，日本著名建筑师，这些年来，他的作品和设计理念已经不止在建筑领域被讨论，也成了社会学和经济学的热门话题。<br>和纯粹谈论建筑的书不同，这本书是隈研吾讲述自己从小住和接触过的地方，是怎样影响了自己的建筑设计理念的过程。它更像一本自传，在娓娓道来之中把自己的设计脉络理清，就像书名所说，是“我所在的地方”，成就了“我”。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "我所在的地方",
+            "url": "https://book.douban.com/subject/26422715/",
+            "subject_id": "26422715",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=175150",
+            "stock": 33,
+            "is_campaign": false,
+            "promote_price": "36.00"
+          },
+          {
+            "info": {
+              "meta": "8.0 分 / [日]隈研吾 著 / 计丽屏 译 / 山东人民出版社 / 2008-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s2879563.jpg"
+              },
+              "title": "负建筑"
+            },
+            "sku_id": 156814,
+            "promote_desc": "满48元包邮",
+            "price": "48.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>关于隈研吾，还有一本书不得不提，这就是大名鼎鼎的《负建筑》。<br>这是一本不止于谈建筑的建筑书。作为建筑，何为“正”？何为“负”？在隈研吾看来，负建筑绝非是失败的建筑，而是人类真正需要的建筑。<br>在这本书里，隈研吾不像是一个建筑师，基本没有谈到自己的作品和理念，而是始终保持着局外人的冷静和审慎的思考。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "负建筑",
+            "url": "https://book.douban.com/subject/2382994/",
+            "subject_id": "2382994",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=156814",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "38.40"
+          },
+          {
+            "info": {
+              "meta": "8.4 分 / [日]伊东丰雄 著 / 李敏 译 / 广西师范大学出版社 / 2017-8-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29475756.jpg"
+              },
+              "title": "建筑，从那一天开始"
+            },
+            "sku_id": 213942,
+            "promote_desc": "满48元包邮",
+            "price": "58.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>伊东丰雄，被普利兹克奖评委会称作是“永恒建筑的缔造者”，也是大胆开辟新的路径的人。<br>《建筑，从那一天开始》从日本大地震的发生开始说起，并不是简单地回顾亲身参与灾后重建过程与往昔道路的回顾，而是作为建筑师，邀请读者一道踏上思考与自我反思的路。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "建筑，从那一天开始",
+            "url": "https://book.douban.com/subject/27069751/",
+            "subject_id": "27069751",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=213942",
+            "stock": 48,
+            "is_campaign": false,
+            "promote_price": "46.40"
+          },
+          {
+            "info": {
+              "meta": "9.3 分 / 李乾朗 著 /  广西师范大学出版社 / 2009-10",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s4030091.jpg"
+              },
+              "title": "穿墙透壁"
+            },
+            "sku_id": 138328,
+            "promote_desc": "满48元包邮",
+            "price": "118.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>这是一本令人叹为观止的书，融合了作者李乾朗先生二十年来了中国古建筑的考察心得。时间从秦汉到明清，空间遍布中华大地。<br>最为惊艳的是，每一种建筑，都以最能彰显各个古建筑特色的剖视彩图，加上实景摄影图像与特色导览，引领读者进入时光隧道，甚至穿墙破壁，领略古代匠师高超的工艺技术，体验每一座古建筑不可思议的空间美感。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "穿墙透壁",
+            "url": "https://book.douban.com/subject/4082434/",
+            "subject_id": "4082434",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=138328",
+            "stock": 8,
+            "is_campaign": false,
+            "promote_price": "94.40"
+          },
+          {
+            "info": {
+              "meta": "8.3 分 / 王澍 著 /  浦睿文化/湖南美术出版社 / 2016-8",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28944485.jpg"
+              },
+              "title": "造房子"
+            },
+            "sku_id": 95977,
+            "promote_desc": "满48元包邮",
+            "price": "78.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>这是著名建筑师王澍获得“建筑界的诺贝尔奖”普利兹克奖后的第一本著作。<br>王澍，最不按理出牌的建筑师，他用建筑向世界发问，以文人意气造房子，追溯山水意境、园林情趣，创造出具有恒久性的作品。<br>这里有他的个人成长轨迹、代表作的诞生过程，以及他对传统文化、东方美学的经年探索。不只是营造之书，也是进入传统美学的秘密小径。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "造房子",
+            "url": "https://market.douban.com/book/zaofangzi",
+            "subject_id": "26848051",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=95977",
+            "promote_price": "55.00",
+            "is_campaign": true,
+            "stock": 256
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "跟着大师看建筑，6本建筑书让你读懂空间里的诗",
+          "cover": "https://img3.doubanio.com/img/files/file-1505271268-1.jpg",
+          "desc": "好的建筑就像是空间里的诗，它出现在我们的视野里，影响我们的生活，我们却很少有机会，认真地打量它们，丈量它们和日常生活的距离。<br><br>这一期书单，豆瓣·書准备了6本建筑大师谈论建筑的经典图书，从隈研吾到王澍，从设计理念到生活里的感知，在这里读懂你身边的建筑。<br><br>"
+        },
+        "recommends": [
+          "work",
+          "copywriting"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502462382-0.png"
+        }
+      },
+      "title": "跟着大师看建筑，6本建筑书让你读懂空间里的诗"
+    },
+    {
+      "desc": "有时间，还是看看简史吧！",
+      "link": "/book/special/brief",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "9.1 分 / [以]尤瓦尔·赫拉利 著 / 林俊宏 译 / 中信出版集团 / 2017-2-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29802866.jpg"
+              },
+              "title": "人类简史"
+            },
+            "sku_id": 146938,
+            "promote_desc": "满48元包邮",
+            "price": "68.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>《人类简史》火到何种程度？连山寨版都热销。近年各类简史、极简史的流行，可能也是自本书始。作者赫拉利是以色列历史学家，副标题和目录彰显他的雄心 —— 从动物到上帝，从史前到今天，从基因到战争，从农业到科技……地球上发生过的一切，本书都希望涉猎。<br>大视野，跨学科，新视角，科普向，脉络清晰、文字易读，很多读者读后惊呼三观颠覆。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "人类简史",
+            "url": "https://book.douban.com/subject/26953606/",
+            "subject_id": "26953606",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=146938",
+            "stock": 1460,
+            "is_campaign": false,
+            "promote_price": "54.40"
+          },
+          {
+            "info": {
+              "meta": "8.4 分 / [以色列]尤瓦尔·赫拉利 著 / 林俊宏 译 / 中信出版集团 / 2017-2",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29287103.jpg"
+              },
+              "title": "未来简史"
+            },
+            "sku_id": 147215,
+            "promote_desc": "满48元包邮",
+            "price": "68.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>《未来简史》是《人类简史》姊妹篇，前一本成为国际畅销书后，赫拉利趁热打铁，继续探讨人类大历史。这一本的争议略大，撇开重复部分不谈，它的重心是未来。<br>长远来看，如今的我们，或许正处于一个重大的拐点 —— 新的进化可能正在进行中。智人征服世界 → 智人为世界赋予意义 → 智人失去控制权，在对未来的想象中，未来学家赫拉利上线了。<br>人工智能时代，算法主宰更多，“神人”是可能的吗？我们拭目以待。 ",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "未来简史",
+            "url": "https://book.douban.com/subject/26943161/",
+            "subject_id": "26943161",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=147215",
+            "stock": 1641,
+            "is_campaign": false,
+            "promote_price": "54.40"
+          },
+          {
+            "info": {
+              "meta": "9.1 分 / [法]克里斯托弗·加尔法德 著 / 童文煦 译 / 上海三联书店 / 2016-3",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28453934.jpg"
+              },
+              "title": "极简宇宙史"
+            },
+            "sku_id": 124462,
+            "promote_desc": "满48元包邮",
+            "price": "49.50",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>作者克里斯托弗·加尔法德是霍金的亲传弟子，研究过黑洞，科普过宇宙知识。这本书的台湾版，书名就叫作《别管黑洞了，跟着霍金上太空》。<br>这本宇宙学入门书，没有一个公式，而用故事带领读者探索宇宙。关于太阳、月亮、银河系，时间、暗物质、弦理论、大爆炸……范围广，但不难读，文科生看懂无压力。<br>准备 / 喜欢看《生活大爆炸》的豆友，也推荐你们看这本。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "极简宇宙史",
+            "url": "https://book.douban.com/subject/26697350/",
+            "subject_id": "26697350",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=124462",
+            "stock": 137,
+            "is_campaign": false,
+            "promote_price": "39.60"
+          },
+          {
+            "info": {
+              "meta": "7.7 分 / [美]阿尔伯特·克雷格 著 / 李阳 译 / 中信出版集团·新思文化 / 2016-11",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29120321.jpg"
+              },
+              "title": "哈佛极简中国史"
+            },
+            "sku_id": 155215,
+            "promote_desc": "满48元包邮",
+            "price": "42.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": false,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>已翻译的海外汉学读物很多。这本《哈佛极简中国史》，是哈佛大学新生了解中国史的第一本书，欧美流行的中国史入门读物。虽薄，但不很浅。作者是东亚史权威阿尔伯特·克雷格，他是汉学巨擘，也是日本史专家。<br>从早期中国，秦汉，隋唐宋元，明清，到近代中国，本书始终以全球史的高度，将中国史置于同时期的世界史中，对比呈现，而不止为“他者之镜”，富有启发。<br>另配有近百幅插图，多为艺术作品，可对照文字阅读。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "哈佛极简中国史",
+            "url": "https://book.douban.com/subject/26891290/",
+            "subject_id": "26891290",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=155215",
+            "stock": 85,
+            "is_campaign": false,
+            "promote_price": "33.60"
+          },
+          {
+            "info": {
+              "meta": "8.2 分 / 约翰·赫斯特（JohnHirst） 著 / 席玉苹 译 / 广西师范大学出版社 / 2011-11-25",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s4542951.jpg"
+              },
+              "title": "你一定爱读的极简欧洲史"
+            },
+            "sku_id": 117895,
+            "promote_desc": "满48元包邮",
+            "price": "25.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>一本真 · 极简史。两百多页，三千年历史，介绍自希腊以来的欧洲文明，作者是澳大利亚的历史学家，这本书最初是他给澳大利亚学生写的历史教科书。<br>和常见的历史读物写法不同，作者不太注重介绍具体的历史事件和人物，而从古希腊罗马文化、基督教文明和日耳曼战士文化三大元素入手，描述它们如何相互作用、彼此强化，最终形成欧洲精神的内核。简言之，他关注的是，我们今天熟悉的现代欧洲文明，它是怎么形成的。<br>好看、好读的小册子，豆瓣两万五千人读过，分数仍高达8.2。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "你一定爱读的极简欧洲史",
+            "url": "https://book.douban.com/subject/5366248/",
+            "subject_id": "5366248",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=117895",
+            "stock": 354,
+            "is_campaign": false,
+            "promote_price": "20.00"
+          },
+          {
+            "info": {
+              "meta": "8.3 分 / [美]托马斯·索威尔（ThomasSowell） 著 / 沈宗美 译 / 中信出版社 / 2015-5",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s28108578.jpg"
+              },
+              "title": "美国种族简史"
+            },
+            "sku_id": 120527,
+            "promote_desc": "满48元包邮",
+            "price": "35.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>和欧洲、中国的长时段、大历史不同，美国简史，我们选择从种族角度进入。<br>种族相当于美国的一块大背景板，如果毫无了解，可能美剧的一些梗也不能很快明白。美国这件百衲衣上，缀着来自欧洲、亚洲、非洲、拉丁美洲各地的移民，他们带着各自的文化，共同生活，又共同形塑了美国文化。<br>唯一的问题是成书较早，有的数据可能需要更新了。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "美国种族简史",
+            "url": "https://book.douban.com/subject/26374591/",
+            "subject_id": "26374591",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=120527",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "28.00"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "想读历史却没时间？先看这些简史/极简史吧",
+          "cover": "https://img3.doubanio.com/img/files/file-1503476582-0.jpg",
+          "desc": "近两年，简史和极简史很受欢迎。书名一本正经的著作，译成中文后，有时会被冠以极简☓☓史、☓☓ 简史之名。这种追求用轻体量、浅文字，快速获得尽可能多知识的心理，和所谓“干货”的流行是否有关？<br><br>根据豆瓣评分和豆友评价，我们做了这期书单，从人类史、宇宙史、海洋史，到器物串起的世界史，视野极广，篇幅极简，算得上真 · 简史。希望它们是好的引子。<br><br>一个互动：你最希望看到哪个领域的简史？"
+        },
+        "recommends": [
+          "summerbooks",
+          "depression"
+        ],
+        "neck": {
+          "iamge": "https://img3.doubanio.com/img/files/file-1502462431-0.png"
+        },
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502462382-0.png"
+        }
+      },
+      "title": "想读历史却没时间？先看这些简史/极简史吧"
+    },
+    {
+      "desc": "这些恐怖的事实，并不遥远。",
+      "link": "/book/special/sexualoffence",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "7.7 分 / [挪]尼尔斯·弗雷德里克·达尔 著 / 林后 译 / 广西师范大学出版社·理想国 / 2017-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29291810.jpg"
+              },
+              "title": "去朋友家的路上"
+            },
+            "sku_id": 153536,
+            "promote_desc": "满48元包邮",
+            "price": "32.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>对于主人公维格特而言，那场名为性侵的梦魇，三十多年过去，依然不堪回首。因为这个事故，蒙上阴影的童年将他推向了铺满恐惧、失眠、泪水、孤独的成长路。直到无意间救了另一个男孩，维格特才从冰冷的噩梦中解脱出来。<br>这本来自挪威的小说，有着诗意的叙事，悲伤之中，流淌着治愈的力量。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "去朋友家的路上",
+            "url": "https://book.douban.com/subject/26926261/",
+            "subject_id": "26926261",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=153536",
+            "stock": 22,
+            "is_campaign": false,
+            "promote_price": "25.60"
+          },
+          {
+            "info": {
+              "meta": "8.1 分 / [美]丹尼尔·凯斯 著 / 邢世阳 译 / 湖岸出版/外语教学与研究出版社 / 2015-6-30",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28094021.jpg"
+              },
+              "title": "24个比利"
+            },
+            "sku_id": 117589,
+            "promote_desc": "满48元包邮",
+            "price": "39.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>又一部根据真实事件改编的小说，主角比利因涉嫌连续强暴案件被捕，但他对自己的罪行却毫无记忆——因为他拥有24个人格。<br>比利的童年极端不幸：母亲放荡、生父自杀、继父长期虐待与性侵。多重人格是他对抗外界伤害的方式，来自童年的伤害有着蝴蝶效应。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "24个比利",
+            "url": "https://book.douban.com/subject/26371317/",
+            "subject_id": "26371317",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=117589",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "31.20"
+          },
+          {
+            "info": {
+              "meta": "8.0 分 / [美]弗拉基米尔·纳博科夫 著 / 主万 译 / 上海译文出版社 / 2013-8",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s27140257.jpg"
+              },
+              "title": "洛丽塔"
+            },
+            "sku_id": 175455,
+            "promote_desc": "满48元包邮",
+            "price": "58.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>纳博科夫的《洛丽塔》曾引发巨大的社会争议，关于它的讨论，从伦理到文学到心理，各种维度，各种解读。中年男子与12岁幼女的关系，复杂还是简单？",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "洛丽塔",
+            "url": "https://book.douban.com/subject/24852827/",
+            "subject_id": "24852827",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=175455",
+            "stock": 1,
+            "is_campaign": false,
+            "promote_price": "46.40"
+          },
+          {
+            "info": {
+              "meta": "8.9 分 / [美]卡勒德·胡赛尼 著 / 李继宏 译 / 上海人民出版社 / 2006-5",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s1727290.jpg"
+              },
+              "title": "追风筝的人"
+            },
+            "sku_id": 268092,
+            "promote_desc": "满48元包邮",
+            "price": "36.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": false,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>富家少爷阿米尔和仆人哈桑的友情触动过很多人的心，这个故事最关键、最重要的情节，正是一场儿童性侵。<br>作者没有正面描述哈桑怎样从灾难中重振，通过旁观者阿米尔的自责与痛苦，我们知道了，这种伤痛的持久与巨大。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "追风筝的人",
+            "url": "https://book.douban.com/subject/1770782/",
+            "subject_id": "1770782",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=268092",
+            "stock": 3362,
+            "is_campaign": false,
+            "promote_price": "28.80"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "当魔鬼靠近天使：与儿童性侵有关的一些书",
+          "cover": "https://img3.doubanio.com/img/files/file-1501749550-0.jpg",
+          "desc": "从林奕含到阿廖沙，再到最近的事件，很长一段时间了，性侵都是焦点话题。这其中，儿童性侵尤为可怖。<br><br>《素媛》《去朋友家的路上》《我所缄默的事》，本期书单都和儿童性侵相关。 不管男童，女童，六岁，十二岁……伤痛都近乎无限、持续一生。<br><br>大人们，有义务去了解，去思考，去抗争，去保护，因为这些恐怖的事实，并不遥远。"
+        },
+        "recommends": [
+          "communication",
+          "antiutopia"
+        ],
+        "neck": {
+          "iamge": "https://img3.doubanio.com/img/files/file-1502175073-0.png"
+        },
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502462382-0.png"
+        }
+      },
+      "title": "当魔鬼靠近天使：与儿童性侵有关的一些书"
+    },
+    {
+      "desc": "想要避免一些不必要的困扰？可以看看本期书单。",
+      "link": "/book/special/communication",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "8.1 分 / [美]科里·帕特森（KerryPatterson）、约瑟夫·格雷尼（JosephGrenny）、罗恩·麦克米兰（RonMcMillan）、艾尔·史威茨勒（AlSwitzler） 著 / 毕崇毅 译 / 机械工业出版社 / 2017-5",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29452486.jpg"
+              },
+              "title": "关键对话：如何高效能沟通（原书第2版）（珍藏版）"
+            },
+            "sku_id": 195802,
+            "promote_desc": "满48元包邮",
+            "price": "45.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>如何优雅面对父母的逼婚？如何从容指出上司的错误？如何轻松制胜商务谈判？当对话存在风险、双方观点迥异或情绪激烈时，普通对话就升级为了关键对话。面对它们，你是否常感力不从心？<br>《关键对话》的作者团队基于20多年对10万余人的跟踪调查，归纳出一套行之有效的方法与技巧，让你在“关键时刻”也能“四两拨千斤”。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "关键对话：如何高效能沟通（原书第2版）（珍藏版）",
+            "url": "https://book.douban.com/subject/27046682/",
+            "subject_id": "27046682",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=195802",
+            "promote_price": "36.00",
+            "is_campaign": false,
+            "stock": 198
+          },
+          {
+            "info": {
+              "meta": "8.1 分 / [英]尼基·斯坦顿 著 / 罗慕谦 译 / 北京联合出版公司·后浪出版公司 / 2015-12",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28339690.jpg"
+              },
+              "title": "沟通圣经"
+            },
+            "sku_id": 128964,
+            "promote_desc": "满48元包邮",
+            "price": "45.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>面谈、打电话、发邮件、写报告、演讲......沟通无处不在，涉及听、说、读、写。《沟通圣经》从各类场景出发，融合了全方位的沟通技巧，并辅以自我检查和作业练习，来有效打通“知”与“行”的边界。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "沟通圣经",
+            "url": "https://book.douban.com/subject/26663916/",
+            "subject_id": "26663916",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=128964",
+            "promote_price": "36.00",
+            "is_campaign": false,
+            "stock": 8
+          },
+          {
+            "info": {
+              "meta": "8.5 分 / 马歇尔·卢森堡(MarshallB.Rosenberg) 著 / 阮胤华 译 / 华夏出版社 / 2016-1-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28423534.jpg"
+              },
+              "title": "非暴力沟通"
+            },
+            "sku_id": 131250,
+            "promote_desc": "满48元包邮",
+            "price": "33.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>有意或者无意，我们大多数人都既是暴力沟通的受害者也是施害者。指责、嘲讽、否定、说教等带来的情感或精神创伤，有时比肉体伤害还让人不堪忍受。<br>马歇尔·卢森堡主张的“非暴力沟通”，包含观察、感受、需求、请求四个要素，简单但十分实用，提升沟通品质有奇效。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "非暴力沟通",
+            "url": "https://book.douban.com/subject/26728136/",
+            "subject_id": "26728136",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=131250",
+            "promote_price": "26.40",
+            "is_campaign": false,
+            "stock": 0
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "聊天真的不简单，7本书解决沟通难题",
+          "cover": "https://img3.doubanio.com/img/files/file-1502336312-0.jpg",
+          "desc": "词不达意、言不尽意、鸡同鸭讲、驴唇不对马嘴......这些高频成语指向的，是各类常见的沟通问题。<br><br>不管是伴侣、亲友，还是同事之间，因为沟通问题而产生的误会、闹剧、甚至悲剧都不新鲜。想要避免这些不必要的困扰？可以看看本期书单。<br><br>一个互动：你最看重沟通中的 _______？"
+        },
+        "recommends": [
+          "yummy",
+          "antiutopia"
+        ],
+        "neck": {
+          "iamge": "https://img3.doubanio.com/img/files/file-1502175073-0.png"
+        },
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502462382-0.png"
+        }
+      },
+      "title": "聊天真的不简单，7本书解决沟通难题"
+    },
+    {
+      "desc": "热爱写作，开始写就是了。",
+      "link": "/book/special/writing",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "9.2 分 / 罗伯特·麦基 著 / 周铁东 译 / 天津人民出版社 / 2014-9-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s27598249.jpg"
+              },
+              "title": "故事"
+            },
+            "sku_id": 125824,
+            "promote_desc": "满48元包邮",
+            "price": "68.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>学习写作的人，第一本要读的书，可能就是《故事》。罗伯特•麦基在20年前出版了此书，书中又汇集他30年的授课经验，这么多年过去了，本书仍是全世界编剧、导演、文案和各类创意工作者的必读经典，在豆瓣评分也极高。<br>如何写一个故事？什么样的故事才是好故事？好故事是怎么设计出来的，有什么技巧？简言之，本书涉及的是故事创作的基本知识，关于故事的一切。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "故事",
+            "url": "https://book.douban.com/subject/25976544/",
+            "subject_id": "25976544",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=125824",
+            "stock": 54,
+            "is_campaign": false,
+            "promote_price": "54.40"
+          },
+          {
+            "info": {
+              "meta": "7.9 分 / 马克•克雷默(MarkKramer)、温迪•考尔(WendyCall) 著 / 王宇光 译 / 中国文史出版社 / 2015-12-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28364301.jpg"
+              },
+              "title": "哈佛非虚构写作课"
+            },
+            "sku_id": 130697,
+            "promote_desc": "满48元包邮",
+            "price": "48.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>名副其实的写作课，讲者来自全美最有经验的51位非虚构写作者，包括记者、编剧、作家等，其中不乏普利策奖 / 奥斯卡奖 / 艾美奖 / 美国国家图书奖等大奖得主；所讲知识点，从选题构思，到写作技巧，文体选择，写作伦理，到出版经验，每个环节都有细致分享。<br>这本书的副标题叫“怎样讲好一个故事”，如果讲故事也是一门手艺，这是最好的故事手艺书。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "哈佛非虚构写作课",
+            "url": "https://book.douban.com/subject/26662600/",
+            "subject_id": "26662600",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=130697",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "38.40"
+          },
+          {
+            "info": {
+              "meta": "8.2 分 / [美]詹姆斯·斯科特·贝尔 著 / 苏雅薇 译 / 湖南文艺出版社 / 2017-6-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29449712.jpg"
+              },
+              "title": "这样写出好故事"
+            },
+            "sku_id": 203442,
+            "promote_desc": "满48元包邮",
+            "price": "38.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>成就一个好故事不简单。这本书认为，写出好故事，关键是情节和结构。作者詹姆斯·斯科特·贝尔是畅销书作家，写悬疑小说，也主持写作课程，可以说既有理论，又有实践。<br>本书的经验分享，主要侧重在虚构写作：如何设置好的结构，如何写出吸引人的情节，等等。语言通俗，讲解清晰，此外还设置了练习环节，是可以迅速实践的虚构写作课，推荐给初学者。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "这样写出好故事",
+            "url": "https://book.douban.com/subject/27043711/",
+            "subject_id": "27043711",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=203442",
+            "stock": 138,
+            "is_campaign": false,
+            "promote_price": "30.40"
+          },
+          {
+            "info": {
+              "meta": "7.7 分 / 维多利亚•林恩•施密特 著 / 吴振寅 译 / 中国人民大学出版社 / 2014-6",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s32294012.jpg"
+              },
+              "title": "经典人物原型45种"
+            },
+            "sku_id": 161521,
+            "promote_desc": "满48元包邮",
+            "price": "38.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>人物角色的好坏，往往决定了作品是否成功，影视作品尤其。人物是有原型的，本书重点介绍了45种（外一种）角色原型，从各类故事中归纳各种人物的特质：男主角，女主角，男性反面人物，女性反面人物，朋友、对手等各种配角，以及男性和女性的构建。<br>本书介绍的人物原型都来自希腊神话，但完全可以对应我们看过的作品人物。推荐给写作进阶者。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "经典人物原型45种",
+            "url": "https://book.douban.com/subject/25919591/",
+            "subject_id": "25919591",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=161521",
+            "stock": 17,
+            "is_campaign": false,
+            "promote_price": "30.40"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "写作也有套路？6本写作书告诉你怎么开始写",
+          "cover": "https://img3.doubanio.com/img/files/file-1504605553-1.jpg",
+          "desc": "写作可能是一种天赋，可能是一门技艺，更大的可能是，两者并存。<br><br>想写很简单，提起笔或打开电脑就可以开始；写好有点难，也许遇到种种问题：技艺的，阅历的，常识的，感觉的……<br><br>这份写作书单，好奇者、初学者、进阶者、职业创作者，都可以读。一个建议：不管有没有天赋，热爱写作，开始写就是了。"
+        },
+        "recommends": [
+          "poetry",
+          "communication"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502462382-0.png"
+        }
+      },
+      "title": "写作也有套路？6本写作书告诉你怎么开始写"
+    },
+    {
+      "desc": "人人都是摄影师的时代，你会被什么样的照片打动？\n",
+      "link": "/book/special/photography",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "7.1 分 / 荒木经惟 著 / 阿夜 译 / 广西师范大学出版社 / 2013-10",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s27102410.jpg"
+              },
+              "title": "漫步东京"
+            },
+            "sku_id": 117677,
+            "promote_desc": "满48元包邮",
+            "price": "58.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>荒木经惟，那个以作品离经叛道，惊世骇俗著称的天才摄影师，1972年，他离开电通，正式以摄影师为业，开始拍摄东京街景。<br> “女性是最棒的，街道也是最棒的”，这本书里有荒木漫步定睛拍下的老街巷弄、住宅街、目的，是“漫步”和“街道纪实摄影”的极致之作。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "漫步东京",
+            "url": "https://book.douban.com/subject/25731397/",
+            "subject_id": "25731397",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=117677",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "46.40"
+          },
+          {
+            "info": {
+              "meta": "8.5 分 / 阮义忠 著 /  九州出版社 / 2017-3",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29345425.jpg"
+              },
+              "title": "人与土地"
+            },
+            "sku_id": 148543,
+            "promote_desc": "满48元包邮",
+            "price": "58.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>中国摄影教父阮义忠的摄影经典代表作，从70年代开始，他走访台湾大大小小的角落，记录下乡民最朴素的日常。<br>这里有阮义忠温柔简净的文字，也与深情细腻的镜头，讲述人与土地的故事。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "人与土地",
+            "url": "https://book.douban.com/subject/26945331/",
+            "subject_id": "26945331",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=148543",
+            "stock": 60,
+            "is_campaign": false,
+            "promote_price": "46.40"
+          },
+          {
+            "info": {
+              "meta": "8.0 分 / 范毅舜 著 /  江西人民出版社 / 2015-12",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s28352739.jpg"
+              },
+              "title": "山丘上的修道院"
+            },
+            "sku_id": 165956,
+            "promote_desc": "满48元包邮",
+            "price": "98.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>柯布西耶，一位无神论者西方建筑泰斗，为欧洲培养神职人员的古老宗教团体设计了一座修道院，它会是什么样子的？<br>范毅舜，来自东方的教徒兼摄影家，从人物开是娓娓道来讲述这座建筑的故事，拍下了静默又令人心醉的风景，整本书就像一部流畅优美的纪录片。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "山丘上的修道院",
+            "url": "https://book.douban.com/subject/26676586/",
+            "subject_id": "26676586",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=165956",
+            "stock": 4,
+            "is_campaign": false,
+            "promote_price": "78.40"
+          },
+          {
+            "info": {
+              "meta": "9.2 分 / [日]星野道夫 著 / 游韵馨 译 / 广西师范大学出版社 / 2016-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s28373253.jpg"
+              },
+              "title": "永恒的时光之旅"
+            },
+            "sku_id": 156436,
+            "promote_desc": "满48元包邮",
+            "price": "79.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>星野道夫，他把人生中最重要的岁月献给了北极之地，而这里也成了他的安眠之所。<br>这本书收录他之前没有公开的摄影作品和西伯利亚绝笔日记，北美驯鹿、北极熊、座头鲸、爱斯基摩人的部落，在朴素的笔下，和呈现出原始之美的镜头里，又都是饱含深情 。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "永恒的时光之旅",
+            "url": "https://book.douban.com/subject/26698223/",
+            "subject_id": "26698223",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=156436",
+            "stock": 20,
+            "is_campaign": false,
+            "promote_price": "63.20"
+          },
+          {
+            "info": {
+              "meta": "8.7 分 / [美]史蒂夫·麦凯瑞 著 / 后浪艺术编辑部 译 / 后浪丨北京联合出版公司 / 2017-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29183355.jpg"
+              },
+              "title": "人像"
+            },
+            "sku_id": 154102,
+            "promote_desc": "满48元包邮",
+            "price": "128.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>史蒂夫·麦凯瑞，当代最著名的摄影师之一。1986年加入玛格南图片社。以照片《阿富汗女孩》而闻名世界，曾获得过无数摄影奖项。<br>这本书收录他30年间拍摄的最重要一批肖像摄影作品，每张作品都有着油画版的质感，集中展示了那些转瞬即逝又摄人心魂的瞬间。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "人像",
+            "url": "https://book.douban.com/subject/26911012/",
+            "subject_id": "26911012",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=154102",
+            "stock": 23,
+            "is_campaign": false,
+            "promote_price": "102.40"
+          },
+          {
+            "info": {
+              "meta": "8.2 分 / 杉本博司 著 / 黄亚纪 译 / 广西师范大学出版社 / 2012-5-1",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s27977899.jpg"
+              },
+              "title": "直到长出青苔"
+            },
+            "sku_id": 157935,
+            "promote_desc": "满48元包邮",
+            "price": "68.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>杉本博司，日本著名的摄影家，也是被称为是“最后的现代主义者”的人。<br>这本书是杉本博司的代表作合集，收录了自1974年以来所有的代表作品，包括“海景系列”、“肖像系列”、“剧场系列”、“建筑系列”、“博物馆系列”、“布景系列”等，充满东方禅意。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "直到长出青苔",
+            "url": "https://book.douban.com/subject/10738211/",
+            "subject_id": "10738211",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=157935",
+            "stock": 10,
+            "is_campaign": false,
+            "promote_price": "54.40"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "从荒木经惟到杉本博司，7本摄影书里的时光之旅",
+          "cover": "https://img3.doubanio.com/img/files/file-1505453724-1.jpg",
+          "desc": "人人都是摄影师的时代，你会被什么样的照片打动呢？<br><br>荒木经惟，最离经叛道的摄影师；杉本博司，他的照片总是充满禅意，西格玛图片社，见证了图片新闻的黄金时代，记录下了动人心魄的历史……这一期，豆瓣·書挑选了7个顶级摄影师或图片社的代表作，一起来看看，透过镜头的时光之旅。<br><br>也许他们可以，激发你拍摄下一张照片的灵感。"
+        },
+        "recommends": [
+          "architecture",
+          "work"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502462382-0.png"
+        }
+      },
+      "title": "从荒木经惟到杉本博司，7本摄影书里的时光之旅"
+    },
+    {
+      "desc": "有干货，有科普，请按需取用。",
+      "link": "/book/special/copywriting",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "7.7 分 / [美]约瑟夫·休格曼 著 / 杨紫苏、张晓丽 译 / 中信出版社 / 2015-5-1",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29343272.jpg"
+              },
+              "title": "文案训练手册"
+            },
+            "sku_id": 163915,
+            "promote_desc": "满48元包邮",
+            "price": "45.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": false,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>来自文案界传奇人士约瑟夫·休格曼的经验分享。这里的文案，专指有销售功能的营销文案。从了解产品，研究市场，到形成创意，落笔成文，再到打磨定稿，本书讲解了每个环节，从原理到技巧，侧重观念层面。<br> 豆友总结：本书包含“15条写作公理、3个情感原则、23个文案元素、10个平面设计元素、31条心理诱因、13个经典案例、22本推荐书籍”，一个基础型文案工具箱。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "文案训练手册",
+            "url": "https://book.douban.com/subject/26437067/",
+            "subject_id": "26437067",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=163915",
+            "stock": 212,
+            "is_campaign": false,
+            "promote_price": "36.00"
+          },
+          {
+            "info": {
+              "meta": "7.0 分 / [美]劳拉·布朗 著 / 袁婧 译 / 后浪丨江西人民出版社 / 2017-2",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29275895.jpg"
+              },
+              "title": "完全写作指南"
+            },
+            "sku_id": 148840,
+            "promote_desc": "满48元包邮",
+            "price": "78.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>应用写作不难，只要思路清晰，有好方法、好习惯，再加上写作模板，“没什么是你写不了的”。<br>从简历到商务信函，从电子邮件到演讲稿，本书都给出了相应的写作技巧，各类写作都可遵循下列步骤完成：确定目标 → 了解读者 → 头脑风暴 → 组织结构 → 撰写初稿  → 修改定稿。如果缺乏写作基础，也没有过高要求，可以参照使用。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "完全写作指南",
+            "url": "https://book.douban.com/subject/26952635/",
+            "subject_id": "26952635",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=148840",
+            "stock": 91,
+            "is_campaign": false,
+            "promote_price": "62.40"
+          },
+          {
+            "info": {
+              "meta": "7.4 分 / 马楠 著 /  北京理工大学出版社 / 2016-7-20",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29172746.jpg"
+              },
+              "title": "尖叫感：互联网文案创意思维与写作技巧"
+            },
+            "sku_id": 181865,
+            "promote_desc": "满48元包邮",
+            "price": "56.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>本书的豆瓣评分呈现两极分化：力荐的认为，很实用，选取的案例接地气，帮助节约了整理汇编的时间；一星的认为，全书仅是堆砌材料，欠缺逻辑，凌乱而缺乏原创性。<br> 有共识的是，这本书是“优秀文案集锦”。推荐给需要互联网写作参考案例的读者，尤其新媒体小编们。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "尖叫感：互联网文案创意思维与写作技巧",
+            "url": "https://book.douban.com/subject/26921845/",
+            "subject_id": "26921845",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=181865",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "44.80"
+          },
+          {
+            "info": {
+              "meta": "7.2 分 / [美]乔纳森·歌德夏 著 / 许雅淑、李宗义 译 / 中信出版集团 / 2017-4",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s29434272.jpg"
+              },
+              "title": "讲故事的动物：故事造就人类社会"
+            },
+            "sku_id": 197703,
+            "promote_desc": "满48元包邮",
+            "price": "42.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>讲故事是人类的本能之一。从原始社会开始，人就开始讲故事，为了娱乐，记忆，也为了生存，故事造就人类社会。<br>虽然主题是故事，但这本书不讲写作，而主要从脑科学、生物学、心理学、人类学等角度，讲述故事在人类演化过程中扮演的重要角色。今天，故事更多了：电视、电影、游戏、梦境、妄想……功能也更多：管理工具，品牌工具，传播工具，等等。在本专题，本书作为一本科普书，不能直接应用，却可以帮助解释很多问题。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "讲故事的动物：故事造就人类社会",
+            "url": "https://book.douban.com/subject/26997229/",
+            "subject_id": "26997229",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=197703",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "33.60"
+          },
+          {
+            "info": {
+              "meta": "6.9 分 / [美]安妮特·西蒙斯（AnnetteSimmons） 著 / 俞沈彧 译 / 后浪丨江西人民出版社 / 2017-3",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s29331629.jpg"
+              },
+              "title": "故事思维"
+            },
+            "sku_id": 147753,
+            "promote_desc": "满48元包邮",
+            "price": "45.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>故事如此重要，故事思维无处不在。《故事思维》将故事思维应用于商界，作者提出商务沟通中常用的6大故事模板，以及相应的讲述技巧，情景策略。<br>答案授人以鱼，故事授人以渔。本书的分享，在技能和思维两个层面，都有价值。",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "故事思维",
+            "url": "https://book.douban.com/subject/26969935/",
+            "subject_id": "26969935",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=147753",
+            "stock": 300,
+            "is_campaign": false,
+            "promote_price": "36.00"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "从广告到互联网，创意人的6个写作工具箱",
+          "cover": "https://img3.doubanio.com/img/files/file-1504881375-0.jpg",
+          "desc": "日常工作中，与写作有关的词，文案出现的频率，可能远超过文章。<br><br>如果你是职业人，市场、品牌、营销、公关、销售、运营……几乎没有哪个环节能绕过文案；如果是创业者或自由职业者，那更要懂得写文案。<br><br>本期专题的6本书，和文案写作、故事思维有关。有干货，有科普，请按需取用。"
+        },
+        "recommends": [
+          "writing",
+          "poetry"
+        ],
+        "neck": {},
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502462382-0.png"
+        }
+      },
+      "title": "从广告到互联网，创意人的6个写作工具箱"
+    },
+    {
+      "desc": "诗歌就像是语言给人类的犒赏。",
+      "link": "/book/special/poetry",
+      "detail": {
+        "cards": [
+          {
+            "info": {
+              "meta": "8.6 分 / [叙利亚]阿多尼斯 著 / 薛庆国 译 / 译林出版社 / 2009-3",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s3679561.jpg"
+              },
+              "title": "我的孤独是一座花园"
+            },
+            "sku_id": 115877,
+            "promote_desc": "满48元包邮",
+            "price": "28.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>阿多尼斯是阿拉伯国家中最负盛名的诗人，也是多年来诺贝尔奖的热门人选。他曾在诗歌中宣称，“我真正的祖国，是阿拉伯语。”<br>《我的孤独是一座花园》是蜚声世界的一本诗集。收录了诗人从上世纪50年代“最初的诗”到2008年的作品，时间跨越半个世纪。书中闪耀着迷人光芒的句子俯拾皆是，他在诗句里说，“我的孤独是一座花园，但其中只有一颗树。”",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "我的孤独是一座花园",
+            "url": "https://book.douban.com/subject/3597825/",
+            "subject_id": "3597825",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=115877",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "22.40"
+          },
+          {
+            "info": {
+              "meta": "8.2 分 / [波]维斯拉瓦·辛波斯卡 著 / 胡桑 译 / 湖南文艺出版社 / 2014-2",
+              "cover": {
+                "url": "https://img1.doubanio.com/view/subject/l/public/s27190638.jpg"
+              },
+              "title": "我曾这样寂寞生活：辛波斯卡诗选2"
+            },
+            "sku_id": 157177,
+            "promote_desc": "满48元包邮",
+            "price": "30.00",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>辛波斯卡，这位诺贝尔奖得主的诗歌里有无尽的对生活、对世界的爱。米沃什曾经说，辛波斯卡的诗，“涉及每个人从自己生活中得知的一切。”<br>这本诗集收录了80首隽永的诗歌，没有宏大的叙事，专注于细微、平实的日常生活和世界，在诗句之中，你可能会渐渐明白她的“我偏爱写诗的荒谬，胜过不写诗的荒谬。”",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "我曾这样寂寞生活：辛波斯卡诗选2",
+            "url": "https://book.douban.com/subject/25801080/",
+            "subject_id": "25801080",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=157177",
+            "stock": 0,
+            "is_campaign": false,
+            "promote_price": "24.00"
+          },
+          {
+            "info": {
+              "meta": "8.3 分 / [智利]巴勃罗·聂鲁达 著 / 陈黎、张芬龄 译 / 南海出版公司 / 2014-6",
+              "cover": {
+                "url": "https://img3.doubanio.com/view/subject/l/public/s27313674.jpg"
+              },
+              "title": "二十首情诗和一首绝望的歌"
+            },
+            "sku_id": 155825,
+            "promote_desc": "满48元包邮",
+            "price": "39.50",
+            "labels": [
+              {
+                "color": "#E76648",
+                "text": "8折"
+              }
+            ],
+            "is_current": true,
+            "is_pre_sale": false,
+            "desc": "<b>推荐理由：</b>聂鲁达，二十世纪最伟大的诗人之一，马尔克斯说他，“凡他触摸的东西，都会变成诗歌。”<br>《二十首情诗和一首绝望的歌》更是不可错过的经典，充满了炽热的激情和不可思议的想象，在这里，“包含爱情的一切元素， 穷尽爱情的一切表达。”",
+            "is_onsale": true,
+            "is_debut": false,
+            "title": "二十首情诗和一首绝望的歌",
+            "url": "https://book.douban.com/subject/25858680/",
+            "subject_id": "25858680",
+            "checkout_url": "https://market.douban.com/cart/checkout/?sku_id=155825",
+            "stock": 393,
+            "is_campaign": false,
+            "promote_price": "31.60"
+          }
+        ],
+        "header": {
+          "account": "doubanshudian",
+          "title": "遇见一首好诗的幸福，这些让人拿起就放不下的诗集",
+          "cover": "https://img3.doubanio.com/img/files/file-1504503035-1.jpg",
+          "desc": "诗歌就像是语言给人类的犒赏，遇见一首好诗，就像遇见一个久别重逢的朋友，可以开怀畅饮、促膝长谈，也可以放下疲惫，在词语间感受到幸福。<br><br>聂鲁达、波拉尼奥、阿多尼斯、辛波斯卡……你曾经被他们击中过吗？这一期书单，豆瓣·書整理了这些高分诗集，来和我们一起分享阅读诗歌的喜悦，走进诗人们的秘密花园。<br><br>一个互动：哪本诗集，曾让你爱不释手过？"
+        },
+        "recommends": [
+          "beauty",
+          "cat"
+        ],
+        "neck": {
+          "iamge": "https://img3.doubanio.com/img/files/file-1502175073-0.png"
+        },
+        "footer": {
+          "image": "https://img3.doubanio.com/img/files/file-1502850523-0.png"
+        }
+      },
+      "title": "遇见一首好诗的幸福，这些让人拿起就放不下的诗集"
+    }
+  ]
+}
