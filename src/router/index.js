@@ -10,6 +10,7 @@ import Photo from '@/components/photo/Photo'
 import MusicList from '@/components/music/MusicList'
 import MusicAlbums from '@/components/music/MusicAlbums'
 import PhotoList from '@/components/photo/PhotoList'
+import BookList from '@/components/book/BookList'
 
 Vue.use(Router)
 
@@ -49,6 +50,13 @@ export default new Router({
     },{
       path:'/book',
       component:Book,
+      redirect:'/book/bookList',
+      children:[
+        {
+          path:'bookList',
+          component:BookList
+        }
+      ]
     },{
       path:'/photo',
       component:Photo,
