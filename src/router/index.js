@@ -11,6 +11,7 @@ import MusicList from '@/components/music/MusicList'
 import MusicAlbums from '@/components/music/MusicAlbums'
 import PhotoList from '@/components/photo/PhotoList'
 import BookList from '@/components/book/BookList'
+import BookDetail from '@/components/book/BookDetail'
 
 Vue.use(Router)
 
@@ -55,6 +56,9 @@ export default new Router({
         {
           path:'bookList',
           component:BookList
+        },{
+          path:'bookDetail',
+          component:BookDetail
         }
       ]
     },{

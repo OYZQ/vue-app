@@ -45,6 +45,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 #### 书籍模块
 
 ![book](https://github.com/OYZQ/vue-app/blob/master/static/img/book.png)
+![bookDetail](https://github.com/OYZQ/vue-app/blob/master/static/img/bookDetail.png)
 
 #### 图片模块
 

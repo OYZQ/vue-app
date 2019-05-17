@@ -9,7 +9,7 @@
             <div class="nav">
                 <h3>活动</h3>
             </div>
-            <div class="center">
+            <div class="center" @click="goDeatil">
                 <div class="content ">
                     <div class="content-img">
                         <div class="mb">
@@ -27,7 +27,7 @@
                     </div>
                 </div>
             </div>
-            <div class="center">
+            <div class="center" @click="goDeatil">
                 <div class="content ">
                     <div class="content-img" style="background-image: url('https://img3.doubanio.com/view/freyr_page_photo/raw/public/2262.jpg');">
                         <div class="mb">
@@ -45,7 +45,7 @@
                     </div>
                 </div>
             </div>
-            <div class="center">
+            <div class="center" @click="goDeatil">
                 <div class="content ">
                     <div class="content-img" style="background-image: url('https://img1.doubanio.com/view/freyr_page_photo/raw/public/2178.jpg');">
                         <div class="mb">
@@ -63,7 +63,7 @@
                     </div>
                 </div>
             </div>
-            <div class="center">
+            <div class="center" @click="goDeatil">
                 <div class="content ">
                     <div class="content-img">
                         <div class="mb">
@@ -81,7 +81,7 @@
                     </div>
                 </div>
             </div>
-            <div class="center">
+            <div class="center" @click="goDeatil">
                 <div class="content ">
                     <div class="content-img" style="background-image: url('https://img3.doubanio.com/view/freyr_page_photo/raw/public/2262.jpg');">
                         <div class="mb">
@@ -99,7 +99,7 @@
                     </div>
                 </div>
             </div>
-            <div class="center">
+            <div class="center" @click="goDeatil">
                 <div class="content ">
                     <div class="content-img" style="background-image: url('https://img1.doubanio.com/view/freyr_page_photo/raw/public/2178.jpg');">
                         <div class="mb">
@@ -133,6 +133,11 @@
             CommonFooter,
             'swipe': Swipe,
             'swipe-item': SwipeItem
+        },
+        methods:{
+            goDeatil(){
+                this.$router.push('/book/bookDetail')
+            }
         }
     }
 </script>
